@@ -1,11 +1,11 @@
-name: Update Synnex News
+name: Update CFO Financial News
 
 # Runs on a schedule (server-side, inside GitHub's own infrastructure —
 # not the browser, so there is no CORS restriction here at all) and can
 # also be triggered manually from the Actions tab.
 on:
   schedule:
-    - cron: '0 1,7 * * *'   # 08:00 and 14:00 ICT (UTC+7) — twice a day
+    - cron: '0 1,12 * * *'  # 08:00 and 19:00 ICT (UTC+7) — twice a day
   workflow_dispatch: {}
 
 permissions:
@@ -18,22 +18,22 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch news relevant to a Synnex Thailand CFO
+      - name: Fetch general financial news a CFO should know today
         run: |
           mkdir -p /tmp/feeds
 
-          # Multiple targeted queries instead of one narrow one. A company the size of
-          # Synnex doesn't make daily headlines, so a CFO-relevant feed needs to also
-          # cover: the company/stock directly, the IT distribution industry in Thailand,
-          # competitors, and USD/THB (a direct cost driver for an importer/distributor).
-          # Running several queries and merging results makes "zero results today" rare
-          # without diluting relevance — each query is still narrowly on-topic.
+          # General financial/economic news, not company-specific — Thai economy,
+          # global markets, USD/THB, and IT/AI industry trends — restricted to the
+          # last 2 days (when:2d) so results stay genuinely "today or yesterday"
+          # even across the two daily run times (08:00 / 14:00 ICT).
           declare -a QUERIES=(
-            "Synnex Thailand OR SYNEX SET OR \"บริษัท ซินเน็ค\""
-            "ตลาด IT ไทย OR \"ผู้จัดจำหน่ายไอที\" Thailand distributor technology"
-            "SiS Distribution Thailand OR Ingram Micro Thailand"
-            "ค่าเงินบาท ดอลลาร์ OR USD THB exchange rate Thailand"
+            "เศรษฐกิจไทย OR ธนาคารแห่งประเทศไทย OR ตลาดหุ้นไทย when:2d"
+            "ตลาดหุ้นโลก OR Fed OR อัตราดอกเบี้ย OR inflation global markets when:2d"
+            "ค่าเงินบาท ดอลลาร์ OR USD THB exchange rate when:2d"
+            "เทคโนโลยี AI OR อุตสาหกรรม IT ไทย OR artificial intelligence technology industry when:2d"
           )
+
+          CATEGORY_LABELS=("เศรษฐกิจไทย" "ตลาดโลก" "อัตราแลกเปลี่ยน" "เทคโนโลยี/AI")
 
           INDEX=0
           for QUERY in "${QUERIES[@]}"; do
@@ -52,14 +52,7 @@ jobs:
           from datetime import datetime, timezone
           from email.utils import parsedate_to_datetime
 
-          # Category labels, in the same order as the QUERIES array above, so each
-          # item can carry a tag showing *why* it's relevant to a Synnex CFO.
-          CATEGORY_LABELS = [
-              "Synnex",
-              "อุตสาหกรรม IT",
-              "คู่แข่ง",
-              "อัตราแลกเปลี่ยน"
-          ]
+          CATEGORY_LABELS = ["เศรษฐกิจไทย", "ตลาดโลก", "อัตราแลกเปลี่ยน", "เทคโนโลยี/AI"]
 
           seen_links = set()
           all_items = []
@@ -73,7 +66,7 @@ jobs:
                   continue  # skip a feed that failed to fetch/parse, don't crash the whole run
 
               root = tree.getroot()
-              for item in root.findall('./channel/item')[:5]:
+              for item in root.findall('./channel/item')[:6]:
                   link = item.findtext('link') or ''
                   if not link or link in seen_links:
                       continue  # de-duplicate the same story appearing in multiple queries
@@ -103,16 +96,15 @@ jobs:
           for item in all_items:
               del item["_sortDate"]
 
-          final_items = all_items[:10]
+          final_items = all_items[:14]
 
           output = {
               "updatedAt": datetime.now(timezone.utc).isoformat(),
               "items": final_items
           }
 
-          # If this run genuinely found nothing across every query (rare, but possible on
-          # a quiet news day), keep the previous file's items rather than wiping the list
-          # to empty — stale-but-real news beats an empty screen.
+          # If this run genuinely found nothing across every query (rare, but possible),
+          # keep the previous file's items rather than wiping the list to empty.
           if not final_items:
               try:
                   with open('news-data.json', 'r', encoding='utf-8') as f:
@@ -134,5 +126,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news-data.json
-          git diff --quiet --cached || git commit -m "Update Synnex CFO news digest [automated]"
+          git diff --quiet --cached || git commit -m "Update CFO financial news digest [automated]"
           git push
