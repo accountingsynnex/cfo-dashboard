@@ -664,24 +664,28 @@ footer{
   <!-- ===================================================== -->
   <div class="section" id="line-summary">
     <div class="section-head">
-      <h2>สรุปข้อความกลุ่ม LINE</h2>
-      <p>สรุปประเด็นสำคัญจากกลุ่ม LINE — อัปเดตทุกวันเวลา 12:00 น. โดย AI</p>
+      <h2>วิเคราะห์ทิศทาง USD/THB จากกลุ่มธนาคาร</h2>
+      <p>สังเคราะห์มุมมองจากกลุ่ม LINE ของธนาคารต่างๆ — อัปเดตทุกวันเวลา 12:00 น. โดย AI</p>
+    </div>
+
+    <div class="card-lg" id="usdDirectionCard" style="margin-bottom:16px;text-align:center;padding:32px 24px;">
+      <div id="usdDirectionBig">กำลังโหลด...</div>
     </div>
 
     <div class="card-lg">
       <div class="section-head news-section-head" style="margin-bottom:16px;">
         <div>
-          <h2 style="font-size:16px;">สรุปล่าสุด</h2>
+          <h2 style="font-size:16px;">มุมมองแยกตามธนาคาร/แหล่งข้อมูล</h2>
           <p id="lineSummaryUpdated">กำลังโหลด...</p>
         </div>
       </div>
 
       <div id="lineSummaryList">
-        <div class="news-loading">กำลังโหลดสรุปล่าสุด...</div>
+        <div class="news-loading">กำลังโหลดข้อมูล...</div>
       </div>
 
       <div class="disclosure" style="margin-top:16px;">
-        สรุปข้อความจากกลุ่ม LINE โดย Gemini AI — อัปเดตอัตโนมัติทุกวันเวลา 12:00 น.
+        วิเคราะห์จากข้อความในกลุ่ม LINE โดย Gemini AI — เป็นการสังเคราะห์มุมมองเท่านั้น ไม่ใช่คำแนะนำการลงทุน กรุณาใช้วิจารณญาณประกอบการตัดสินใจ อัปเดตอัตโนมัติทุกวันเวลา 12:00 น.
       </div>
     </div>
   </div>
@@ -997,10 +1001,12 @@ function resetGitHubToken() {
   }
 }
 
-/* ============ LINE SUMMARY: อ่าน line-summary.json ============ */
+/* ============ USD/THB DIRECTION ANALYSIS: อ่าน line-summary.json ============ */
 async function fetchLineSummary() {
   const listEl = document.getElementById('lineSummaryList');
   const updatedEl = document.getElementById('lineSummaryUpdated');
+  const bigEl = document.getElementById('usdDirectionBig');
+
   try {
     const res = await fetch('data/line-summary.json?t=' + Date.now());
     if (!res.ok) throw new Error('not found');
@@ -1011,23 +1017,62 @@ async function fetchLineSummary() {
       updatedEl.textContent = 'อัปเดตล่าสุด: ' + d.toLocaleString('th-TH', { timeZone: 'Asia/Bangkok' });
     }
 
-    const summaries = data.summaries || [];
-    if (summaries.length === 0) {
-      listEl.innerHTML = '<div class="news-empty">ยังไม่มีสรุปข้อความ — รอบสรุปถัดไปเวลา 12:00 น.</div>';
+    const analysis = data.analysis;
+    if (!analysis || !analysis.overall_direction) {
+      bigEl.innerHTML = '<div class="news-empty">ยังไม่มีข้อมูลวิเคราะห์ — รอบถัดไปเวลา 12:00 น.</div>';
+      listEl.innerHTML = '';
       return;
     }
 
-    listEl.innerHTML = summaries.map(s => `
-      <div style="padding:14px 0;border-bottom:1px solid var(--card-border);">
-        <div style="font-size:12px;color:var(--text-faint);margin-bottom:6px;">
-          กลุ่ม: ${s.groupId} · ${s.messageCount} ข้อความ
-        </div>
-        <div style="font-size:14px;color:var(--text-primary);line-height:1.7;white-space:pre-wrap;">${s.summary}</div>
+    // กำหนดสี/ไอคอนตามทิศทาง
+    const directionMap = {
+      'ขึ้น':   { icon: '📈', color: 'var(--red)',   bg: 'var(--red-bg)' },
+      'ลง':     { icon: '📉', color: 'var(--green)', bg: 'var(--green-bg)' },
+      'ทรงตัว': { icon: '➡️', color: 'var(--text-label)', bg: 'var(--card-fill)' },
+    };
+    const dirInfo = directionMap[analysis.overall_direction] || { icon: '❓', color: 'var(--text-label)', bg: 'var(--card-fill)' };
+
+    // หัวข้อใหญ่บนสุด
+    bigEl.innerHTML = `
+      <div style="font-size:15px;color:var(--text-faint);margin-bottom:8px;">คาดการณ์ทิศทาง USD/THB</div>
+      <div style="font-size:48px;font-weight:700;color:${dirInfo.color};margin-bottom:8px;">
+        ${dirInfo.icon} ${analysis.overall_direction}
       </div>
-    `).join('');
+      ${analysis.target_range && analysis.target_range !== 'ไม่มีตัวเลขชัดเจน' ?
+        `<div style="font-size:22px;font-weight:600;color:var(--text-primary);margin-bottom:16px;">${analysis.target_range} บาท</div>` : ''}
+      <div style="font-size:14px;color:var(--text-label);max-width:640px;margin:0 auto;line-height:1.7;">
+        ${analysis.overall_summary || ''}
+      </div>
+      <div style="margin-top:16px;">
+        <span style="font-size:12px;padding:4px 12px;border-radius:20px;background:${dirInfo.bg};color:${dirInfo.color};font-weight:600;">
+          ความเชื่อมั่น: ${analysis.confidence || '—'}
+        </span>
+      </div>
+    `;
+
+    // รายละเอียดแยกตามธนาคาร
+    const bySource = analysis.by_source || [];
+    if (bySource.length === 0) {
+      listEl.innerHTML = '<div class="news-empty">ไม่มีรายละเอียดแยกตามแหล่งข้อมูล</div>';
+      return;
+    }
+
+    listEl.innerHTML = bySource.map(s => {
+      const srcDir = directionMap[s.view] || { icon: '❓', color: 'var(--text-label)' };
+      return `
+        <div style="padding:14px 0;border-bottom:1px solid var(--card-border);">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:8px;">
+            <div style="font-size:14px;font-weight:600;color:var(--text-primary);">${s.source}</div>
+            <div style="font-size:13px;font-weight:600;color:${srcDir.color};">${srcDir.icon} ${s.view}${s.target_range && s.target_range !== 'ไม่ระบุ' ? ' · ' + s.target_range : ''}</div>
+          </div>
+          <div style="font-size:13px;color:var(--text-label);line-height:1.6;">${s.reasoning || ''}</div>
+        </div>
+      `;
+    }).join('');
 
   } catch (e) {
-    listEl.innerHTML = '<div class="news-empty">ยังไม่มีข้อมูลสรุป — รอบสรุปแรกจะเริ่มเวลา 12:00 น. หลังจากเพิ่มบอทเข้ากลุ่ม LINE แล้ว</div>';
+    bigEl.innerHTML = '<div class="news-empty">ยังไม่มีข้อมูลวิเคราะห์ — รอบแรกจะเริ่มเวลา 12:00 น. หลังจากเพิ่มบอทเข้ากลุ่ม LINE แล้ว</div>';
+    listEl.innerHTML = '';
     updatedEl.textContent = '';
   }
 }
