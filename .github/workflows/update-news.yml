@@ -31,9 +31,10 @@ jobs:
             "ตลาดหุ้นโลก OR Fed OR อัตราดอกเบี้ย OR inflation global markets when:2d"
             "ค่าเงินบาท ดอลลาร์ OR USD THB exchange rate when:2d"
             "เทคโนโลยี AI OR ปัญญาประดิษฐ์ Thailand when:2d"
+            "Synnex OR \"บริษัท ซินเน็ค\" OR SYNEX when:7d"
           )
 
-          CATEGORY_LABELS=("เศรษฐกิจไทย" "ตลาดโลก" "อัตราแลกเปลี่ยน" "เทคโนโลยี/AI")
+          CATEGORY_LABELS=("เศรษฐกิจไทย" "ตลาดโลก" "อัตราแลกเปลี่ยน" "เทคโนโลยี/AI" "ข่าว Synnex")
 
           INDEX=0
           for QUERY in "${QUERIES[@]}"; do
@@ -52,7 +53,7 @@ jobs:
           from datetime import datetime, timezone
           from email.utils import parsedate_to_datetime
 
-          CATEGORY_LABELS = ["เศรษฐกิจไทย", "ตลาดโลก", "อัตราแลกเปลี่ยน", "เทคโนโลยี/AI"]
+          CATEGORY_LABELS = ["เศรษฐกิจไทย", "ตลาดโลก", "อัตราแลกเปลี่ยน", "เทคโนโลยี/AI", "ข่าว Synnex"]
 
           # Gambling/spam SEO sites frequently piggyback on finance/exchange-rate
           # searches (a well-known Google News RSS issue). Filter out anything whose
@@ -129,19 +130,24 @@ jobs:
           # if its items happen to be a few hours older than a flood of items from
           # other categories on a given run (e.g. finance news publishing more
           # frequently than IT/AI news on any given day).
-          MIN_PER_CATEGORY = 3
-          MAX_TOTAL = 14
+          # Synnex company news publishes less often than general finance news, so
+          # it gets its own (lower) minimum rather than sharing the default of 3 —
+          # but it's still guaranteed at least 2 whenever any exist in the feed.
+          MIN_PER_CATEGORY_DEFAULT = 3
+          MIN_PER_CATEGORY_OVERRIDES = {"ข่าว Synnex": 2}
+          MAX_TOTAL = 16
 
           guaranteed = []
           seen_in_guaranteed = set()
           for label in CATEGORY_LABELS:
+              min_for_label = MIN_PER_CATEGORY_OVERRIDES.get(label, MIN_PER_CATEGORY_DEFAULT)
               count = 0
               for item in all_items:
                   if item["category"] == label and item["link"] not in seen_in_guaranteed:
                       guaranteed.append(item)
                       seen_in_guaranteed.add(item["link"])
                       count += 1
-                      if count >= MIN_PER_CATEGORY:
+                      if count >= min_for_label:
                           break
 
           remaining_slots = MAX_TOTAL - len(guaranteed)
