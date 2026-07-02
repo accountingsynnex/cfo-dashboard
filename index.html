@@ -496,7 +496,7 @@ footer{
   <div class="nav-links">
     <a class="nav-link" href="#company">Company</a>
     <a class="nav-link" href="#fx">FX Monitor</a>
-    <a class="nav-link" href="#calculator">Calculator</a>
+    <a class="nav-link" href="#line-summary">สรุปไลน์</a>
     <button class="theme-toggle-btn" id="themeToggleBtn" onclick="toggleTheme()" title="สลับโหมดกลางคืน/กลางวัน">
       <span id="themeToggleIcon">🌙</span>
     </button>
@@ -660,73 +660,28 @@ footer{
   </div>
 
   <!-- ===================================================== -->
-  <!-- SECTION: CALCULATOR -->
+  <!-- SECTION: LINE GROUP SUMMARY -->
   <!-- ===================================================== -->
-  <div class="section" id="calculator">
+  <div class="section" id="line-summary">
     <div class="section-head">
-      <h2>FX Exposure &amp; Forward Calculator</h2>
-      <p>คำนวณ Forward ที่ต้องซื้อเพิ่มและ Hedge Ratio ปัจจุบัน</p>
+      <h2>สรุปข้อความกลุ่ม LINE</h2>
+      <p>สรุปประเด็นสำคัญจากกลุ่ม LINE — อัปเดตทุกวันเวลา 12:00 น. โดย AI</p>
     </div>
 
-    <div class="grid2">
-      <div class="card-lg">
-        <div class="section-head" style="margin-bottom:16px;">
-          <h2 style="font-size:16px;">Input</h2>
-        </div>
-
-        <div class="calc-field-row">
-          <div class="calc-field">
-            <label>Budget Rate (THB/USD)</label>
-            <input type="number" id="calcBudgetRate" value="36.50" step="0.01">
-          </div>
-          <div class="calc-field">
-            <label>USD Payable / เดือน (ล้าน USD)</label>
-            <input type="number" id="calcUsdPayable" value="5.0" step="0.1">
-          </div>
-        </div>
-        <div class="calc-field-row">
-          <div class="calc-field">
-            <label>Forward ที่ทำไว้แล้ว (ล้าน USD)</label>
-            <input type="number" id="calcForwardDone" value="2.0" step="0.1">
-          </div>
-          <div class="calc-field">
-            <label>Target Hedge Ratio (%)</label>
-            <input type="number" id="calcTargetHedge" value="90" step="1">
-          </div>
-        </div>
-
-        <div class="action-plan" id="calcActionPlan">
-          <strong>Action:</strong> กำลังคำนวณ...
+    <div class="card-lg">
+      <div class="section-head news-section-head" style="margin-bottom:16px;">
+        <div>
+          <h2 style="font-size:16px;">สรุปล่าสุด</h2>
+          <p id="lineSummaryUpdated">กำลังโหลด...</p>
         </div>
       </div>
 
-      <div class="card-lg">
-        <div class="section-head" style="margin-bottom:16px;">
-          <h2 style="font-size:16px;">ผลคำนวณ</h2>
-        </div>
+      <div id="lineSummaryList">
+        <div class="news-loading">กำลังโหลดสรุปล่าสุด...</div>
+      </div>
 
-        <div class="calc-result-grid">
-          <div class="calc-result-box">
-            <div class="calc-result-label">Forward ต้องซื้อเพิ่ม</div>
-            <div class="calc-result-val" id="calcForwardNeeded">—</div>
-            <div class="calc-result-note">ล้าน USD</div>
-          </div>
-          <div class="calc-result-box">
-            <div class="calc-result-label">Hedge Ratio ปัจจุบัน</div>
-            <div class="calc-result-val" id="calcHedgeRatio">—</div>
-            <div class="calc-result-note">% ของ Exposure</div>
-          </div>
-          <div class="calc-result-box">
-            <div class="calc-result-label">THB ที่ต้องใช้เพิ่ม</div>
-            <div class="calc-result-val" id="calcThbNeeded">—</div>
-            <div class="calc-result-note">ล้านบาท (ที่ Budget Rate)</div>
-          </div>
-          <div class="calc-result-box">
-            <div class="calc-result-label">Risk ถ้าไม่ Hedge (±0.50)</div>
-            <div class="calc-result-val calc-val-red" id="calcRisk">—</div>
-            <div class="calc-result-note">ล้านบาท ต่อเดือน</div>
-          </div>
-        </div>
+      <div class="disclosure" style="margin-top:16px;">
+        สรุปข้อความจากกลุ่ม LINE โดย Gemini AI — อัปเดตอัตโนมัติทุกวันเวลา 12:00 น.
       </div>
     </div>
   </div>
@@ -1062,6 +1017,42 @@ async function triggerNewsWorkflow(){
     btn.disabled = false;
   }
 }
+
+/* ============ LINE SUMMARY: อ่าน line-summary.json ============ */
+async function fetchLineSummary() {
+  const listEl = document.getElementById('lineSummaryList');
+  const updatedEl = document.getElementById('lineSummaryUpdated');
+  try {
+    const res = await fetch('data/line-summary.json?t=' + Date.now());
+    if (!res.ok) throw new Error('not found');
+    const data = await res.json();
+
+    if (data.updated) {
+      const d = new Date(data.updated);
+      updatedEl.textContent = 'อัปเดตล่าสุด: ' + d.toLocaleString('th-TH', { timeZone: 'Asia/Bangkok' });
+    }
+
+    const summaries = data.summaries || [];
+    if (summaries.length === 0) {
+      listEl.innerHTML = '<div class="news-empty">ยังไม่มีสรุปข้อความ — รอบสรุปถัดไปเวลา 12:00 น.</div>';
+      return;
+    }
+
+    listEl.innerHTML = summaries.map(s => `
+      <div style="padding:14px 0;border-bottom:1px solid var(--card-border);">
+        <div style="font-size:12px;color:var(--text-faint);margin-bottom:6px;">
+          กลุ่ม: ${s.groupId} · ${s.messageCount} ข้อความ
+        </div>
+        <div style="font-size:14px;color:var(--text-primary);line-height:1.7;white-space:pre-wrap;">${s.summary}</div>
+      </div>
+    `).join('');
+
+  } catch (e) {
+    listEl.innerHTML = '<div class="news-empty">ยังไม่มีข้อมูลสรุป — รอบสรุปแรกจะเริ่มเวลา 12:00 น. หลังจากเพิ่มบอทเข้ากลุ่ม LINE แล้ว</div>';
+    updatedEl.textContent = '';
+  }
+}
+fetchLineSummary();
 </script>
 
 </body>
