@@ -924,6 +924,55 @@ function copySynnexNewsPrompt(btn){
   });
 }
 
+/* ============ AUTO-POLL: after triggering, wait for news-data.json to actually update, then refresh in place ============ */
+let newsPollTimer = null;
+
+function stopNewsPoll(){
+  if(newsPollTimer){
+    clearInterval(newsPollTimer);
+    newsPollTimer = null;
+  }
+}
+
+async function getNewsUpdatedAt(){
+  try{
+    const res = await fetch('news-data.json?t=' + Date.now());
+    if(!res.ok) return null;
+    const data = await res.json();
+    return data.updatedAt || null;
+  }catch(err){
+    return null;
+  }
+}
+
+async function pollForNewsUpdate(baselineUpdatedAt){
+  stopNewsPoll(); // avoid stacking multiple pollers if button is pressed again
+
+  const maxAttempts = 12; // 12 x 10s = 2 minutes
+  let attempts = 0;
+
+  newsPollTimer = setInterval(async () => {
+    attempts++;
+    const latest = await getNewsUpdatedAt();
+
+    if(latest && latest !== baselineUpdatedAt){
+      stopNewsPoll();
+      showTriggerStatus('ข่าวใหม่มาแล้ว! กำลังอัพเดทรายการ...', 'success');
+      await fetchSynnexNews();
+      setTimeout(() => {
+        const statusEl = document.getElementById('triggerNewsStatus');
+        if(statusEl) statusEl.style.display = 'none';
+      }, 4000);
+      return;
+    }
+
+    if(attempts >= maxAttempts){
+      stopNewsPoll();
+      showTriggerStatus('ยังรอ GitHub Actions อยู่ (นานกว่าปกติ) กด "ลองอีกครั้ง" ที่รายการข่าวด้านล่างอีกทีในอีกสักครู่', 'info');
+    }
+  }, 10000);
+}
+
 /* ============ TRIGGER NEWS WORKFLOW: calls GitHub's workflow_dispatch API directly ============ */
 // IMPORTANT: change these two to match your actual GitHub username and repo name.
 // These are not secret (they're just your public repo path) — safe to leave in the file.
@@ -968,6 +1017,9 @@ async function triggerNewsWorkflow(){
   btn.disabled = true;
   showTriggerStatus('กำลังสั่งให้ GitHub Actions ดึงข่าวใหม่...', 'info');
 
+  // Record the current updatedAt BEFORE triggering, so we know what "changed" means once polling starts.
+  const baselineUpdatedAt = await getNewsUpdatedAt();
+
   const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW_FILE}/dispatches`;
 
   try{
@@ -982,7 +1034,8 @@ async function triggerNewsWorkflow(){
     });
 
     if(res.status === 204){
-      showTriggerStatus('สั่งดึงข่าวใหม่สำเร็จ! รอประมาณ 30-60 วินาที แล้วกด "ลองอีกครั้ง" ด้านล่าง หรือรีเฟรชหน้านี้', 'success');
+      showTriggerStatus('สั่งดึงข่าวใหม่สำเร็จ! กำลังรอผล จะอัพเดทให้อัตโนมัติ (ประมาณ 30-60 วินาที)...', 'info');
+      pollForNewsUpdate(baselineUpdatedAt);
     } else if(res.status === 401){
       showTriggerStatus('Token ไม่ถูกต้องหรือหมดอายุ กรุณาลบและใส่ใหม่ (เปิด Console กด localStorage.removeItem("cfo-dashboard-gh-token") แล้วลองใหม่)', 'error');
     } else if(res.status === 403){
