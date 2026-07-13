@@ -190,7 +190,10 @@ button{font-family:inherit;cursor:pointer;}
 .modal-btn{flex:1;padding:11px;border-radius:var(--radius-pill);font-size:13px;font-weight:700;border:none;}
 .modal-btn.cancel{background:var(--card-fill);color:var(--text-primary);border:1.5px solid var(--card-border-lg);}
 .modal-btn.confirm{background:var(--text-primary);color:var(--surface);}
+.modal-btn.danger{background:var(--red-bg);color:var(--red);}
 .modal-btn:hover{opacity:0.9;}
+.modal-btn:disabled{opacity:0.4;cursor:not-allowed;}
+.modal-btn:disabled:hover{opacity:0.4;}
 
 .dropzone-mini{
   border:1.5px dashed var(--card-border-lg);border-radius:var(--radius-sm);
@@ -199,6 +202,7 @@ button{font-family:inherit;cursor:pointer;}
 .dropzone-mini.has-file{border-style:solid;border-color:var(--green);}
 .dropzone-mini .dz-icon{font-size:22px;margin-bottom:6px;}
 .dropzone-mini .dz-text{font-size:12.5px;color:var(--text-label);}
+.hint-mini{font-size:11.5px;color:var(--text-faint);margin:-8px 0 16px;text-align:center;}
 input[type="file"]{display:none;}
 
 .checking-box{display:flex;flex-direction:column;align-items:center;gap:12px;padding:24px 10px;text-align:center;}
@@ -335,6 +339,7 @@ input[type="file"]{display:none;}
         <div class="dz-icon">📎</div>
         <div class="dz-text" id="reviewDzText">ลากไฟล์มาวาง หรือคลิกเพื่อเลือก</div>
       </div>
+      <p class="hint-mini" id="submitHint">เลือกไฟล์ก่อน ปุ่ม "ส่งให้ AI ตรวจ" ถึงจะกดได้</p>
       <input type="file" id="reviewFileInput" accept=".xlsx,.xls,.csv,.pdf,.png,.jpg,.jpeg">
       <div class="modal-btns">
         <button type="button" class="modal-btn cancel" id="cancelSubmitReview">ยกเลิก (ยังไม่พร้อม)</button>
@@ -369,6 +374,7 @@ input[type="file"]{display:none;}
     <p class="sub" id="detailSub"></p>
     <div id="detailBody"></div>
     <div class="modal-btns">
+      <button type="button" class="modal-btn danger" id="deleteTaskBtn">ลบการ์ดนี้</button>
       <button type="button" class="modal-btn cancel" data-close="detailOverlay">ปิด</button>
     </div>
   </div>
@@ -458,7 +464,27 @@ function openDetail(t){
     btn.addEventListener('click', () => alert('จำลองดาวน์โหลด: ' + btn.dataset.download));
   });
 
+  document.getElementById('deleteTaskBtn').onclick = () => deleteTask(t);
+
   openOverlay('detailOverlay');
+}
+
+async function deleteTask(t){
+  if(!confirm(`ลบการ์ด "${t.task}" ของ ${t.employee}? ทำแล้วกู้คืนไม่ได้`)) return;
+  if(MOCK_MODE){
+    tasks = tasks.filter(x => String(x.id) !== String(t.id));
+  }else{
+    try{
+      const res = await fetch(`${API_ENDPOINT}/tasks/${t.id}`, { method:'DELETE' });
+      if(!res.ok) throw new Error('delete failed');
+      tasks = tasks.filter(x => String(x.id) !== String(t.id));
+    }catch(err){
+      alert('ลบการ์ดไม่สำเร็จ ลองใหม่อีกครั้ง');
+      return;
+    }
+  }
+  closeOverlay('detailOverlay');
+  render();
 }
 
 function initials(name){ return name.trim().slice(0,2).toUpperCase(); }
@@ -696,6 +722,7 @@ function setReviewFile(f){
   reviewDropzone.classList.add('has-file');
   reviewDzText.textContent = '📄 ' + f.name;
   confirmSubmitReview.disabled = false;
+  document.getElementById('submitHint').style.display = 'none';
 }
 
 function openSubmitModal(t){
@@ -703,8 +730,8 @@ function openSubmitModal(t){
   reviewDropzone.classList.remove('has-file');
   reviewDzText.textContent = 'ลากไฟล์มาวาง หรือคลิกเพื่อเลือก';
   confirmSubmitReview.disabled = true;
+  document.getElementById('submitHint').style.display = 'block';
   document.getElementById('submitSub').textContent = `${t.task} · ${t.employee}`;
-  document.getElementById('submitBody').innerHTML = document.getElementById('submitBody').innerHTML; // keep dropzone
   openOverlay('submitOverlay');
 }
 
