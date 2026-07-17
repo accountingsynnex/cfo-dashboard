@@ -15,18 +15,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#F5F5F7;--surface:#FFFFFF;--card-fill:#FAFAFA;--card-border:#D8D8D8;--card-border-lg:#D0D0D0;--text-primary:#111111;--text-label:#4A4A4A;--text-faint:#8A8A8A;--green:#0F7A4B;--green-bg:#E5F5EC;--red:#B23A2E;--red-bg:#FBEAE8;--radius-lg:20px;--radius-sm:16px;--radius-pill:20px;--font-en:'Inter',sans-serif;--font-th:'IBM Plex Sans Thai','Inter',sans-serif;}
-[data-theme="dark"]{--bg:#0B1020;--surface:#151C2E;--card-fill:#1E293B;--card-border:#334155;--card-border-lg:#475569;--text-primary:#F8FAFC;--text-label:#CBD5E1;--text-faint:#94A3B8;--green:#4ADE80;--green-bg:#0B3B2A;--red:#FB7185;--red-bg:#3B1824;}
-[data-theme="dark"] .topbar{background:rgba(11,16,32,0.94);border-bottom-color:#334155;}
+:root{--bg:#F5F5F7;--surface:#FFFFFF;--card-fill:#F8F8FA;--card-border:#E5E5E7;--card-border-lg:#E0E0E2;--text-primary:#1D1D1F;--text-label:#6E6E73;--text-faint:#98989D;--accent:#0071E3;--accent-bg:#E8F2FE;--green:#0D8A4E;--green-bg:#E3F6EA;--red:#D6432F;--red-bg:#FDECE8;--radius-lg:22px;--radius-sm:16px;--radius-pill:980px;--shadow-sm:0 1px 2px rgba(0,0,0,0.04), 0 1px 1px rgba(0,0,0,0.03);--shadow-md:0 4px 16px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.04);--shadow-lg:0 12px 40px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);--font-en:-apple-system,BlinkMacSystemFont,'Inter',sans-serif;--font-th:'IBM Plex Sans Thai',-apple-system,'Inter',sans-serif;}
+[data-theme="dark"]{--bg:#000000;--surface:#1C1C1E;--card-fill:#2C2C2E;--card-border:#38383A;--card-border-lg:#48484A;--text-primary:#F5F5F7;--text-label:#AEAEB2;--text-faint:#8E8E93;--accent:#0A84FF;--accent-bg:#0A2540;--green:#30D158;--green-bg:#0D2818;--red:#FF6B5C;--red-bg:#3A1512;--shadow-sm:0 1px 2px rgba(0,0,0,0.3);--shadow-md:0 4px 20px rgba(0,0,0,0.35);--shadow-lg:0 16px 48px rgba(0,0,0,0.45);}
+[data-theme="dark"] .topbar{background:rgba(0,0,0,0.72);border-bottom-color:var(--card-border);}
 [data-theme="dark"] .brand-text h1{color:var(--text-primary);}
 [data-theme="dark"] .brand-text p{color:var(--text-faint);}
 [data-theme="dark"] .nav-link{color:var(--text-label);}
 [data-theme="dark"] .nav-link:hover{background:#1E293B;text-decoration:none;color:var(--text-primary);}
 [data-theme="dark"] .theme-toggle-btn{background:#1E293B;border-color:#475569;color:var(--text-primary);}
 [data-theme="dark"] .theme-toggle-btn:hover{background:#334155;}
-[data-theme="dark"] .live-fx-card{background:#111827;border-color:#334155;box-shadow:0 12px 32px rgba(0,0,0,0.28);}
+[data-theme="dark"] .live-fx-card{background:var(--surface);border-color:var(--card-border);box-shadow:var(--shadow-md);}
 [data-theme="dark"] .stock-head-dark{background:#111827;border:1px solid #334155;}
-[data-theme="dark"] .ask-claude-btn{background:#2563EB;}
 [data-theme="dark"] .refresh-news-btn:hover,[data-theme="dark"] .retry-btn:hover{background:#334155;color:var(--text-primary);border-color:#64748B;}
 [data-theme="dark"] .placeholder-icon{background:#111827;border-color:#475569;}
 [data-theme="dark"] .build-badge{background:#111827;border-color:#334155;color:#94A3B8;}
@@ -38,25 +37,26 @@ a{color:var(--text-primary);text-decoration:none;}
 a:hover{text-decoration:underline;}
 button{font-family:inherit;cursor:pointer;}
 :focus-visible{outline:2px solid var(--green);outline-offset:2px;}
-.topbar{border-bottom:1.5px solid #D0D0D0;padding:16px 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;position:sticky;top:0;background:rgba(245,245,247,0.95);backdrop-filter:blur(8px);z-index:100;}
+.topbar{border-bottom:1px solid var(--card-border);padding:14px 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;position:sticky;top:0;background:rgba(245,245,247,0.72);backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);z-index:100;}
 .brand{display:flex;align-items:center;gap:12px;}
 .brand-mark{width:52px;height:52px;display:flex;align-items:center;justify-content:center;font-family:var(--font-en);font-weight:700;color:#111111;font-size:14px;flex-shrink:0;}
 .brand-mark img{width:100%;height:100%;object-fit:contain;display:block;}
-.brand-text h1{font-size:15px;font-weight:700;font-family:var(--font-en);color:#111111;}
-.brand-text p{font-size:11.5px;color:#4A4A4A;}
+.brand-text h1{font-size:16px;font-weight:600;font-family:var(--font-en);color:var(--text-primary);letter-spacing:-0.01em;}
+.brand-text p{font-size:11.5px;color:var(--text-label);}
 .nav-links{display:flex;gap:4px;flex-wrap:wrap;}
-.nav-link{font-size:13px;font-weight:500;color:#4A4A4A;padding:8px 14px;border-radius:var(--radius-pill);}
+.nav-link{font-size:13px;font-weight:500;color:var(--text-label);padding:8px 14px;border-radius:var(--radius-pill);transition:background 0.2s ease,color 0.2s ease;}
 .nav-link:hover{background:#FAFAFA;text-decoration:none;color:#111111;}
-.theme-toggle-btn{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;background:#FAFAFA;border:1.5px solid #D8D8D8;font-size:16px;margin-left:6px;flex-shrink:0;transition:background 0.2s ease, transform 0.15s ease;}
+.theme-toggle-btn{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;background:var(--card-fill);border:1px solid var(--card-border);font-size:16px;margin-left:6px;flex-shrink:0;transition:background 0.2s ease, transform 0.15s ease;}
 .theme-toggle-btn:hover{background:#D8D8D8;}
 .theme-toggle-btn:active{transform:scale(0.9);}
 .wrap{max-width:1200px;margin:0 auto;padding:32px 28px;}
 .section{margin-bottom:48px;}
 .section-head{margin-bottom:16px;}
-.section-head h2{font-size:19px;font-weight:700;color:var(--text-primary);display:flex;align-items:center;gap:10px;}
+.section-head h2{font-size:20px;font-weight:600;letter-spacing:-0.015em;color:var(--text-primary);display:flex;align-items:center;gap:10px;}
 .section-head p{font-size:13px;color:var(--text-label);margin-top:4px;}
-.card{background:var(--surface);border:1.5px solid var(--card-border);border-radius:var(--radius-lg);padding:1.75rem;}
-.card-lg{background:var(--surface);border:1.5px solid var(--card-border-lg);border-radius:var(--radius-lg);padding:1.75rem;}
+.card{background:var(--surface);border:1px solid var(--card-border);border-radius:var(--radius-lg);padding:1.75rem;box-shadow:var(--shadow-sm);transition:box-shadow 0.3s ease,transform 0.3s ease;}
+.card:hover{transform:translateY(-2px);box-shadow:var(--shadow-md);}
+.card-lg{background:var(--surface);border:1px solid var(--card-border);border-radius:var(--radius-lg);padding:1.75rem;box-shadow:var(--shadow-md);transition:box-shadow 0.3s ease;position:relative;overflow:hidden;}
 .card-lg-white{background:#FFFFFF !important;border-color:#D0D0D0 !important;}
 .card-lg-white h2,.card-lg-white p{color:#111111;}
 .card-lg-white .section-head p{color:#4A4A4A;}
@@ -70,6 +70,11 @@ button{font-family:inherit;cursor:pointer;}
 .grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
 @media (max-width:900px){.grid2,.grid3,.grid4{grid-template-columns:1fr 1fr;}}
 @media (max-width:600px){.grid2,.grid3,.grid4{grid-template-columns:1fr;}}
+.reveal{opacity:0;transform:translateY(16px);transition:opacity 0.6s ease,transform 0.6s ease;}
+.reveal.is-visible{opacity:1;transform:translateY(0);}
+@media (prefers-reduced-motion: reduce){
+  .reveal{opacity:1;transform:none;transition:none;}
+}
 .build-badge{position:absolute;top:14px;right:14px;font-family:var(--font-en);font-size:10.5px;font-weight:700;color:var(--text-faint);background:#FFFFFF;border:1px solid var(--card-border);border-radius:var(--radius-pill);padding:3px 10px;letter-spacing:0.3px;}
 .card,.card-lg{position:relative;}
 .stock-head{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:14px;margin-bottom:16px;}
@@ -83,10 +88,12 @@ button{font-family:inherit;cursor:pointer;}
 .chart-frame-wrap{border-radius:var(--radius-sm);overflow:hidden;border:1.5px solid var(--card-border);}
 .chart-frame-wrap iframe{display:block;width:100%;border:none;}
 .disclosure{margin-top:14px;background:var(--card-fill);border:1.5px solid var(--card-border);border-radius:var(--radius-sm);padding:12px 16px;font-size:12px;color:var(--text-label);line-height:1.6;}
-.ask-claude-btn{width:100%;display:flex;align-items:center;gap:14px;background:var(--text-primary);color:#fff;border:none;border-radius:var(--radius-sm);padding:16px 20px;cursor:pointer;text-align:left;transition:opacity 0.15s;}
-.ask-claude-btn:hover{opacity:0.9;}
+.ask-claude-btn{width:100%;display:flex;align-items:center;gap:14px;background:var(--accent);color:#fff;border:none;border-radius:var(--radius-sm);padding:16px 20px;cursor:pointer;text-align:left;transition:transform 0.2s ease,box-shadow 0.2s ease;box-shadow:var(--shadow-sm);}
+.ask-claude-btn:hover{transform:translateY(-1px);box-shadow:var(--shadow-md);opacity:1;}
 .ask-claude-btn:active{transform:scale(0.99);}
-.ask-claude-icon{font-size:20px;flex-shrink:0;}
+.ask-claude-icon{font-size:20px;flex-shrink:0;animation:sparkle-twinkle 3s ease-in-out infinite;}
+@keyframes sparkle-twinkle{0%,100%{opacity:1;transform:scale(1) rotate(0deg);}50%{opacity:0.6;transform:scale(0.85) rotate(8deg);}}
+@media (prefers-reduced-motion: reduce){.ask-claude-icon{animation:none;}}
 .ask-claude-text{display:flex;flex-direction:column;gap:2px;flex:1;}
 .ask-claude-title{font-family:var(--font-th);font-size:14.5px;font-weight:700;color:#fff;}
 .ask-claude-sub{font-size:12px;color:rgba(255,255,255,0.7);}
@@ -103,8 +110,8 @@ button{font-family:inherit;cursor:pointer;}
 .news-category-tag{display:inline-block;font-family:var(--font-en);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.3px;color:var(--text-label);background:var(--card-fill);border:1px solid var(--card-border);border-radius:var(--radius-pill);padding:2px 8px;margin-right:8px;vertical-align:middle;}
 .news-stale-notice{padding:10px 12px;margin-bottom:8px;background:var(--red-bg);border:1px solid var(--card-border);border-radius:var(--radius-sm);font-size:12px;color:var(--red);}
 .news-section-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;}
-.refresh-news-btn{display:flex;align-items:center;gap:6px;flex-shrink:0;background:var(--card-fill);border:1.5px solid var(--card-border);color:var(--text-primary);font-size:12.5px;font-weight:600;padding:7px 14px;border-radius:var(--radius-pill);font-family:var(--font-th);}
-.refresh-news-btn:hover{background:var(--text-primary);color:#fff;border-color:var(--text-primary);}
+.refresh-news-btn{display:flex;align-items:center;gap:6px;flex-shrink:0;background:var(--card-fill);border:1px solid var(--card-border);color:var(--text-primary);font-size:12.5px;font-weight:600;padding:8px 16px;border-radius:var(--radius-pill);font-family:var(--font-th);transition:background 0.2s ease,color 0.2s ease,box-shadow 0.2s ease;}
+.refresh-news-btn:hover{background:var(--accent);color:#fff;border-color:var(--accent);box-shadow:var(--shadow-sm);}
 .refresh-news-btn:active .refresh-icon{display:inline-flex;}
 .refresh-icon.spin-loading svg{animation:spin 0.8s linear infinite;}
 .refresh-icon{font-size:14px;line-height:1;display:inline-flex;}
@@ -127,7 +134,7 @@ button{font-family:inherit;cursor:pointer;}
 .live-dot{width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block;animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.35;}}
 .fx-rate-main{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
-.fx-rate-num{font-family:var(--font-en);font-size:52px;font-weight:700;color:var(--text-primary);letter-spacing:-0.02em;line-height:1;}
+.fx-rate-num{font-family:var(--font-en);font-size:58px;font-weight:600;color:var(--text-primary);letter-spacing:-0.03em;line-height:1;font-variant-numeric:tabular-nums;}
 .fx-rate-unit{font-family:var(--font-en);font-size:15px;color:var(--text-label);}
 .fx-rate-delta-row{margin-top:10px;}
 .fx-rate-delta{font-family:var(--font-en);font-size:14px;font-weight:700;padding:4px 12px;border-radius:var(--radius-pill);background:var(--card-fill);color:var(--text-label);}
@@ -160,7 +167,30 @@ button{font-family:inherit;cursor:pointer;}
 [data-theme="dark"] .calc-val-amber{color:#E8B84B;}
 .action-plan{margin-top:16px;background:var(--card-fill);border:1.5px solid var(--card-border-lg);border-radius:var(--radius-sm);padding:14px 16px;font-size:13px;line-height:1.6;color:var(--text-primary);}
 .action-plan strong{color:var(--text-primary);}
-html:not([data-theme="dark"]) .live-fx-card{background:var(--surface);border-color:var(--card-border-lg);box-shadow:0 10px 28px rgba(0,0,0,0.04);}
+html:not([data-theme="dark"]) .live-fx-card{background:var(--surface);border-color:var(--card-border);box-shadow:var(--shadow-md);}
+.live-fx-card::before{
+  content:'';
+  position:absolute;
+  top:-40%;
+  right:-20%;
+  width:280px;
+  height:280px;
+  background:radial-gradient(circle, var(--accent) 0%, transparent 70%);
+  opacity:0.10;
+  border-radius:50%;
+  filter:blur(20px);
+  animation:glow-pulse 6s ease-in-out infinite;
+  pointer-events:none;
+}
+[data-theme="dark"] .live-fx-card::before{opacity:0.16;}
+@keyframes glow-pulse{
+  0%,100%{transform:scale(1) translate(0,0);opacity:0.10;}
+  50%{transform:scale(1.15) translate(-10px,10px);opacity:0.16;}
+}
+@media (prefers-reduced-motion: reduce){
+  .live-fx-card::before{animation:none;}
+}
+.live-fx-card > *{position:relative;z-index:1;}
 .live-fx-card .fx-rate-label{color:var(--text-label);}
 .live-fx-card .fx-rate-num{color:var(--text-primary);}
 .live-fx-card .fx-rate-unit{color:var(--text-label);}
@@ -236,7 +266,7 @@ footer{max-width:1200px;margin:0 auto;padding:24px 28px;border-top:1.5px solid v
       <h2>Synnex Company Monitor</h2>
       <p>ราคาหุ้น SYNEX และข่าวบริษัท</p>
     </div>
-    <div class="card-lg card-lg-white" id="stockCard" style="margin-bottom:16px;">
+    <div class="card-lg card-lg-white reveal" id="stockCard" style="margin-bottom:16px;">
       <div class="stock-head-dark">
         <div class="stock-label-dark">SYNEX · SET Thailand</div>
         <div class="stock-links-dark">
@@ -248,7 +278,7 @@ footer{max-width:1200px;margin:0 auto;padding:24px 28px;border-top:1.5px solid v
       <div id="stockChartFrame" class="chart-frame-wrap"></div>
       <div class="disclosure">ราคาและกราฟจาก Stockdio.com — ข้อมูลราคาปิดรายวัน (End-of-Day) อัพเดทหลังตลาดปิดในแต่ละวัน ไม่ใช่ real-time แบบนาทีต่อนาที กรุณายืนยันราคาซื้อขายจริงที่ set.or.th ก่อนทำธุรกรรม</div>
     </div>
-    <div class="card-lg">
+    <div class="card-lg reveal">
       <div class="section-head news-section-head" style="margin-bottom:16px;">
         <div>
           <h2 style="font-size:16px;">ข่าวการเงินสำหรับ CFO</h2>
@@ -303,7 +333,7 @@ footer{max-width:1200px;margin:0 auto;padding:24px 28px;border-top:1.5px solid v
       <p>อัตราแลกเปลี่ยน USD/THB แบบ real-time และตารางอัตราซื้อ-ขาย</p>
     </div>
     <div class="grid2" style="margin-bottom:16px;">
-      <div class="card-lg live-fx-card" id="liveRateCard">
+      <div class="card-lg live-fx-card reveal" id="liveRateCard">
         <div class="fx-rate-head">
           <div class="fx-rate-label"><span class="live-dot" id="liveDot"></span>USD / THB</div>
         </div>
@@ -315,12 +345,12 @@ footer{max-width:1200px;margin:0 auto;padding:24px 28px;border-top:1.5px solid v
         <div class="fx-rate-meta" id="rateUpdated">กำลังโหลดข้อมูล...</div>
         <div class="fx-rate-source">ที่มา: exchangerate-api.com (Open Access) — อัพเดทอัตโนมัติทุก 5 นาที</div>
       </div>
-      <div class="card-lg card-lg-white">
+      <div class="card-lg card-lg-white reveal">
         <div class="section-head" style="margin-bottom:14px;"><h2 style="font-size:14px;">กราฟ USD/THB</h2></div>
         <div id="fxChartFrame" class="chart-frame-wrap"></div>
       </div>
     </div>
-    <div class="card">
+    <div class="card reveal">
       <div class="section-head" style="margin-bottom:16px;">
         <h2 style="font-size:16px;">Rate Table</h2>
         <p>อัตราซื้อ / กลาง / ขาย โดยประมาณจากอัตราตลาดปัจจุบัน</p>
@@ -342,10 +372,10 @@ footer{max-width:1200px;margin:0 auto;padding:24px 28px;border-top:1.5px solid v
       <h2>วิเคราะห์ทิศทาง USD/THB จากกลุ่มธนาคาร</h2>
       <p>สังเคราะห์มุมมองจากกลุ่ม LINE ของธนาคารต่างๆ — อัปเดตทุกวันเวลา 10:00 น. และ 12:00 น. โดย AI</p>
     </div>
-    <div class="card-lg" id="usdDirectionCard" style="margin-bottom:16px;text-align:center;padding:32px 24px;">
+    <div class="card-lg reveal" id="usdDirectionCard" style="margin-bottom:16px;text-align:center;padding:32px 24px;">
       <div id="usdDirectionBig">กำลังโหลด...</div>
     </div>
-    <div class="card-lg">
+    <div class="card-lg reveal">
       <div class="section-head news-section-head" style="margin-bottom:16px;">
         <div>
           <h2 style="font-size:16px;">มุมมองแยกตามธนาคาร/แหล่งข้อมูล</h2>
@@ -392,6 +422,25 @@ function toggleTheme(){
 (function initTheme(){
   const saved = localStorage.getItem('cfo-dashboard-theme');
   applyTheme(saved === 'dark' ? 'dark' : 'light');
+})();
+
+/* ============ SCROLL REVEAL: การ์ดค่อยๆ ปรากฏขึ้นตอนเลื่อนมาเห็น ============ */
+(function initScrollReveal(){
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const targets = document.querySelectorAll('.reveal');
+  if(prefersReducedMotion || !('IntersectionObserver' in window)){
+    targets.forEach(el => el.classList.add('is-visible'));
+    return;
+  }
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        entry.target.classList.add('is-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  targets.forEach(el => observer.observe(el));
 })();
 
 const STOCKDIO_APP_KEY = 'F7D5BE60CE5E4F4CA00163EF979B9AA9';
