@@ -1,88 +1,81 @@
 {
-  "updatedAt": "2026-07-30T10:03:48.841383+00:00",
+  "updatedAt": "2026-07-30T17:10:23.603624+00:00",
   "items": [
     {
-      "title": "FlowAccount เผยอนาคตวงการบัญชีที่เวที DAC 2026 พร้อมเปิดตัว FlowAccount AI Connector (MCP) ช่วยสร้างเอกสารอัตโนมัติ และตอบคำถามธุรกิจจากข้อมูลจริง ผ่าน Claude และ ChatGPT [Guest Post] - TechTalkThai",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZllYS21hb1cxWnpXaFphc29jMDRnRUxoQW5Jc3ltTy1nVFRCUjNLQng3WWZtV2VaVmdUN2hWd2JLLWpBQ2pFR3BNdE1NQWxJbGEzVjBmSEdoRGV3aGhpSERtSUs2Mk84UGcxTm40cTVzdm13T1hqLWdXWU9hcnl0TnR4UjhlSldxQ3ZqeGQ1bHRvVlAza1FTUkFraw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 09:42:08 GMT",
-      "source": "TechTalkThai",
+      "title": "ไลอ้อน ประเทศไทย ผู้นำนวัตกรรม เดินหน้า AI และ Digital Transformation คว้า The Best Chairman Award ปีที่ 11 - สยามรัฐ",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUC1ITFotbXpCWVhNNVRsUHR5SFJ4U09UZDZFYURzSzNOaTFCNXVaVXItZGlQcGtQU0lDZVMybUx2TTI4ekV6dUdRNDdtdlNiYkhVOGtIYXRJZW1s?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 14:00:52 GMT",
+      "source": "สยามรัฐ",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "TEKA ยกระดับศักยภาพผู้บริหาร จัดอบรม \"AI Agent for Manager\" ต่อยอดการใช้ AI เพิ่มประสิทธิภาพการบริหารองค์กร - newswit",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3ZHQ5ek9KcUVMb2puY1lqNU9BdVg5SWdMd1N6RFJxZzZia3JCY1pmcloxaXljVDU3a0FuLXhQTTNjcU9VNHRhSnRLaFhadDlLMWl1dzQ2eHJxblhvUmNxRkgydF9IZFhtUXY4?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 09:37:00 GMT",
-      "source": "newswit",
+      "title": "หวย AI งวด 1 สิงหาคม 2569 เปิดแนวทางเลขเด่นจากสถิติย้อนหลัง - tnnthailand.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zWWRRaGo1bzlQWlBXb3laVnhWQ1RmTjBzVmNrTWM5eC1MYlBGeHoyakMyZ0JDbEhqRVk2M0d3OVVLOWhkQ09kb3ZVWC1Wb2IzcUtsTmg3dzk?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 12:55:23 GMT",
+      "source": "tnnthailand.com",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "เขย่าวงการ AI โลก! “Kimi K3” โมเดลโอเพนเวต 2.8 ล้านล้านพารามิเตอร์จากจีน - Thai PBS",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BYTdadFNlQU1tYmhDamEzN0VNcXowelNkLVA0LWRDSUxBalJEc251d053WFBNUDViMDE4V0cxUGtRTS12UVpsdEtUMnlBTzgzUEdzNQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 07:57:46 GMT",
-      "source": "Thai PBS",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ไลอ้อน ประเทศไทย ตอกย้ำความเป็นผู้นำด้านนวัตกรรม เดินหน้าขับเคลื่อนองค์กรด้วยเทคโนโลยีปัญญาประดิษฐ์ (AI) และ Digital Transformation คว้า The Best Chairman Award ปีที่ 11 - ThaiPR.NET",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBON2ZiVkVCRlRncW1BTG5EdE1FNFFiV3gzMlZrVklva00tSERyLUlpR3JyQkpYaXdTbXNHdDVNWGhqOXJPZ2RJRkRZSkcydWc?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 07:17:00 GMT",
-      "source": "ThaiPR.NET",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ซีพีเตือนภัย! มิจฉาชีพแอบอ้างผู้บริหาร - ใช้ AI ปลอมภาพและวิดีโอ - TNN Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcTBfcWRpUEhlSHNiamZ2OTB0QWx3SC1OWGttLTJxOTdLSDV5endxTWI4UkFCbElwbU9YTEUxZWU1dDZscFV5ajhpdkRiMFVubGp3enJ0cXRNdw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 06:55:41 GMT",
-      "source": "TNN Thailand",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ภาวะตลาดหุ้นไทย: ปิดเช้าดิ่งหนัก 31.44 จุดหลุด 1,600 แรงขาย DELTA-IVL บอนด์ยีลด์พุ่งกดดัน : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85U0tNZGFzLVhObndLNGlyZm9pbm90ZDVaU3pEVmJ4ZVZiOEJzZW56VWJfenJVelNEaTZqVzBCU01UQ1I0TWZFZU5MUXZoNGlq?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 05:53:16 GMT",
-      "source": "สำนักข่าวอินโฟเควสท์",
+      "title": "ธนาคารแห่งประเทศไทยจัดพิธีบำเพ็ญกุศลปัญญาสมวาร (50 วัน) เพื่ออุทิศถวายเป็นพระกุศลแด่ สมเด็จพระเจ้าลูกเธอ เจ้าฟ้าพัชรกิติยาภา นเรนทิราเทพยวดี กรมหลวงราชสาริณีสิริพัชร มหาวัชรราชธิดา - bot.or.th",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOF9iS1pNUWNkVW02UzhhaUdsTU13X2NHRmVTLWpTdHV0eU00Tk5qNzlxeDBnRGRlc3FUWWM3RmY5QjJHdlA1dW9kSXlhWElKWFZEMjd3dWRiaUNMRVRKOUxsa0xDa3JiYmQ5NHl4NExOSzNtZ1hYQUZuU1BlZm1NdQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 12:06:48 GMT",
+      "source": "bot.or.th",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "หุ้นไทยพักเที่ยงวันนี้(30 ก.ค.) ร่วงแรง 31.44 จุด ขาย DELTA-KKP-BBL - thunhoon.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PREJsemp6TlJVT3RJbVpRSlkzdWNwb1RyQ21oNERoVGZ1M3Ezc2JlS2dnbUczbEFVYXVDZmFkeWd2NldjMU5xRWh0VUtKemdNRGdtQmItUFl2M2xr?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 05:40:39 GMT",
-      "source": "thunhoon.com",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "คนไทย หรือ AI สำคัญกว่า? เมื่อน้ำในประเทศกำลังไหลไปหาศูนย์ข้อมูล - Thai PBS",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xTGlMMUpKWnZiLU1NY1BQOG1VYkZrOUtMOExBRnJVS0NFLTVrdUl5ZWo1Z2psLU5UOW1sYUJwZ2xWZzNFR2JqdkZiMUNIb0FDTEhHNg?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 05:27:21 GMT",
-      "source": "Thai PBS",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "สรุปผลประชุม Fed คงดอกเบี้ย 3.50-3.75% ส่งสัญญาณอย่างไรต่อทิศทางดอกเบี้ยและเงินบาท - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rUEJLeVVfOTIxd1VZY01MZzFCa1JSVV83OVFoUXlveWswNDZncVZHVDFDdVJDbFB2MURPT1I5YXc5ME5BRUZ2YTc4MTBCUUw5aXhYT2FIRmZBcEhVVHgxWjRR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:52:31 GMT",
+      "title": "เจาะลึก ‘เงินบาทอ่อนค่า’ หนักสุดในภูมิภาค! พร้อมเปิด 3 ปัจจัยกดดัน พร้อมประเมินแนวโน้มระยะสั้น-ยาว - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfSlhpaFZXaE1ZcXlpMjdvWnVvTmpMQVJXWjNzSi1KMnhpaHhyUUFGYTkzdTJOS3BxYVBMbFFObGE4WGdkMGRKeDczaHMwS0pxRW83U2EzNXcyZ1RyaWs0ZHVR?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 11:45:09 GMT",
       "source": "thestandard.co",
-      "category": "ตลาดโลก"
+      "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "Tech สะดุด แต่หุ้นไทยมีลุ้น Outperform! จับตาแรงซื้อกลุ่มพลังงานรับน้ำมันพุ่ง - Hoonsmart",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wa1lKQXRQUFNGY2JjRFVvR0tkSEZmUUk2R3B5bUd0STJjRm0zV0ZqQU1tc3NocjNTUGwzSGU2NTlKTmU3MVBKQkxGZ3JrQQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:47:53 GMT",
-      "source": "Hoonsmart",
+      "title": "“กองทุน-พร็อพ-ต่างชาติ” เทขายหุ้นไทย 6.35 พันล้าน กด SET ปิดลบ 26 จุด | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdlBkWTZhTmxxRWhkUU1Za3o4YzVHcTdnYmF2c29yZk8xa0E0OW9hZzFZNVlaSUNMQ1ZYN05lOC1DUDV1LVNLbG4tQVZIOXFheW12bnNn?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 11:31:17 GMT",
+      "source": "LINE TODAY",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "เปิดปม 3 เหตุการณ์ “เขย่าความเชื่อมั่นตลาดหุ้นไทย.!” - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zQllBdUtBYzdjZnNBenhrOGEyRTltUXJWVXRGWFVPMnNybUI2dG5HcWpLcWs5ZnI0TTZaZkZtd0RPS2VNV2NiMzRjWQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:36:08 GMT",
+      "title": "หุ้นไทย ปิดลบ 26.36 จุด ไม่ผ่าน 1,600 จุด จากแรงขาย DELTA กังวลเฟดขึ้นดอกเบี้ย-บอนด์ยีลด์สหรัฐพุ่ง - วารสารการเงินธนาคาร",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHLXVGazNTdDM5R1Vxa3JVNkxTMlA0eEFUSTZKN2F3NXJlODRyanFHSGdYNEsyOG9ScVdCSExwR2pLTVZLQW1DcWU1U3paejYtbEI0bw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 11:17:55 GMT",
+      "source": "วารสารการเงินธนาคาร",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "SONP เปิดเวทีอัปเดตสื่อยุค AI ชี้ครึ่งปีหลัง 2026 องค์กรที่ปรับตัวย่อมได้เปรียบ - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jU3lkaWExYXBsbjctcmRGSWFXOFl2WkVWYTZTMVZRLTV6QVFubVRlLUFvX1hSaGdrdkZSQmYtNzNPdEhlSjBmQnNpUkVRQ3VqaGU2S2RKQ0E?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:55:23 GMT",
+      "source": "Thai PBS",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "\"กองทุน-พร็อพ-ต่างชาติ\" เทขายหุ้นไทย 6.35 พันล้าน กด SET ปิดลบ 26 จุด - ข่าวหุ้นธุรกิจออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtTTdmT3c4MzhHNnkzUURwVkVXeVhwVEhZY2s1R25oMW55MnpNcmhlSVgxQmR2ZGZ5ZEZNSHV5bXM1VHlLY3BEZ3E5TXp5b0U?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:30:37 GMT",
       "source": "ข่าวหุ้นธุรกิจออนไลน์",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "โบรกฯ หวั่นวันนี้! DELTA เขย่าตลาดหุ้นไทย แต่ชี้อาจได้แรงหนุนจากหุ้นพลังงาน - Share2Trade",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tUzZ1TkN1cXVUZVBkOFY2Q2hrR25aejh3dTZFYnZZLUUzWXkwVER6Zjk3M0hKZFFoaTB4cFNuak1rWm5hekF3TkQ4ZF9fWnM?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:11:33 GMT",
-      "source": "Share2Trade",
+      "title": "'หัวเว่ยผนึกดีอี' ลุยยุทธศาสตร์ AI ชู 'อินฟราฯ-คน' ชิงฮับอาเซียน - nationtv.tv",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BX3Vfam52TjhyaUo1Uld2OTdTdWNSOEY2VDQzWDViVzVOOFphTDRZTHZWN1g1U3FTdzlVa3kteGIzZkdzMlN5MjEwaXVETWJvNlNmRlcxRU1sVnYyYVpXdU9xWUR4aG9sanc?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:25:00 GMT",
+      "source": "nationtv.tv",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "หุ้นไทยปิดดิ่งรูด 26 จุด DELTA กดดัชนี โบรกชี้แรงขายใกล้จำกัด - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KNVo4UkJoNWhDYnhQcVdacVRwcFZ1UUxFSGMzbFFmeVcwenlGVUZpeXgtZXRDMUtiLUJtT09yYjFwUFJ4SHd4VGl2QWFMT0FrejNnak5aaUh0cDZDaFZrY19B?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:17:00 GMT",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยวันนี้(30 ก.ค.) ลงแรง 26.36 จุด ขาย DELTA-KKP ซื้อ TRUE - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VMnR3Nnh1ZnRqTmhldEN6c2VBYWhpdWcydW5vbE5qWWxfcGtGU1M4SjYxb2xtVklOeWhwMmo1bG5Ud25vc2psTlM1Y3p2S1BYcVNQQkZaQkwzUHJGT1E?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:09:21 GMT",
+      "source": "Thunhoon",
       "category": "เศรษฐกิจไทย"
     },
     {
@@ -103,6 +96,13 @@
       "title": "KTB แนะทยอยซื้อ “บอนด์สหรัฐ” หลังยีลด์ 10 ปี พุ่ง รับความเสี่ยงเงินเฟ้อ | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENVUxeFdMM3JtWVhzSVpSQTNVYldiMFZNcmEtZVFGTFlLM2p4S0hIckpNU2ZGM09TWEpfOGZRRWZnb3djOHRWREQ1WTNUMk9uZlJINm13?oc=5",
       "pubDate": "Thu, 30 Jul 2026 02:06:05 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ค่าเงินบาท เปิดเช้านี้ 33.47 บาท/ดอลลาร์ แข็งค่าขึ้นเล็กน้อย รับเฟดคงดอกเบี้ย | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90UUNrXzM4MWF0c2ZYeXpfMzBET1VWM1ZZbUx1eWJFbjNWM1FnZjdLMktwcHBxcHJWX0hqTG5oVzNpNEpSRXZxbXNiWlFqemt5ZGVSMWx3?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 01:41:02 GMT",
       "source": "LINE TODAY",
       "category": "ตลาดโลก"
     },
