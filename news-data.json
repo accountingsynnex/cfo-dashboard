@@ -1,68 +1,103 @@
 {
-  "updatedAt": "2026-08-12T13:24:06.251423+00:00",
+  "updatedAt": "2026-08-13T03:28:46.940602+00:00",
   "items": [
+    {
+      "title": "หุ้นไทยเช้าบวก 8 จุด โบรกชี้ รับ CPI สหรัฐฯ ตามคาด แรงหนุน DELTA หลังหุ้นแม่ไต้หวันพุ่ง 6% - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zWHNuYzBfUWZzdWtmVHNsd3U3Rks1NnZLTzd6bDdEX3pUX0hUcGVOcUVva1N5MEdndm0wR2VrVnh6TFpuNDVLbDlIM2ZTRlRnTEp5Nm1HdmZhYTlTRkl6SG5n?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 03:09:00 GMT",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยเปิดบวก 6.82 จุด ฟื้นตัวขึ้นจากการที่ Bond Yield สหรัฐลดลง - เดลินิวส์",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HOVRTX1ZpWW5oMEdzVDQ2OGdXT2ZSNmF6Q3otR2htOGRkby1rS2NkTy1wZFJVS0MtaFRFQjFLTmJoMzZSX0haM2pZTjFqazkzdXBB?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 03:05:00 GMT",
+      "source": "เดลินิวส์",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "AI กำลังเปลี่ยนโลกธุรกิจ… องค์กรของคุณพร้อมหรือยัง? - ThaiPR.NET",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GaUFLV1hhUGgzY0tMMjdZWUk5a05vdzJOa1lrY2Y3b2RUTDFMZ2txMnFobjVKZDduNUh5NGdkUFNyWExuU0tsVHY5by15bk1p?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:56:00 GMT",
+      "source": "ThaiPR.NET",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "KTB ชี้บอนด์ยีลด์สหรัฐ 10 ปีพุ่ง 4.68% แนะทยอยสะสม - ข่าวหุ้นธุรกิจออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01Z2Zhc0VfUUZmSEdxanVTSHVBdVVzTTZXM3Y3cGt4ZDNUanVvN0hIbEJZbzNSaWRUVVpkRTczSHNfWmlhWlE4VE1PNA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:51:56 GMT",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "หุ้นไทยวันนี้ ไซด์เวย์กรอบ 1,600-1,630 จุด รับเงินเฟ้อสหรัฐฯตามคาด ลดแรงกดดันขึ้นดอกเบี้ย - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3lRdVZHTmhzRXNMTzVQeTJwVklMOXJ0c2g1VXpraTFScjRjOTBVQ1BWcXRMbWZjLUlIMVFBanJLMlNXaDhKNWU1dWdyWTRGOVFYN1JOQnRmT3FSSFlUVVMtdnpna3JPanZ5Z0RjbEM2eENZS0t1eWotcGdfbmVIcQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:38:20 GMT",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทย 2,000 จุด ความฝันที่ต้องมีเครื่องยนต์สองตัว - ประชาชาติธุรกิจ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwWmZLZW80ZFF5VE9WX0kyWVJ5RDJ4eG9CWFl2WW5GT2lCMUlFZzlBaUFsbkRHRk9FaUpDUlV4WHB0ai1WWHV2dm5VM2tNNWtkSGZYN0dYN2UyeG8?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:17:39 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "KTB ประเมินค่าเงินบาทวันนี้ - thunhoon.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rM0l4Z2tUeDg1RFlmV0UzcmhZdGwzOE4xeXY1eTNTWmpMYTNrNGJSa3dtYjJDYlBDaFo1bzRNTXJzSGtGV0YycWlndDRvZk1xaUdJajJDYXcwaXQ0Zy1uZXRfSDl1aDBN?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:15:32 GMT",
+      "source": "thunhoon.com",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "ภาวะตลาดหุ้นไทย:แนวโน้มดัชนีเช้าแกว่งขึ้นตามตปท. คลายกังวลเฟดขึ้นดอกเบี้ยหลัง CPI สหรัฐฯชะลอตามคาด : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNMVZ5dzFNcWhMOHByUUhDY1pXRUl1LU01ZVB3OWRwSXdhN3VLVU5YWVpWd1NYNVh3b3pOMHdvNlFpVmtwWVl1TkxGVVhmMnZ4?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:08:30 GMT",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ค่าเงินบาทวันนี้ 13 ส.ค.69 เงินบาทเปิดเช้านี้ 33.07 บาท แข็งค่าขึ้นเล็กน้อย - thansettakij",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oUTA4Sld5ZTJMc3NCbDlNUVBvWFBYTGRHU1A0V2x2dXQwbFZVeWxpU2liYW9GeXFRQm5WY3RuY0tFNTN1cWQ3czNocHJaNElLM2Q4UkpB?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 01:58:00 GMT",
+      "source": "thansettakij",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "การตั้ง AI Data Center ในประเทศ: ไม่ใช่แค่เรื่องการลงทุน แต่คือการรักษา “อธิปไตยทางข้อมูล” ของประเทศไทย - thansettakij",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1ZkZlcFp1cUM3Q0l5eFBSUkhVT1lKX0NOY0liOFZENGlJSzhuSV8xbHBlLWE0VnFKcGVUUWZLYS10RHFzNUpfZ1plZ3NteV9oRGQzUWphVnl3TFRvOWpJbDQteUx5bHlzSjVNR19qSHlaWHVZ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 01:40:00 GMT",
+      "source": "thansettakij",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "‘ดีลอยท์’ เผยองค์กรไทยใช้ AI พุ่ง 61% แต่มีแค่ 9% ที่ทำเงินเพิ่มได้ - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SejNSREZ4WF9jdk5TRVd3cEVWaUFOaEluOHpVUWV6cjBabThKMHgyajdObFBjQ1BWVlNyZkZ5Zncydnpwb3FrQWRXaEtOS3JSYUp2QmhfcjY5d1dsNDJrbFpRNmVzOHRs?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 23:00:00 GMT",
+      "source": "bangkokbiznews",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "สอวช. เปิดยุทธศาสตร์ปั้น “กำลังคนทักษะสูง” รับเศรษฐกิจอนาคต ชู AI–Skill Mapping–Skill Bridge พลิกระบบผลิตกำลังคนไทยตลอดทุกช่วงวัยทั่วประเทศ - thailandplus",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SbFh6MjVJdHJoUjJPbnNkVmFEYTdQUVlhX251RkQtcUp4YjdMdXB5TFJXcHNCMl9LNE4tTXhsRlowVTh0WW1Hajg2LUNSdVZGVVh1OXRWQQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:01:33 GMT",
+      "source": "thailandplus",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "ส่องเป้าหมายยกระดับเศรษฐกิจไทยของรัฐบาล-เอกชน (กรอ.) พร้อมเปิดคณะทำงาน 5 ยุทธศาสตร์พัฒนาการลงทุนใหม่ - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVHdHd0MwMjVMOGtsSEJwdjY5alNPMGU0SWVmcXN0eXpHNmppaGdxNkNyNVZROF9aVVVuR2Z1QjRxWFhKQk1kVko2WlJ5azBRbFJYTmV0WTBSekF4UW1rSFNpcmtmYXk4VFE?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 11:52:43 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
     {
       "title": "กสิกรไทย-กรุงไทย คาด Fed คงดอกเบี้ยต่อ รอดูผลกระทบความขัดแย้งในตะวันออกกลางครั้งใหม่ - thestandard.co",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFOVREdl9JY2c1YjZxU2VkaFMxcU9wTDhvLWJVS1h4VF9MakJuYzRCRnZxU0FzSmxmaHBSRk54bloyS3Q2UHFUV2NBWnpic3RsXzRoOXZaTEtnaS1CUHpDX3VnTV9yZi10SDN1UkdiMA?oc=5",
       "pubDate": "Wed, 12 Aug 2026 09:55:38 GMT",
       "source": "thestandard.co",
       "category": "ตลาดโลก"
-    },
-    {
-      "title": "หุ้นไทยภาคเช้า ปิดบวก 13.02 จุด ตามแรงซื้อ DELTA ภาพรวมยังขาดปัจจัยหนุน รอจับตาเงินเฟ้อสหรัฐ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96TmZFVTJwSGw2TURJYUlvcllfTkpSa1Bwai1ReE9VY0o4NGRFT0ZSTXBDd21XbHFkNW5yUkQ2WkZHaEdtM05WR2I4a3NlSDhLWDlmZDB3?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 04:58:30 GMT",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "BDE คาด Digital GDP ปี 69 โต 5.6% แรงกว่าเศรษฐกิจไทย 2.2 เท่า รับ AI-ดาต้าเซ็นเตอร์หนุน - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOUQxVEV5OXRLVy1aSWs1N211UGs2T0R5RE8zRW83QUtqdDJwM0pSQ0d1bzlReEtCcWZQUnFjbldITEZtZDd2LUdOaw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 03:30:57 GMT",
-      "source": "ข่าวหุ้นธุรกิจออนไลน์",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "Apple ใจดีแจกฟีเจอร์ AI ชุดใหญ่ให้ผู้ใช้ iCloud+ - Thisisgame Thailand",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52V01wMVdGd0FHV2ZGQTJNOE5sWkRmTGlLcVZwWG52dExuLTNDVFpjeVMzd012YVJxclA1V1QtVlVJcjUyTm8wRDh1V29oR3RkYUVsSEhqeDNfTzFZb3EyalZjaXB1dTRPY1pjNnFkY1dtOUtMQ3NLc0NURkM?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 01:00:00 GMT",
-      "source": "Thisisgame Thailand",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "‘ต่างชาติ’จ่อซื้อหุ้นไทยพุ่ง ‘บล.บัวหลวง’ คาดฟันด์โฟลด์สิ้นปีนี้ทะลุ 1.5 แสนล้าน - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43ZnZTYmRfYzVRY0t6RFo1eDdibmp6ZDRFSmNqZ3h5U01xUHNlRWtEZWQ5TzRqajdoMmsxUVpOeVRkUzRrYVB5LVdGZGp5MGF1eWFFVGQ2ZVlKalNlMjVaSWpn?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 00:27:00 GMT",
-      "source": "bangkokbiznews",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "อุตสาหกรรมท่องเที่ยว เข้าสู่ ‘ยุคทอง’ ขับเคลื่อนด้วย AI และ Gen Z สรุปข้อมูลสำคัญงาน Trip.com Group Envision 2026 - Marketeer Online",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxd09iMXhEWndRUmU4dTNOTUFDWmQ1SU5DV3BoVDdWZm94d0VDZVdDaVRZWWd4cVFVSV9aWEJJVnl2cmp2X0pLQ2xhTGxBelE1akFTeQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 23:34:16 GMT",
-      "source": "Marketeer Online",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "เศรษฐกิจไทยครึ่งปีหลัง 2569 ฟื้นตัวบนความเปราะบาง – วิกฤตต้นทุนพุ่ง – AI พลิกโลก - Marketeer Online",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHNDBlVDNZeTRzR3lLZnJYTl92SFdzX3FqWDh6MFBvZzR1SHdYTkZEWVVPZjdUTlNfWC02THIyQkNha0JjVTk2VWY0MUwxQnZhOFhqWQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 23:28:37 GMT",
-      "source": "Marketeer Online",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ส่องเป้าหมายยกระดับเศรษฐกิจไทยของรัฐบาล-เอกชน (กรอ.) พร้อมเปิดคณะทำงาน 5 ยุทธศาสตร์พัฒนาการลงทุนใหม่ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVHdHd0MwMjVMOGtsSEJwdjY5alNPMGU0SWVmcXN0eXpHNmppaGdxNkNyNVZROF9aVVVuR2Z1QjRxWFhKQk1kVko2WlJ5azBRbFJYTmV0WTBSekF4UW1rSFNpcmtmYXk4VFE?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 21:14:42 GMT",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "จีนใช้ AI พลิกโฉมการออกกำลังกายอย่างไร - 国际在线",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRHBiTUNaQS1wUmVZR2hGb2o1cXI2eGhTT21KWm5IT1lEMVI1VGw3MGNUc0hrVUU5SEdlZlFKdEpsU3Bsckc3aUl3MHg2RVlDMzBFaWJlQ2hIYzk0NHU0Sw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:00:38 GMT",
-      "source": "国际在线",
-      "category": "เทคโนโลยี/AI"
     },
     {
       "title": "SYNEX เร่งขยาย New Growth Engine ครึ่งปีหลัง ชู AI Infrastructure-Cloud-Energy-DaaS ดันธุรกิจมูลค่าเพิ่ม - RYT9",
@@ -77,41 +112,6 @@
       "pubDate": "Tue, 11 Aug 2026 11:13:17 GMT",
       "source": "LINE TODAY",
       "category": "ข่าว Synnex"
-    },
-    {
-      "title": "ไทยเสี่ยงพลาดโอกาสย่นเวลาพลิกฟื้นประเทศ ธนาคารโลกสำรวจบริษัทไทย 360 แห่ง - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43aWFybGNnMkpNa2UxVjZqY2oxd09IbFFOYk1mTXVHUVZLeGktQ1Z6Smxhal9HQnJXTGpRbnRCNmk0MHZHRWhGV0t0YVdkRmpoVXlBVjRBblVST1Zk?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:07:03 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ศิริราชพัฒนา AI ช่วยอ่าน X-ray ขยายใช้แล้วกว่า 610 โรงพยาบาล - Sanook",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IUWxrQkJNaE5qQmR1QnMySENFZG10LWFhWklxRjBoNklJemZuNkZHdWdES3NQZHZhaFl3VC11Qld5WmhIdmVQX1FQcW9tM3c?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:36:15 GMT",
-      "source": "Sanook",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ดอลลาร์ออสเตรเลียขยับขึ้นเล็กน้อย ขณะที่การคงอัตราดอกเบี้ยแบบสายเหยี่ยวของ RBA แทบไม่ช่วยฟื้นความคาดหวังต่อการปรับขึ้นอัตราดอกเบี้ย - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZEJRXzNVRmRDa0VmU25NTWVTT2RkUmRrZnRRM0hrVG9FcUxkdG9obUlFcjZJUURRWXZhU2JoN1ZjN19JVEkzb0tSVllGVzVyUUxGS2JpTWxua2R1WE85TG4wbjFVMGJISXladmZQaEVneGFfajJ3dXhnN01TdzBxMGZnM09tdjJGNUJtLUE5THEyZHdRNEs4OFI3SFE3YVhxLWt3LXFfZzVTaEJHSzMyQkk3dDJ3ZUpCSko0djlMcW10ajBTSXM3cTN4aDRQSTNDb2NVT1M1bFFUZHlxb3JuNmQyVm5SWG9GeEE?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:26:20 GMT",
-      "source": "tmgm.com",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "China's Consumer and Producer Price Inflation Have Likely Peaked -- Market Talk - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaV85bTd1Y2VlMkVfVURVNnhWczdSTVFtbUlUMnozcmxsaDduZ2R4VTE1V0RTeDJha1MxbmVLVmszSGMyRGtkdTlZT2pTazVHd3FFbVZibTlWWDNpcDFlV3pUa19nODVsWGtLV3ZtM2VYNFJjNjJXWWNOVGFhajBmaXVWZ2xDSUphX0dqRmJsc190OVJNYWMyUU1IVGs5ZnJ1RzhhTndabExwXzVkei1URDU5cXVHVDc0NU1SSGVfOUlDX0JuYVg1QlYwejNCa0w5dTIteGVmdDhUQWNm?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 03:47:57 GMT",
-      "source": "Moomoo",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "KTB ประเมินค่าเงินบาทวันนี้ - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EQ2lBLThVT2FBZ2xRZVdVY2tWRDhuMHluQlFUQ05iZWppNzY1R0xBUGxOc3F6VHJQYzRQVDZ5bG5mNDk2X0ZfX1pMTDhuYi12eXliUjE2aWV6cllQVVY4NEVOMy1VVGYt?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 02:29:51 GMT",
-      "source": "Thunhoon",
-      "category": "อัตราแลกเปลี่ยน"
     }
   ]
 }
