@@ -1,95 +1,88 @@
 {
-  "updatedAt": "2026-08-13T13:25:57.519030+00:00",
+  "updatedAt": "2026-08-14T03:26:35.599378+00:00",
   "items": [
     {
-      "title": "AIS Academy โค้งสุดท้าย สมัคร JUMP THAILAND HACKATHON 2026 - Hoonsmart",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbU44N2FiR0ZrWmJHSVFISTRGYlU4Q1BJY2hrSEV4QXJUMG5Kc0kwMFM2U2d4dTFObkNnMmxxTWx0TlEzaXpVV3NvTElyZw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:15:17 GMT",
-      "source": "Hoonsmart",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "หุ้นไทย ปิดบวก 1.74 จุด ตามต่างประเทศ ขานรับตัวเลขเงินเฟ้อสหรัฐแผ่วลดแรงกดดันดอกเบี้ย - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCeWNDZzdIQnB3c05Ga0JHa3UtdWNMQmxPUzZtaDRVbUlJamIxRzVKSnR0bkdyUkxqZnlPSW9XcG9YV0tramNEZUw1QlFEaW5sdjVITXBR?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:53:59 GMT",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "หุ้นไทยพักเที่ยงวันนี้(13 ส.ค.) บวก 4.63 จุด ซื้อ KCE-HANA-PTTGC - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOR3lOVVZfamN1bzJMNDFWSm5SOVdSN3Z6WTlFM2Fwc21iVmVxbFdnTGVQeUZJbGN2S2tHdllYRGpYSm9obHNMTndqd3lheEVQWUdYY3lBRzExUTR3OUE?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:48:29 GMT",
-      "source": "Thunhoon",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "\"รายย่อย\" เคาะซื้อหุ้นไทย 1.02 พันล้าน หนุน SET ปิดบวก 2 จุด - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XQmE1UkRNQmt4YTkxcXBqS3EtTGkxNmxQdmZXUU5ZbGFQWThIZ0wyT1Z3Tm1sTXB6Vm1velJXZTZucTlkbDlxbzRETmdWckU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:36:46 GMT",
-      "source": "ข่าวหุ้นธุรกิจออนไลน์",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ดีลอยท์ ชี้ธุรกิจไทยใช้ AI พุ่ง 61% แต่ติดกับดักผลลัพธ์ที่ไม่สามารถสร้างการเปลี่ยนแปลงในระดับองค์กร - khaosod.co.th",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wZEJqVEhCeHVUazA4S0FvbVFVOTZZR0g0QktlRDlTcWE5VFR3dlJnYWlhVTRzYlZ3WnVuR1hFQlNsX09ST1FOVEVYWG1VbDN2QW5EQWV3ODBJdENVQkE?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:17:00 GMT",
-      "source": "khaosod.co.th",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ภาวะตลาดหุ้นไทย: ปิดบวก 1.74 จุด ตาม Sentiment ตปท. ขานรับตัวเลขเงินเฟ้อสหรัฐแผ่วลดแรงกดดันดอกเบี้ย : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMUnV3SWVXa18yRkktWlpnVlFNd3k2bm9GMl81OS1vRWZualZDM3dkS3VPYUpMS1VmQ0dQOURXYWkxamF2cFVkZldMUTFaLWlY?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:15:38 GMT",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "หุ้นไทยปิดบวก 1.74 จุด โบรกเกอร์ชี้ Valuation เริ่มตึง แนะเลือกซื้อหุ้นรายตัว จับตาแนวโน้มครึ่งปีหลัง - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HY2hyRWhxRmEwQVZpWDdIRG8zNmtJVmJDRWg5WlB2VkdyOG9oS2Fxc3l0VXhsaHBWZGtyOWdmeUczcFdmOG80X0dqNGF2TTlRU0h0ZnFkNzhvNElDbU92UzF3?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:02:00 GMT",
+      "title": "หุ้นไทยเปิดเช้าบวก 4.88 จุด โบรกชี้ขึ้นจำกัด แม้ปัจจัยพื้นฐานแกร่ง จับตาเงินไหลออกกว่า 1 หมื่นล้าน - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dFVCOFItYmIxbFRmZ19aeE5CNEVORVJVQ3ZVMFlzd1FQZXR2NldLM00xUGd5cEp4N19pb3JvX2dYVFNINndiTUxMQ09OdXJZdW9kUkIyemdnVGFDdFcwbWhR?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 03:07:00 GMT",
       "source": "bangkokbiznews",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "News1. . เศรษฐกิจไทย จะย่อยยับโดยเร็ว ถ้าคนไทยยังคง ซื้อของจากที่นี่...??? 13/08/69 #เศรษฐกิจไทย #คนไทย #ค่าครองชีพ - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwdBVV95cUxOeGpoZ1VRelhENGZ0ZEJMc2d4YTZ5TTJKaVpFXy1KMWx0RFcxSzdYWmphdmdDOGswal9KOGt0Y2xad0pRZDJRd29GbTFsalVZRl9tVG5qZGF2U2xnay15YU9vQzJJQksxMTBfS01uSDFFMmFDRGNoQko2MmgwMTRNbUFzUHNUXzBqR3VKSGpqaUJDNDY1cXdOSWxaUU5Xc2x6M3FPLUIxV0J5SlBlRlkwaDIwSkJqTC1BT3ZVcUg5amg1Z1o3ZWNoTVZUeU9FTlFSVHdweTJjWFhkd0swWGh5MUFHYjN5R0tTdEJwdlFpbXY3Wl9rcEI2VWFRd0FVanZkbm90d25GUlMwWWdqTEZicU10TGZwNE42Q3V4ZG1uTmhicFZzQmJIQ19QTDlOVVNtUUZlWTE4TVdzb3lhR3hLWXd0ejREQ2lxMlBVZkxYclVNUUpfRFJOY1o0TjNzbXNIeXE0SV9lUkstaERWSk5uS0hINXo4emhhLUZkUmVOQ1hnTmd3NEdtd2FOXzRFNUJvSER1cU4xcTJGSzZ1dUhiVjZzNlpJT1B4MHQ4QlVnV2FxdHJLS2ZBamtub0VJVEVjUUo1c2N4eUhxLXhQTDdxYlFmNk5mZUpOaW9Gd2l3VXlKXzg5aS0yYXN2Um5rS2Z0Y3RhYXJVSWFzc0c5RjBqdGFxcUNWR1Q4cldiSzZ5N3ZzWFdWVkd6TEM4aXdRdy1PVzlkLVJmeTZOdW8yX2dJMWMtalVwR3UycVNFZkFWX0lFQUVPYTJ1eFF5ZVl3VmxqeTNHWUdtWkl6R1RMNnhIWXRPZHNvaXNsNmxrbm13QkVobmZVRDczSklvRFE5ZVJUZnlpVkRhTjJXLTFod3dBMUFGUHUxMEhrb1BNcTg5NUlId2V5a28xdjhUNGtLTGhSanZ1MzlzTnlyUnZPTW9jOWZaTWNoWlcwSW02TThWLWFtd0cxSHVYVUtZMDY0NEZNR1FpVWxqWmFPTUU2OFVqWlA2VnV4TlpqVTBQcDBKTVA1c1JjUmRKNjlpYVdYbjVGbUNKZEpmb2tRUzY0RGlwVDVZR0R3TC1jSTV5cnFHX0hqSDVvV1dHQ0VGUFl0OTRXUVFjODUyLWFSdVZOYmdPa0hNckxRMWdLMU1JRWhkV0ItOEo4WjA5TWN4c01sdGlSM0Zrd3FXY28yOGhnRkxyRUY5bjU1OHdxN2RkQ1VvUm9xS0JTcXhKS214VnlOQ2RSVm5vUE83ZTVoT3M?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 09:45:39 GMT",
-      "source": "facebook.com",
+      "title": "“เอเซีย พลัส”เล็งปรับเพิ่มดัชนีหุ้นไทย หลังบจ.กำไร Q2 โต แนะหุ้น 3 กลุ่ม - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpcEVGX2xYQWN0bEFDTEJZZ21Id1ZjdVNqZ0lGVDQzdEZzb1drU1lMTjd3TkNFRERLaDFtZzJHYnJkVHBjYlFqdFNGRmFDalRBOEJTeWswTFZlZHdp?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 03:01:31 GMT",
+      "source": "Thunhoon",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "“รองนายกรัฐมนตรี -รมว.อว. ยศชนัน” เปิดห้องเรียน CoEX ถ่ายทอดวิชา AI Unleash ชี้ไทยต้องขยับจาก “ผู้ใช้” สู่ “ผู้สร้าง AI” เร่งสร้าง Ecosystem–คน–โครงสร้างพื้นฐาน ย้ำเกม AI ยังไม่มีผู้ชนะ ไทยยังมีโอกาส - - WeAreCP",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEZUdSYmdWRjJVMjIxekxmaHNNbVgwLW1CYXdXVXlhYWYxX3otTl9HTk04a2lmZHk1V0tBUGxibS1LOFgycG9LRlZMZDl6Ylh5NWdqRQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 09:42:11 GMT",
-      "source": "WeAreCP",
+      "title": "KTB ประเมินค่าเงินบาทวันนี้ - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GWlh4bzJyYXhoaGdYNzQxZlVzSUo1Mi12TlJsZGFFWW5yYUx6X2Q0d0lJQjBYWmswOW1YYlNLZ3I2aWRNblRwbGhvcUV2OTQtTnBsQ19sVFlPaUc4d0JkaUJxNUVWTWp2?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 02:30:23 GMT",
+      "source": "Thunhoon",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "อว. ชวนเที่ยวมหกรรมวิทย์ฯ 2569 ขนนวัตกรรม AI ชวนสัมผัสเทคโนโลยีล้ำสมัย เรียนรู้นอกห้องเรียน อิมแพ็ค 15-23 ส.ค.นี้ - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R19kQm8zLUdzQ2tLaERPZ0l3QTlzLXI3emVJTGd5VndVeERjTEpVeW5JRjA1Slk3SUlfaC1aS3ktOTk5MWhKcTBQZ2JOUWFLeTdmdDQ4VzJyQQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 02:22:21 GMT",
+      "source": "thestandard.co",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "BDI ผนึก อีวาย ประเทศไทย ดัน “AI Sovereignty” วางรากฐานไทยสู่ Digital Nation - สยามรัฐ",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQc3ZGT25hemhQeVI3bWlQLWJobjdqdHVMUC1ZY085NmJGTG8tZEY0Q0NEWHRTenNDQlVrOW80LUc0ZzlHUGZjT2hNNHBiNHhGU21LZ0pZYXdYV3J6?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 08:46:37 GMT",
-      "source": "สยามรัฐ",
+      "title": "SET Index ทะลุ 1,600 จุด หุ้นไทยยังน่าลงทุนหรือไม่? - tisco.co.th",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKVkM3aXlsR0NWYVB6ZWsxRDI1eC1lRmdCSlBjTjhqQllvN2tNelZDYzg4VDk2SGlCaE9hMGRQZWtreGE3cGlnNF9MTnB5UzhqMTRQYUREVjdZRlFmRm1reURwdy1zVGxsQ1VGQzREWDA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 02:11:55 GMT",
+      "source": "tisco.co.th",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ภาวะตลาดหุ้นไทย: แนวโน้มดัชนีเช้าแกว่งไซด์เวย์อัพคลายกังวลดอกเบี้ยเฟด หลัง PPI สหรัฐต่ำคาด-งบบจ.หนุน : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU2pjMF9uVzZiTmNOZlkwNTdyeTNPNUEzV0pkd1NsQm1TRVZIa3dnbXRiWUNxVllMZFZxS0h4QlJhYmQyM3FHdW1fUGdQVmRi?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 01:57:00 GMT",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "‘จากผู้ใช้ สู่ผู้สร้าง’ โจทย์ใหญ่ท่ามกลางคลื่น AI จีน ไทยพร้อมแค่ไหน? - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzOXAxdWQ2c3Fha0o0RTVuZHBBb1MyNW1qaXprakx5NmY1a3F3b0dmR3YxLUVJOG1VbUhTZnhSb3pJbENGUzNyOVZJZHNKS2xpWHhSQU5PT0FvU1NaTkt1ZjhZMXdCWG8?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 23:45:15 GMT",
+      "source": "thestandard.co",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "SYNEX จัดงาน Analyst Meeting Q2/69 เดินเกมขยาย New Growth Engine ครึ่งปีหลัง - Share2Trade",
+      "title": "สมาคมค้าทองคำเข้าร่วมการประชุม Focus Group กับธนาคารแห่งประเทศไทย - สมาคมค้าทองคำ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNanliR1hYcmFvSmVYd0xSQ01kaldMNVdiTWtzTmpfVENCVWk3V3lOWHJaWEtnZk40WFlCdGFCcGVadm1IaW1nUm9VTGRUVnZ5ZU92RWcxMm9fZmlIS1UwckFJRFlhQllQZk9QVk9wSVpmTXBCRG1rVUdFem04VXNuYQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 23:15:14 GMT",
+      "source": "สมาคมค้าทองคำ",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "แอลจีชู AI-Subscription ลุยครึ่งปีหลัง หนุนเป้า 8,000 ล้านบาท - posttoday",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MQ0pkVUlsb253TngzVDg2QkdEN0trcVluczFHWmJYR3h5azZuWHZtQW1Ud3E3ZlU1RkJtRlM1Z3ViTjlsTVR3N0I0UWNHZTJsR0RQVU1n?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 22:40:00 GMT",
+      "source": "posttoday",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "ส่องเป้าหมายยกระดับเศรษฐกิจไทยของรัฐบาล-เอกชน (กรอ.) พร้อมเปิดคณะทำงาน 5 ยุทธศาสตร์พัฒนาการลงทุนใหม่ - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVHdHd0MwMjVMOGtsSEJwdjY5alNPMGU0SWVmcXN0eXpHNmppaGdxNkNyNVZROF9aVVVuR2Z1QjRxWFhKQk1kVko2WlJ5azBRbFJYTmV0WTBSekF4UW1rSFNpcmtmYXk4VFE?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:11:03 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "SYNEX จัดงาน Analyst Meeting Q2/69 เดินเกมขยาย New Growth Engine ครึ่งปีหลัง - share2trade.com",
       "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOZFQ2aHUwU1Etbm13cG9rSEtNellPcFRlenMxR0dPczZkZWRuREl5ZjY1U1ZGWnBFbV9SRmdDcG5tVEpEOUU2UTZ6QUVxNjBvZnhGRngwN3ptWFNQdk42UkVkUkE4bWlDdVpxRGZVSm9mdVdyS1dmV0JMU3lpYXN5LWZzX0xqUHVDekpOT3k0ODhBS3ZpYVVTWTc5ZnlCQmtPV0NHU0NYMXBlMzUzbzlqUzVCOEtyTEpyaE5UdmE1WERpSlVXUzVucHdyZUxjMzlNZ1NSMFNZVlRXaHREalZSQVppYTlIdldhenJTa3ZnWmdWejM1N01nOXlkcWFYRE41ZEtxRDlVeERBS0ttMmFWanVEZG4zaUhfMjZacVZwYm9mRkFPbFRtQzNhQVkxaDFaYUNUWUN6dG41T2JDbXJkNlJlMzY3alhXa0JJLUZBbmZKZ1RITzVRVnBITkpXXzlpNXMyMVl1anRMQUVnYWFaclJkUkdYQmRzeEszLUdSUmNZZVVWd192a3l0R3h4WEJWUlh6T19meXJMREJMc3h1ZGFBSlBVSWNlQmRlZVdwMGwwUDVvR2kxR0JWbGNjWDBZUXFGZlVZNTV5TmhSTkpRNVRWTmZ3MUI1NlBiM3Y1RU0?oc=5",
       "pubDate": "Thu, 13 Aug 2026 08:31:17 GMT",
-      "source": "Share2Trade",
+      "source": "share2trade.com",
       "category": "ข่าว Synnex"
     },
     {
-      "title": "ดีลอยท์ ชี้องค์กรไทยใช้ AI พุ่ง 61% แต่ยังติดกับดักลดต้นทุน มีแค่ 9% สร้างรายได้ใหม่ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrRTI4X2t5LUdrQl9LV2NRdFZtOEFIVG5yenNEZVp5SF94Qk9oUUxBdmlYWUlLX25laU95NjBVdTlFLXIya3lKNnFoSkM3bGJYTG45Q213?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 06:39:22 GMT",
-      "source": "LINE TODAY",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ฟรังก์สวิสร่วงลงแตะระดับต่ำสุดในรอบสองสัปดาห์ ขณะที่การคาดการณ์ว่าเฟดจะปรับขึ้นอัตราดอกเบี้ยจากแรงหนุนของราคาน้ำมันช่วยหนุน USD - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUU1SdWlQSmZjMlJIN0dyQnAwT0hDOHlkeldTMmRERkZYMWpBSHhjc1pZNERyTUxDUWt0VVhxNEF3eHhkRTdDVU1kRFBodzA3akw4c0duVndRdkFLMGNYbDVScm5ERzhILVFBYW5lT1BoRk9MdGwxU2N1WjFGb3ZqOFdWWk1DcTdjRnJrR0NHdTRfdTB1aEFELVkwUzdKb2QxXzJVZDNBclVDUmllQXhxdjc3S0RGQkJkRmxUSDJGYm5CSk5xTXBFdnRsQzNfU2V1Z3NxeQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 06:16:35 GMT",
-      "source": "tmgm.com",
+      "title": "Dow Jones Top Markets Headlines at 9 PM ET: Inflation Was 3.4% in July, Down Slightly From the Previous Month - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaldkVFdLNEc2Y3V5YWtLbUxzaE9IWHVHazFXLTgzaGxTZTVaVmI5U0NtbDUxV2Q3OXJBNThCcUsxaDdjb2V2WHZiLWZ6REFGTGhmbTg4WUlKUDRzYXdaeTBQYWZJYndzQzFuQ01idWJVZmt5eE1sd3QwQUZoVU9Gc2xIWFpWZzd6d2lGNF9XUnVfek1RUlJDSHdFUzh2QQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 03:48:38 GMT",
+      "source": "Moomoo",
       "category": "ตลาดโลก"
     },
     {
@@ -100,18 +93,25 @@
       "category": "ตลาดโลก"
     },
     {
+      "title": "SYNEX เร่งขยาย New Growth Engine ครึ่งปีหลัง ชู AI Infrastructure-Cloud-Energy-DaaS ดันธุรกิจมูลค่าเพิ่ม - share2trade.com",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNNXJyQXg2Y1VCNDhfNlRFdXNEb0VUUV9nYnJjTDA3ZnJmS1d2aDhiUmFqM2NrMkFrdUZoN1ZVaTFkMFJJZ3h6YlNKOGpDMmt1M0hlOGlBMHltOF9qWWtqNFpHbjVkMzFxYllHdnVDLTV1NllxbmZrRmNpYnRQQkxwOUlXUnBoaHZ4Z0RYd3pySlE5R2dvSHBFVjFndlExeThKZEhBZlZZM2NvQnZSXzBoUnU5ZHNZcWFXc0NsMHBnMXZVNTluc1kyUWFSb3VFRkxaRlg3czFxaW5oXzhWclMwY2pWa0hJX2p3dXlnQ29yQUZJdWFnek5aMVFkaHAxZm1fcTllNmMxMktsN25Xb3gwYzZNcTBwRzZtQzdJbjk1MmFMd3FreGxnYjVZakZzMmFlZW9MWXR5LUotTW1qVUhhVFE2MFJCbE5RakZBT1NUdGNrUkVaNkU1cm5zWmVjZTdFaFBWTF9SU1lTSUZkVWNaRHlOaGt0anBxc1p0ZldIeUhjazhVLUtfWEFGRnJCRjliN3BReWNlazlTeG9HdmpfMmZIelY5QUpudl9ZYlNmelNlYmVZcEFvejg5LWh3dC1VMGYwQjFOOVpBQ25MZ1NCS0l3U1I3U0Ezby1RY2pwRk9vWHFTaXJxRjJxRnd5bEMtR1Y0R19VZzc1N3lBTDdlWWxqRHJLMXpETTFJWlRiRlJ0bW96NFllTEc1My1ObnpHemZoNm9nUEFjRDBOOWxIZnZrZXpKVEJSZW11RklMTFpWOHNqMmhmOGYxN0lodzZzekh0WV9ZT2FjODItVkJQcmxSR090WHFNd3RjbW5FaVhrSHNjWmU2cVpBX2tYMlVXQ0hFU2lXWWNER3hMM1FMcA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:30:01 GMT",
+      "source": "share2trade.com",
+      "category": "ข่าว Synnex"
+    },
+    {
+      "title": "KTB ประเมินค่าเงินบาทวันนี้ - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNHlmc2xCSjZ1VU1ZZzM1SWJlbEFDWXlUNVllRHBhM0dBZFVVUHR1Z1EyelpxWEw0MEQ5Q1gzSWNfTXB5UmpxMWxfVGxhS1RialBqeU1uZE8wR1pTN3laN0JVYnZPZzBXb2hXUEZ3YWtKRmtCZVRJeXo5VDlZWTJ3d295V1BIaUgzNXBSdVVjSElkb0lzZ3hOVm1CckdjTTAwWHlJMHVZZm9NRE5fOWUxOTRtNzRCTVhIZl9DQmg1U253ZjBWMkROLXVZTGdsX3U2cmVGSlJDRWJGemwzOFBPdUZuMk42V1VZWTRXSDgtYmFWSWhfbnRqV0NTTlk0bFo5VE05TGtWX1oyYTJEVko3VVFELVkwS0FrTlJIcGtjWURSV0dtUVg0QU0xREdEMkxoZzA2NThGZEZxNl9ua1lCYkRybXIxYmduMVJSTFhiZlpXdC1SdWt3cEh6NFhZNjI5Z1lRYUNBMUtjUDBWX2lkdGlqOHBXZTVMeHdKLWdXZ3RiSlhYampoeDFTSQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 02:17:04 GMT",
+      "source": "facebook.com",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
       "title": "ค่าเงินบาทวันนี้ 13 ส.ค.69 เงินบาทเปิดเช้านี้ 33.07 บาท แข็งค่าขึ้นเล็กน้อย - thansettakij",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oUTA4Sld5ZTJMc3NCbDlNUVBvWFBYTGRHU1A0V2x2dXQwbFZVeWxpU2liYW9GeXFRQm5WY3RuY0tFNTN1cWQ3czNocHJaNElLM2Q4UkpB?oc=5",
       "pubDate": "Thu, 13 Aug 2026 01:58:00 GMT",
       "source": "thansettakij",
       "category": "ตลาดโลก"
-    },
-    {
-      "title": "SYNEX กางแผนครึ่งปีหลัง ดัน 4 New Growth Engine เสริมทัพ ปักหมุด No.1 IT Ecosystem - biztalknews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNUExNFdaUjczZVFZMjVsMXFQLXBJdENlZW9LUC01ZWQzYWdLSXZ4cFJURGlBR1p0MGhJa280RjZlVmRRc3hMRHJGSGlaVDdOcEcyY00tVW5JMlFBZjRDOE1hSFZRekwzZGMxSE9mSWhmSzdBNm9Ka0lUc3ozQQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 08:15:53 GMT",
-      "source": "biztalknews.com",
-      "category": "ข่าว Synnex"
     }
   ]
 }
