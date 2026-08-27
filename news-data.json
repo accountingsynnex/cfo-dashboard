@@ -1,47 +1,96 @@
 {
-  "updatedAt": "2026-08-26T13:04:29.711846+00:00",
+  "updatedAt": "2026-08-27T11:05:27.335254+00:00",
   "items": [
     {
-      "title": "หุ้นไทยวันนี้ปิดบวก 5.91 จุด แรงซื้อกลุ่มโรงไฟฟ้าเด่นรับแผน PDP จับตาคืนนี้ PCE-งบ Nvidia - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjVmdFYVlWWUNXc19NbG5rRlljZEFndDJQbHhxRkNKdGZ0ZVhqcjVUaElEWUlLdUxqTDJMejhPX185TFdsSVFBa2ZYa3J2VGMtVDRJbU9hdTB0QkhiRGRjVlhB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:28:01 GMT",
+      "title": "ภาวะตลาดหุ้นไทย: พลิกปิดลบ 1.22 จุด เผชิญแรงขายทำกำไรหุ้นใหญ่กดดัน แม้งบ NVIDIA หนุน Sentiment ระยะสั้น : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FRFUyUlNlTWU2RGUxd2ZLcTByU0gtSVRTMWpsNTB3UjRIVE9fSEEyRHZQZGZiNG0yWjkxMnNteURIWENteVVuYUFmVFJGRGF3?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 10:30:31 GMT",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยวันนี้ปิดร่วง 1.22% แรงขายแบงก์-ไฟแนนซ์ กดดัชนี จับตาถ้อยแถลงเฟด - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OUGlDMGVhZnllSXpqdVRDUVhvekRNMmNTLV9xVlRzSElsQ2lZZmNyNlRCZDZTbmZhdm15VzRYUmthSHdLYk1TcW8xTVJmOFRJN2FPZXdPX2w2S3hObEdxOGhn?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 10:14:00 GMT",
       "source": "bangkokbiznews",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "TRUE ผนึก Amazon-AWS ขับเคลื่อน 5 กลยุทธ์ AI ดันไทยขึ้นแท่น Tech Hub ภูมิภาค | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JYzZkYnJnMHVIZ0ZuZXk2YzNqU1pPdDBVLUFMZ0puWmszTjBVNFd1NU9Ob3JHR3FGd3RyZVFpSzlBQ0pJVmdNMmFFa3dZeUZYWnlqdk13?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:24:04 GMT",
+      "title": "นักวิเคราะห์ชี้หุ้นไทยมีลุ้นทุบสถิติเดิม ทะลุ 1,852 จุด ในปี 70 หลังแนวโน้มกำไรบจ. - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RSFhFbnFNTlZPN3hHZ2NtbjBpcllHa0pDOXZwTVJuVDBEaW03LWJteGlHaFYzd0g0ZVB5bmlfTlo5YUF3dXlETEpLako3QTlxVUFrNTdLb0xjdDhKVm5aeWtPVzA4STB6N1dVa1h3VGdKRDlY?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 09:45:00 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "แอสเซท พลัส จับจังหวะ หุ้นไทย ฟื้น ชู 2 กองทุนเจาะหุ้นกลาง-เล็ก รับโอกาสเติบโต | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qTVdVdFlqd0NUaVBXZU92d0VRUF9BWTEtRmVsVU9QMVhtZmZUaDRTS1cwbk5hVEktWHdjX3cyaFRncGV1azBiNUU0NHZ1MFQwYnpGMVln?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 09:35:24 GMT",
       "source": "LINE TODAY",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ธนาคารแห่งประเทศไทยประกาศยกเลิกธนบัตร 1,000 บาท - ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FOHJjMjFaemdocU5PcXlBbkZqQk1EM2hVbjNoTEVmYlowNk9YSUhHc19fSDNVaUNPblVmUV8tSEY0TjhVSjBYdXFzV051RmVhV0M4WDUzLWtuZHduZ21neTBmYWZLTDc2?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 08:00:53 GMT",
+      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "บีโอไอเร่งสร้างระบบนิเวศ AI – อิเล็กทรอนิกส์ รับคลื่นอุตฯ ใหม่ ดันผู้ประกอบการไทยสู่ซัพพลายเชนโลก - ThaiPR.NET",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VFBJNk1aTTJpNU0xMWZMUzREZWNjOTZnTmd0N251Z0l5MDhDaVBhTTZpOEptTkY3NzdQNTQ1MTBGNGJacmdLSVF1eThkUzdGXzN6OWZoVQ?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 07:21:00 GMT",
+      "source": "ThaiPR.NET",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "การโยกย้ายและเลื่อนตำแหน่งผู้บริหารระดับสูง ธนาคารแห่งประเทศไทย - bot.or.th",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Z3dJRHIzc0VsSl83MTB6RlVjN29UTjlvSXdQOFpfRnFBOFZKWXFoZ21UenRIUURJeE93ajk1UUZsSWR3WlRxRTF4SHo1dVd1NGwtOGw2RGZJVENYNFBnZVZ4ejNORHpEU0FFNVR6dVg?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:52:23 GMT",
-      "source": "bot.or.th",
-      "category": "เศรษฐกิจไทย"
+      "title": "SCB WEALTH เปิดมุมมอง Turning Uncertainty into Opportunity นำ VAULT Framework วางพอร์ต 5 มิติ เชื่อมการลงทุนสู่เป้าหมายชีวิต - newswit",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WDlKZWllV0VQMWhCcFQ5aVo3Z1VMY1k4VGlBSzdBRlh5WnNIMGFaV29ISHhDa1NWUldHTXZxWjliTlJVOERqT2FldVRjMnF0d2JUQmNCbW1YNDN5S1Z6dTEwUWFBNlBiZW1F?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 05:45:00 GMT",
+      "source": "newswit",
+      "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "“เอกนิติ” เร่งเดินหน้าการลงทุน ฟื้นคืนเศรษฐกิจไทย - มิติหุ้น",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdUtYRzJSckhROU5HNEpVS0RfWTN5eXNzUEQ4bFdJei1aWURqdnl0UWFsdVFqaEdBbjQ0TThBWk9RbHhjUXRyZkFMVy1Tc1dlbVRzU09B?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
-      "source": "มิติหุ้น",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "เครือซีพี-อไรซ์-TRUE-Amazon ร่วมทรานสฟอร์มประเทศไทยสู่ศูนย์กลาง AI ภูมิภาค : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9taTcwMmlUNnBGTmVTTDZtZVF1TWd1SE5aRVZNUVcyNjF6NFY5STR2ekU2NkRNVTlTU0ttQmZnbk5YdmowZ0YyVG04ZlpNWmtR?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 09:50:49 GMT",
-      "source": "สำนักข่าวอินโฟเควสท์",
+      "title": "ทรู ดิจิทัล อคาเดมี หนุน Coding Thailand 2026 ชู Human Skills สร้างคนรุ่นใหม่ยุค AI - iPhone-Droid",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2NvVFlubzRDNEw2bnJYVmd4NkpNTGNxcnBON3hONFFiTUtvZXlDeUNlS3h4cFFRNEhVYzFnZnRaOHN0WUxwOEN1bzdJQWRRM2p4cERxQXlwVHlvUDNqREZKbjMxY2I0YUo3UWI2akJRVUlGNTBfdkdyZmVPVlNneW9KN28xVnF4bkpfb2RYbERuRTZ0MDE3X25fZURvMUk?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 05:30:32 GMT",
+      "source": "iPhone-Droid",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "กนง.คงดอกเบี้ย 1% ชี้เศรษฐกิจไทยยังโตต่ำ-ไม่ทั่วถึง - thaitv5hd.com",
-      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNbGxYWnJuM1ZCZ083cWduMGc1dHZQeDJ2OVIyWUxQN2JoYTAzd2lMR3lPY1p4dTdPSV9qV3RTdGdlTVlvYlZTSVhYazdVME9rbzdZNGpWVGhBS3AtU1dlQlBFaUFGV2E1T09oYXJKMTlSWjJVWjRPdHd4THNWTE1HTlpOcHNxZ1pwd3IyQ3RTd2FNQXRwQ0kwTVpsTEJ3S3pVU2ZWS2tsRFlHVFhNQjE3TVppLVpnazlPclo2NER4VlpDS0lSYzk0QXRQMWRMbTY0Yjl3MDdnRF9sQVF1ay1EUUV2cldYLWpsTHExZEk2WnVLNm9Ka1NadE9BZ0d0NDlCV1Z0dmUyY0h6d2NWMTEzei10Wnk1S25MdExPRHh3T01WTFdUY1hQbGt4QzlPc3FiamVvdEo2WktZZzZBOWFCSVlWQ3E4RnpjZWJUM09JdnBSaEF5dDhISzMweXIya3hocWQyQmJKVU1aZ1NUMjROX1R3OW1qLWdTNDNRNVIwaVVjeTdTeFlsbTBtMWdkRDBnWUtVb1hNbFhpaDlBV2VRUXlSNUVVbExTc016TWplQUF3NlV0Y0V5Q19HVi12VGpidFUyZEpyS0VCUnBralk1UE9EMEhmanhEbUhCLTlycHY2eGpaWUV3VlFyRS0yLWpxVkpzRm5nbU5OLXJ0MjFtSWQtY0g4ZWluMXZtYXAySHprRzBKVzF3TFJSZWlpN0VHRmltM29HRnprUF9makRMMXowcGJTazVOVWN5Zzltd0ZsZFdDMldkX015R0lQbXlIbUxyZUFpQ2lrUlB6VnFUYUFJRWoyeGlxRk5OSTN1N1Y?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 09:35:04 GMT",
-      "source": "thaitv5hd.com",
-      "category": "เศรษฐกิจไทย"
+      "title": "KTB มอง “เงินบาท” ผันผวน ลุ้นถ้อยแถลงเฟด-ตะวันออกกลางคลี่คลาย | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Z21GM0drMklYdkh1LWgycWduSGhjTmFNSklLNkJVUC1fRkRXNUJoOHdSMXNlVlV6SFJnTTMtMzhqVzd5V2tHbkZHSFhWM3lhMUlmNF9B?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 02:54:35 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ทองวันนี้พุ่ง 350 บาท! รูปพรรณขายออก 72,850 บาท จับตาแนวต้าน 4,673 ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hNTRNYXhnd3pndG0zOXNjbU5fNjlpY1hSZTFhaUtUM2hTMnpnRWRNR09JR1VKOXJVNFZFVEZnWnZOV21jV1ZzWkdXeGxTcGZvbDNhSEZR?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 02:29:14 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "KTB ประเมินค่าเงินบาทวันนี้ - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xMXBKbVdLak1lbE5vZkJRZnVvQWM4RDAzQnktYWFOUWNnOWVlTS0yWW82OHhwaERYZHZyR1p5ZDJKV2p6ZU5BRTU2NUR4MHQ1bW1qdE9HQVl1V3JuSHJab2hUcWdrODdJ?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 02:28:35 GMT",
+      "source": "Thunhoon",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "บาทเปิดเช้านี้ 32.80 บาท/ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeG12ZEZ4MkUxeDRRUHpHT0tMYjg4VndzNDI3bjFvTmVzXzc0MVM2UFBqdlo2b0txV1AwcVE0a1U3WFhZbGNEM1YwY1YyTGNhV1RVQVdB?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 01:54:14 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "'เมตติภาพรรณ’ รับไม้ต่อผู้นำ ‘โอกิลวี่ ประเทศไทย’ ชู AI ลุยความคิดสร้างสรรค์ไร้พรมแดน - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMTFSV1VvMzJTbEVUSTFabDJGaWZZNk1zSWVDMTFlY0Roa0xVRDdJTHBDZWM5SzVmcWlINERiZWdBVzRXUnh0QVd0ZVpPWFo2TlZ3N3hSbTNja0k?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 00:48:37 GMT",
+      "source": "bangkokbiznews",
+      "category": "เทคโนโลยี/AI"
     },
     {
       "title": "กรุงศรีชี้ค่าเงินบาททรงตัว 32.72 บ./ดอลลาร์ หลัง กนง.คงดอกเบี้ย - facebook.com",
@@ -58,60 +107,11 @@
       "category": "ข่าว Synnex"
     },
     {
-      "title": "เอกชนเร่งหนุนไทย ‘หลุดพ้นกับดักรายได้ปานกลาง’ ลุยดัน AI ทรานสฟอร์มประเทศ - springnews",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53YWNMYnhDSjhwLWRneDFpWEgwZUEzVW1MXzBpUlU2eGMteFptTzJ5WVE2ZXlTQ2Zjc0tyZjQ4S0xTaG40N0F0YTl4aDBXeWlvXzNBM1lpYWRhTHFlWjhqaEdaZHpNMEsxa25z?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 09:23:25 GMT",
-      "source": "springnews",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ไทยผนึก AWS ยกระดับ AI ดันเศรษฐกิจดิจิทัลและพัฒนาทักษะ 3 ล้านคน - posttoday",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbUtVa3A4OE9Uekl3dFZwQTRDUDFLeEpRZ1RONnA5NVNwR3BKSGFNSmlIWU8yZzA1d2o5bXlCdTd4SDJkUVJCR2JwVEpjZUN6OENr?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 08:44:00 GMT",
-      "source": "posttoday",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ภาวะตลาดเงินบาท: เปิด 32.69 แนวโน้มแกว่ง Sideway ในกรอบ 32.55-32.85 จับตาประชุมกนง.-ตัวเลขศก.สหรัฐ - RYT9",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wcVlONVhsYm1sdWgxM1BDSU41M1YwRWZTWXhvbjI1UzBmdVpualg5a0hhN0F3UUhVbkxOYWV1ZDZMWk5VYTNlSl9B?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 03:21:19 GMT",
-      "source": "RYT9",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "ค่าเงินบาทวันนี้ 26 ส.ค.69 เงินบาทแข็งแตะ 32.69 บาท จับตาผล กนง.บ่ายนี้ - thansettakij",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNW4yZ29QeVB6T05pQnhFaGdINmhsNG9UR3J3WWN4dHhjV3RSMExvdHpQMUgtMkh5djNJeENlV2lvQ21BM0puYWRPdjdfcElwSGpxQlZB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 02:47:00 GMT",
-      "source": "thansettakij",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "KTB ประเมินค่าเงินบาทวันนี้ - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81NldJNndWdlg2VHFwSTNHcWZyVVcxdkMtZlhxNXgwbEU3R3luVzZvYVBpTElNOTlOVWF0TmRQcE5NVTcwZGdjMDB6VUNvWWFzcDVCbC1LNGNJN0pfdWVQelpPcUhiMVJ5?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 02:28:37 GMT",
-      "source": "Thunhoon",
-      "category": "อัตราแลกเปลี่ยน"
-    },
-    {
-      "title": "บาทเปิดเช้านี้ 32.69 บาท/ดอลลาร์ จับตาประชุม กนง. คาดคงดอกเบี้ย 1% | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IaDQ5YkdkcDFUdFk1R0FLaWpyc0oyRWpZWncyZHdLLXFzTjh6RHhCaDBBV3lzUzR3UmwtV0ZLN3duamkzX0FjT0hwTjhnWmtSUmc0bi13?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 01:24:06 GMT",
-      "source": "LINE TODAY",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "SYNNEX Launches “AI Hub” to Unlock AI Potential and Drive Measurable Business Impact, Accelerating Thai Business Growth - ThaiPR.NET",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OOWJ0YzJBUkxGQnFTZ2xvRlpFMFdMdWVoWEloWVRIckd0QWk1cHdCTHlIRmQ5WWxYRmhyd3JyVlJ5aUkzdk1JWXZ3M2I5aVRF?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 01:08:44 GMT",
-      "source": "ThaiPR.NET",
+      "title": "SYNNEX เปิดตัว “AI Hub” ปลดล็อกศักยภาพ AI สู่ Business Impact ที่วัดผลได้ เร่งการเติบโตของธุรกิจไทยอย่างไร้ขีดจำกัด - Share2Trade",
+      "link": "https://news.google.com/rss/articles/CBMikghBVV95cUxNa0pjaUs5Vk1rQjBtbDl4N1hSREhFR0JHcnJCaUdfak1zVU1LWHNKMVFXSnNmSExJUjVNbGd0Sk42WUtMUWtvZVgzR3hvaUdFb0ZxaVR2OWZid3ROX09hZ2U5dDNINUlTa1g4bWpSYzMyMkhNS1B1VnEwUm9hdHB3UDJDS2xxSlJHU011WURlaTE1ZzNqSXZydllJbHFhdnZDTm5JZ0k1ZzVNMFRhaU00aUdzWjB3R2pQX1E0UmlIaGNFVUVVODJydFVUMC1sUHAxdVJoMVVtX1ZTSjZEeWRjRkpmR3JEcTlodHBSeU9GSUZualc4WlBwazMxWkd0SlJiMDA1QWZ0djd6bUt2ZkFoeWNFNFJEQUxuR19abkxDNWFHODhDd0cya3VVZGpmSGRxTmhVNmtsWVQzMmMwckRyWHBFOUgwSmo2VG1Tek92QWx4WVdLRWJtUm9aUV9iRnlSVTdnRUJ6RnYyMFd2TDI1aUxrUHFTXzFrTV9YTllYMndhdlZSTXZNVXhqLTRxTXJxUGxJQ1RmLXJzeEVYMWZIbkdpUUhWM2NIRjByeG1zTl9ERmxCbm81cE5LWUpZZW1QS0RqRmFxMVFOM1A0alktcmRfT0d3YTBkckwzV1JoYzgxNWZvS3NuMWY3ZHVodWZreW1JSy1pQkZ2QTJlcjFfdGdYSWw0UHVLSWI0Q3JLZEphbDhkUFJQZnNIUFN0cUVUZTloSS1DS2VIcVJGcU9SRTRTSkpYVnRLV3VRTWhXdy1HSkJENmJaTVFRdm53YTFwSlBGdEJfcEd6Ykw1MEhWTVRiR285blgwZFlwd1FnV3luNTAydnh0QUxVOGtzek1GQk55Qzg3dUtXTGZBWnpVNDFKVE9EVV9Ma2VBUkNUaW5sSWlMZFhFVWNLMjJxUUVyUDBEUEhfZm1yN01pWjgzU2FNZkpjNEF3QVdXR2JjdkhUa2FCQmx4cndjZ1A2NjQtdm0xZkhkTklRWjJROWdrVWl2NzJoMFVBZjAxeU5MVGVGLUF6dWlTb1Z6Zjkzd2dQOVozdVdMdlY4NER6TEk5Y3lVclJHMFlyOVdSVXZxSmpOa19TdDR4MnVHLXFZZ3FZQkZDZ3JQaXFjTE9qcVFMLXYtT0t2ektWMW1zQW5wRExwUWRMcFhQZmxGT01PYWMzTkVORm9Qb0RoVkt4SzVXSmJZYTlhWUpQZFYtM0VOekVYT0pBX2xwUE16MlJoZVgxSnpUdmRhVmtWQ1lVdHV3dWdQbXQ1RzFzSXVERnJSbTQ3MkR1bVR5aUFmcHBpVHNhNTFtOW50TlhySEVsOHc3cG5hcGg0VVpqcm5sdkZPNDNmaE1nak5qcmszOHJ3THNuWHg0bWFJOUdvVFVOSVlhdXZn?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 03:44:58 GMT",
+      "source": "Share2Trade",
       "category": "ข่าว Synnex"
-    },
-    {
-      "title": "SCB-PTT โชว์พลังพันธมิตร 25 ปี ยกระดับ USD/THB Swap สู่มาตรฐานตลาดเงิน - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vYnRrbHZtd2FaMDBmR0dwaVpkWHpka3Y0cmtoOFlJdU1acGpjaHcyV1N4aWJzOUdaemNiYU9HblgzWUVuSEJYRVE5SQ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 07:02:47 GMT",
-      "source": "ข่าวหุ้นธุรกิจออนไลน์",
-      "category": "อัตราแลกเปลี่ยน"
     }
   ]
 }
