@@ -1,18 +1,74 @@
 {
-  "updatedAt": "2026-08-30T06:25:11.308878+00:00",
+  "updatedAt": "2026-08-30T16:30:20.053539+00:00",
   "items": [
+    {
+      "title": "Real World AI Transformation กุญแจปลดล็อกธุรกิจไทยสู่ยุคคลาวด์ - biztalknews.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDg2Y3pUNk8tZWZMNWhfdXVuWndBaHNwUk96am9obTlOZGJUdlpLa0FNeHZPU0xOeUZUM2lSM0h0dFcyZjRDaDdDTkhSZGIySkltRHptV2N0NjdRRktDcE9TVTBEZ0RvQVB6STZxc0xEMnZhQ0MyakJCclVvWVZHajVqcndYV0UwQnNNTnY3VVlyUWQyZnlJ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 13:18:33 GMT",
+      "source": "biztalknews.com",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "‘รพี’ ชี้ทางรอดตลาดหุ้นไทย ใช้แผน Dual Strategy สร้างความโปร่งใส ช่วยฟื้นความเชื่อมั่น เพื่อขับเคลื่อนเศรษฐกิจระยะยาว - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwVzFGQ1o1bUJ4NF93elJRT1lYc3pJX3dQSWtudTVHeFN4N2J0Rjktd19DMkdyVkhoX1I2VTBoeVZNeW9yVzdPOGlpemlqN0FmNzJzaThPUGVxUU9xd0ZRakhjeXdHcEpzeEhJc3FiSG5mSG8?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 12:35:09 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "“เอกนิติ” ชูลงทุนเครื่องยนต์ใหม่ ดันเศรษฐกิจไทยโตเกิน 3% | Thairath Money - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tQW9XemYyNWw3eFB1M0xSNExhSU1aOElYck1OT2w1emRFZmNYcmJWUmZLUEJvbDh0V0xiUzk3VlA1TlVOQTNWZm1rMFZucndUbWZPU3Vn?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 12:16:09 GMT",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "กวดวิชาดับ แต่แท็บเล็ต AI โต ผู้ปกครองจีนแห่ซื้อ หวังช่วยติวลูกช่วงปิดเทอม ดันยอดขายพุ่งทะลุ 7 ล้านเครื่อง - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoVk5PbXFtUm1aS2s5cm1rSloyb2RiWXpTQXVVY0NDZDBLbW5vbjZ5UE5YNEp1QWFLMENUOThyOWRvWE1yMFNPbUVEcmRFS2hjN0s2TWctZnpYMWI3RW90bEIwMnZLaVU?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 11:49:36 GMT",
+      "source": "thestandard.co",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "จัดสรร (ทุน) รันทด โจทย์ใหญ่ภาคการเงินกับเศรษฐกิจไทย - ประชาชาติธุรกิจ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84LW1CbW5jREhXYzY5VU1lczdzLU02b0daWlZWSGY5NUdXM3NGRDgtRk5UWXdhYUlfcm1md2tBVFpfZXVLczJQUUlqZ1BHMTVXcnFHMEZ3aWcwM2M?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 08:44:00 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "100 บริษัทเทคโนโลยีเรียกร้องให้ยกระดับมาตรการป้องกันภัยคุกคามทางไซเบอร์จากบริษัทยักษ์ใหญ่เทคโนโลยีเตือน โลกเหลือเวลาไม่มากในการรับมือภัยคุกคามไซเบอร์จากปัญญาประดิษฐ์ - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15MWVjVEg2Y1VNU00yWWZNTmFuRC1iOURXNUZqTUI3M1V1bC13Sl95ZGxxMGN4cHY4QWQ0ekZvZXhkZXdxQ0hsTXEzNGlmNDRxdHZobERrV1ljbUUwOW5z0gFfQVVfeXFMTXkxZWNUSDZjVU1TTTJZZk1OYW5ELWI5RFc1RmpNQjczVXVsLXdKX3lkbHEwY3hwdjhBZDR6Rm9leGRld3FDSGxNcTM0aWY0NHF0dmhsRGtXWWNtRTA5bnM?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 05:11:00 GMT",
+      "source": "BBC",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "‘ต่างชาติ’ ส่งสัญญาณบวกหุ้นไทยจบ ‘ไทยแลนด์โฟกัส 2026’ มองไทยเข้าสู่รอบลงทุนใหม่ - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SRUZBUG1XU1RoLW1WQkxjT2kycmZiU0EzWVd1cjExRldxVjlnU1FYaTlaVld5a0NPMDkybC1uaUZhTlRqOHhETjBrR1FSdEFlVUlZQ3BrcGYtSGlDeFFkRC13?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 05:01:19 GMT",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ดีอีเปิดตัว TH-AI Passport ยกระดับทักษะปัญญาประดิษฐ์ไทย - TheReporterAsia",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wUFdTY2tTaEk3b2tSenNIQVJER05NRUxRbUZUTExaZEFMeXJJWWVoM1lacXJiS294LXk1ZGJ1MXlVUDl3RkpvaXc1UGxYbzNjOFctVnhlY003am1aSEx6YS0xenBBcF94?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "source": "TheReporterAsia",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "Data Center ไทย “สวยเลือกได้” ไม่ต้องเลือกระหว่าง “เอา” กับ “ไม่เอา” แต่วางยุทธศาสตร์ไม่ตกขบวน AI - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVl9ETG5MWFlmaHJ4bUVHUWN1dmpmUmdzMXhSVy12SXBMTVcyc0Z0X2hXX2FUN2RUc0tVMTdmcU1FbmZLSVU5NzRlakhiMTVNSWg4bg?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 03:47:15 GMT",
+      "source": "Thai PBS",
+      "category": "เทคโนโลยี/AI"
+    },
     {
       "title": "วัดใจหุ้นไทยไปไกลแค่ไหน? รัฐบาลอัดสารพัดมาตรการอุ้ม - เดลินิวส์",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cmkwQlB3TUZIR2tRclBLYUFVZkpCeXpjcHpibTlHVUpBX3o5bzB2a0EtU0lOSGRGOTgzMWo3T3kxdi1XekRWaG5iOFVLa1FkOG8wSTBkZ2E?oc=5",
       "pubDate": "Sun, 30 Aug 2026 03:00:00 GMT",
       "source": "เดลินิวส์",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "“ธปท.” ชี้ ‘ลงทุน‘ หัวใจปลดล็อกเศรษฐกิจโตต่ำ ดันศักยภาพไทยพ้น 2.7% - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CUWlTS1l4SVpKVlhxODFKbUdOb012aXJ0X2R1THNVS3gxcEhxMXBHMTF1X3FDdjhKcDRTcVZ3QktvRU8xdWFHRHhDZG1VcmFfWUJia0Z1bEdpdw?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 01:53:35 GMT",
-      "source": "bangkokbiznews",
       "category": "เศรษฐกิจไทย"
     },
     {
@@ -30,20 +86,6 @@
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "Ch7HD. . สปสช. สนับสนุนนวัตกรรมทางการแพทย์ฝีมือคนไทย กระตุ้นเศรษฐกิจไทยให้ยั่งยืน | หนทางพารวย . ดูรายการ หนทางพารวย ย้อนหลังได้ที่ : https://www.bugaboo.tv/th/variety/honthangpharuai/ . ติดตามรายการ หนทางพารวย ทุกวันเสาร์-อาทิตย์ เวลา 06.45-07.00 น. ทาง #ช่ - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMihwhBVV95cUxQekF6cU15T01hLWE0MkFmWUtiQVYtNEVmX29BTzZKN0ZBMzhqX19GRTNHS1VwWFJObjkzYXBfY1N3N1hGakswem81X05SUi1jeFh3TmdPV2E3dGNGWUw5YW5FSHFaLWZuTXNKcXB5cXVmbVRQS19ubG5mSFNfQXJrdEExdmxKVGF4eVgxZ3o4Rmtja3hpRmVCdGxqd1lCUHVTaXNKeXktUVBLRXNoNjRuckVpQkdSV2FPVHJRS05CR295STI0R05BS1d6dUlkajNPd3E2d19FcFpNWG95aHhkMmd4TTU1SXRwdWlzWDFKRXJqSnNvNGgzRUZrb1Z1OE0wYm5RSU16dEZlaHBsd05GYmVCNS00dWh5THU5a2s5WDdudS1UYnRSeF9UTVRlYmc2UHR3X0xQX3VZWjJJYkxiNF9Cd1B4WTZ3aVNibkVsUllHNGRpZGgzR1JYX3JYdmcwdTk3d0trWGdubGlDYVVHX0JRNHQ1eVhjWFJaQ0ZxOTd0a3ZfMTJjdU5YVVJaWlRObi0weU1fVVNrWVE4bzNRbWw0eDlTTXlhNzJVcFVEY05BemVMcFZGNXh0Z3Y3SDBWam1BSFpUaThfM0czOUFjMlZrSG15SFU1V20zcFFkNDE1cEM2Q0hwZVdRWWdPbTZUVTZUVkNxM3ZuT3hhSncyLW1KYy1rQU10bGlvMXFSbGlpNFpoQXNsdmtEdUJGMkcyQkVlOG4yc1pxeUFYSGFrd2NNZXNnTE96SUpUeVFNN0ZYSnF5QkEtT3BtM0tnQ1djM2xZd2R3UEJwamRXSWNueF9wZER0bFB0QlZWZWMwZ2ROcGpkcWdrMUVuRFB3TndWYjEzXzRFaUpUNjVhRThxNTRHTUprY3hhVEZPMG5ZdWFpODVDTkdQUU5qRW5VWlhueFh5WGZvSFhPZGZ4cVR4UW9ZbmtGT2R5R3lkRkpiYnRSWXh6UW9aUEM5cXpEZmxySWpXVjhSVlFnMlJMRUZabi1samVDTS1TdWpjaFNrc3o3YW1MQXM4VU11ZXZNeGhfLTc1TWlPWlRhUHlqaUxGODZ1MkpQZjdpMTVOZ3NvTE5FTHJkZlRwSTJaek85Tkg3MXh3V0pEZWo3OU1MaE9PU29WSGIwXzV5N1FyUC0yWnB0T0JXa2VVWnVHSFZlZEZQekpQb25hVDduMUtHM0MydXdqMERodG1FOTM3VzBKTnNxSXFCU1V4VUt3Wm9halFpYUxvNlBKXzFVZmc2V2s4TUhrejU3SXlJdkZQc2cwRUI1MkJMcGJ4dHNyTE42b3Q4ZnZoZEw3S1BTSDBEX1B1dnpWUzc3WjlQeTNqZkRMNE0zalhjSzN5a20ySmhIaldua1ZuNXVCOA?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 00:20:41 GMT",
-      "source": "facebook.com",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "AI Supercycle : ไทยควรอยู่ตรงไหนในห่วงโซ่เทคโนโลยีโลก - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kbDh5RFlncGtUdGtDTzJ3bHdVVGtSSHJtLXVCN292U1RMT3dvaUdUMS1Ha0ZSd2NxLVBVOHozUnd5SzV3VUpVMzRJN0lwXzVNZkFRR3lZMTEtMGdiX0pHeG5fMHhPUjRxYlB6ZF9vNndoZw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 23:46:01 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
       "title": "ธนาคารกลางฟิลิปปินส์ปรับขึ้นอัตราดอกเบี้ยนโยบายสู่ 5.0% ขณะเงินเปโซอ่อนค่ากว่าประเทศเพื่อนบ้านอาเซียน และยังคงมีแนวโน้มเข้มงวดทางการเงินต่อเนื่อง - VT Markets",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EeGRJTzlsM05idGR6dWlNejVuWmpQc2RJYjJ0S0ZwS2pMMnpaRnVpZzRiUC1nTEVXS0xpQ2RTWjl3Z0txTGljcXdiNXgxMXdLZlYtY1VVcklvdHlmRXVmWVZNcw?oc=5",
       "pubDate": "Sat, 29 Aug 2026 19:17:39 GMT",
@@ -58,32 +100,11 @@
       "category": "ตลาดโลก"
     },
     {
-      "title": "“เอกนิติ” โชว์วิสัยทัศน์หวังหุ้นไทยไป 2,000 จุด ชู 3 ยุทธศาสตร์ หนุนเศรษฐกิจไทยโต 3% | Thairath Money - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5cERMYTIxWEZxOHpFTjdSZ2M5aG0zbmF4ek5waWg3OS1RS2pPRXpEZmpiTnhvRWhDNlJOXzZYVWtha0x5WkFfOUNwVFU3Zjd5YWVLSWl3?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 15:36:51 GMT",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "เงินบาทเปิด 32.80 บาทต่อดอลลาร์ อ่อนค่าเล็กน้อย จับตาถ้อยแถลง เฟด-ข้อมูลศก.สหรัฐฯ | The Better - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmNDI3WlRlZHdBNUxRU1p5UjFKR3RTSEM3bkZ4UmZfR0UzZkxUajl0S2lYalRPZUYtRDNyR3NDV0doZzJBLWRBUlI3VVFVSmI5Z1p0NU5R?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 14:43:07 GMT",
-      "source": "LINE TODAY",
+      "title": "Daily Technical Analysis: [22 OCT] - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ydERxNlRvanIyRlVpNEs3eGJpejBvTjg0UTQ3TWtqOHB1S01wR2x6MFFuZndRQkkzaTVuQ01rdWNSU2Z6T3Z2UkdpczBQdGpfMmlDWVNBQVdJMEtKVzFz?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 04:22:45 GMT",
+      "source": "tmgm.com",
       "category": "ตลาดโลก"
-    },
-    {
-      "title": "“กรมควบคุมโรค” ชู 7 เสาหลัก ดันนวัตกรรมสุขภาพสร้างเศรษฐกิจไทย เดินหน้า 4 ภารกิจเร่งด่วน - Hfocus.org",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rZUNMbDZwWlZvcnlIV3dPMV9nc2YzRUNCWGNlRHhUS3NXa240VWJPRTZwT0lfZVNpSE13WVVqdC1GZG9pSkFoOVpFYXR3RTlzMEV4VG5tdw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 08:46:12 GMT",
-      "source": "Hfocus.org",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ไทยสู่ผู้สร้าง AI ศุภชัยชู 5 ยุทธศาสตร์สร้าง AI Economy - spacebar.th",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aNkt5WmtoZmNuWmFkTktOamxlZERIMlNyQW1KbjQ0TjFoVS1RNkV2S0xNOWw2YmExcFRyVzhpZHp5dkg4WWpIWXYzLTYybGFaaXNyZmkxWWdOMTVE?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 02:30:00 GMT",
-      "source": "spacebar.th",
-      "category": "เทคโนโลยี/AI"
     },
     {
       "title": "เปโซฟิลิปปินส์: BSP มีแนวโน้มใช้นโยบายการเงินที่เข้มงวดจากความเสี่ยงด้านเงินเฟ้อ – DBS - tmgm.com",
@@ -91,27 +112,6 @@
       "pubDate": "Fri, 28 Aug 2026 22:24:47 GMT",
       "source": "tmgm.com",
       "category": "ตลาดโลก"
-    },
-    {
-      "title": "เจาะดีลใหญ่! SYNNEX จับมือ AWS เปิดตัว AI Hub ติดปีกธุรกิจไทยสู่กำไรที่จับต้องได้ - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udXFzR21KVGpxV1pZYXJYYy1oeFFzWDZvbnVEcGg0SWtfajhRVC1EaXFFa29tSU9tc1RmNHFuaWkyOFhWbU8yZDhqWWN6VWJQWm5yZTVVckhPUQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 16:51:24 GMT",
-      "source": "bangkokbiznews",
-      "category": "ข่าว Synnex"
-    },
-    {
-      "title": "เปิดเบื้องหลัง ‘บาทแข็งค่าเร็ว’ เมื่อดอลลาร์เผชิญวิกฤตความเชื่อมั่น หนุนทองคำพุ่ง - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Hb21BdWc2aWFrbnE4a0dhakhyVWN6bGk0UGItaUd2cjBxa3N0ZG5EUlVrSnNqVVlQUk1laWttVmxFeGJoYVdSNkg1YlBtazFxU0toazlLQ2loRmN1bDJRWGlmNHc2UEt4VUdiX2ZNMkE1TzA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 07:20:15 GMT",
-      "source": "thestandard.co",
-      "category": "อัตราแลกเปลี่ยน"
-    },
-    {
-      "title": "ถอดรหัสใช้ AI ในองค์กร เพิ่ม Productivity 55% จาก SYNNEX - การตลาดวันละตอน",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm5COXdsS09TaWYtanpwc0ZsMTVORW55el9mbXVBLUdLbjRWWGwyb1JXMjZVNGo3MHpicE9qcUZPb212bFZBQkgyTHVLWDY2ZW45cEZxSFU5NmVuc2FHQThCZ09GdXRrXzc4VXZYaV8wRTBxMFdocnVQSnV6YUZVdHE0V3JCbGp3RkNn?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 08:53:24 GMT",
-      "source": "การตลาดวันละตอน",
-      "category": "ข่าว Synnex"
     }
   ]
 }
