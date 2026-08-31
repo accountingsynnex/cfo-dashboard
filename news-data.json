@@ -1,68 +1,96 @@
 {
-  "updatedAt": "2026-08-31T06:52:15.889815+00:00",
+  "updatedAt": "2026-08-31T19:02:33.285740+00:00",
   "items": [
     {
-      "title": "Advantech จับมือพันธมิตรอาเซียน จัดแสดงระบบ WISE-IoT พร้อมโซลูชันจากเทคโนโลยี Edge AI เพื่อการพัฒนา Smart City - Techsauce",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JY2xTSGhiSEZ3RlpoMzl2S2pfbDJCUWE0MzFtVXA3M1gxdGx6Rkc0RnpNUlQ2dGVEVzI0NVpzOWM0dmU3WHZocHdacVpmbVZNS2hTT0NaOVNoWDNBNXZTYlJiNGczTFlSaFI5Zm1HVG1uQ3phMlV3RHVnaXE?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 06:49:08 GMT",
-      "source": "Techsauce",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "KMITL ผนึก “ฐานเศรษฐกิจ” เปิดเวที NEOTech Forums 2026 ปั้นไทยฐาน AI Infrastructure ภูมิภาค - thansettakij",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NlNXbENsMGdRcTgxamE3UC02cUFkVDdIMm5QSmRIM0NmLUU3bV9NUjlPTDJWYUF3V0kzSHQzbXJORFFQaXplZnNtRnhHRDBKRzVDbHVsM0l1QQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 06:04:00 GMT",
-      "source": "thansettakij",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "BIG LOT: รายการซื้อขายบิ๊กล็อตตลาดหุ้นไทยเช้านี้ (By Time) : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zSmc0SUk1UExoOHBwcmlPZnhlZlZvYzVIVEJpclJydWE3eFBoZkl6eVVuUVl2SXREMFBqX0NET2pObXFkQWNzSnUwYlhvanYw?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 05:32:18 GMT",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "‘ต่างชาติ’ ส่งสัญญาณบวกหุ้นไทยจบ ‘ไทยแลนด์โฟกัส 2026’ มองไทยเข้าสู่รอบลงทุนใหม่ - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SRUZBUG1XU1RoLW1WQkxjT2kycmZiU0EzWVd1cjExRldxVjlnU1FYaTlaVld5a0NPMDkybC1uaUZhTlRqOHhETjBrR1FSdEFlVUlZQ3BrcGYtSGlDeFFkRC13?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 04:46:33 GMT",
+      "title": "เศรษฐกิจไทยบนรถไฟ AI โอกาสโครงสร้างพื้นฐาน- ความเสี่ยงรับมือ - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UNUIxQ25rVUt4MEE4WTl4di03ZjRwSFJOSVZHUzB6MzJQTlF5cUY2UW1Zd1NhbWZ1NjVRTkF3V295M0lsNGNyekFTWk92VjhCWmJLaTBVbWtQbEwyRGZqOVFB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 17:57:58 GMT",
       "source": "bangkokbiznews",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "Workday แต่งตั้ง ฟิวชั่น โซลูชั่น เป็นพันธมิตรในประเทศไทย เสริมศักยภาพองค์กรไทยด้วยเทคโนโลยีบริหารบุคลากรระดับโลก เพื่อสร้างกำลังคนแห่งอนาคต [Guest Post] - TechTalkThai",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnpvWXFLMTdnRUFSdGU3U0sxaUxoeGlyQks2MmtlRVR5Mko0ZUpuSGk0dVJZbmZlam85NTJWX1JNN01BSi1GSHpULUxqbHZfVDl6a3ZCSkVhOGtoWW42VC1CV2tJcVRGaTBHYkU3TUJDbVNGV2lUa2UxLVNCVkRyNG5mX0duR3RRX091ejRBM3lKTkU5dkFwdWpn?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 04:10:30 GMT",
-      "source": "TechTalkThai",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "KTB มอง \"เงินบาท\" อ่อนค่ากรอบ 32.85-33.50 บ. จับตาเฟด-ตะวันออกกลาง - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQMWxpaTFLNzBuR0QwTWYxLVBCR0syZk0yeWlMMDVGd3JVSkhPaVJwRDVydmtQTGp1YXRVdkRNa0dUVXZyWV8tMUZLMA?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 03:43:29 GMT",
-      "source": "ข่าวหุ้นธุรกิจออนไลน์",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "‘ค่าเงินบาท’ เปิดเช้านี้ที่ 33.16 บาท/ดอลลาร์ ‘อ่อนค่าลงลงหนัก’ กรอบวันนี้ 33.05-33.30 บาท/ดอลลาร์ - businesstoday.co",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxTmdqY3hJRnNjaXFodkNUb29hWGotTXlQT3ZwN19sTi1DTGFKTEdBWERSdWhHTlo2dXc5YmRKYnBwYjNtWGxyRGdJV0lWeExmdVg5amFwbXNRazY0MjhKSlhpSWFmdGRLdXR0ZHln?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 03:42:13 GMT",
-      "source": "businesstoday.co",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "เศรษฐกิจไทย ก.ค. ฟื้นตัว ส่งออกโตต่อเนื่อง 25 เดือน | The Better - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tdk02ZHFKcUNERU1TRUZidTFGbDNmRzlHZ1ZvdmFxaDlkOG1kMGhOWFpSelFCbGdlcDB3eFZaS2x0Q3hlY0ZrdkhQc3VXZGRRY3ltOWxR?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 03:36:51 GMT",
+      "title": "ธปท. ชี้ไทยยังไม่เข้า “Japanification” แม้เงินเฟ้อ-จีดีพีต่ำ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QRWl4UURnaTFnUjlia093c0tuNEJ0d3kzU2RlbXNVSjFXbHR3cGI4UnhPLVMxUUhrTVAyZk1qbVJzUjNCT1hpMVJyS0wzYXZrWnJqLTJR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 17:14:11 GMT",
       "source": "LINE TODAY",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "สัญญาณเตือนหุ้นไทย โบรกฯ ชี้ เช้าไม่ขาย บ่ายไม่เหลือ คาดรอบนี้ “ไม่มีเงินใหม่มาเติม” - Share2Trade",
-      "link": "https://news.google.com/rss/articles/CBMi6AdBVV95cUxOMjkwRnJ6TzEwd1lVOXVqTXJsdDBCeEU4Z25kcXBSME1BU3lWbTYwTG5BSmJGRk9LM3B4NUNQTVdhTG1uUGpHcmRQcXc4dGJRbU12UHZiZFhHazhqMFkyRGk1bU9BdjhwZGc2Qlc4eW1nZVI3MDhNaS1lamJiSUZoYVVIdGNRNGU3X2ZidjhCUmZEMGx0UzRLZmdrMm1yck5DcGVsMVZ0SjZtVUZjQUNBd1lwRVQyUEZCblo2Tjk2d0xPMm1GMmRKM2kwR3M5WTY3aWJLV05GVVM0dHhwN3k5Q2V1NGhaRVpZZkhPNEhadEpDWk9zT0ZFTEl2MkM5RmFRaWpOLTg3RFl0LVVxR3NYbVJva2RDc01McVQtTWNTX0o4TGpJeXNuSUlraVRRRG5meEk2aXNtdVYyWVNiOXAyY1h1aVdCeGZ1R2dhLTcyYWotVHJMQkFGWXNnR3R1SGV5MWxnaTVWREItOWhQX1JhX1praGNoMXNoVHNDZGV4eURKam1FWHVPR29YeDNrdVVYMlFxOW05cEJEWHlmSF91dm1tOWJMMU5ESzVJaFpwUk00TWdMTWNwUllkclhkZzhZRlU1YVNtZkdfTkV4OE8tZFdDZVNOdzJRdDVLZENzaTFRTHYxc29UTFdfRVZWXzhXbktCWl83S3hzQlJVRF9WUHhiN1ljM0lHUHBSSmtOVWhrR25TQ2RIVkJKY0dMckxYU29aYmVWUVNLVnlqYUwxQ2xLY19odkhRTzFab05KNHY2bHlNby1qYVlFVTB5bkE0RU1TRkw1MmExLVpuT3dxOHNvVFdLY1FhN2JRYzNZRGRWUEFpRnpNTVl6N0pkcVZIUjdRX1QwaHJnUEJGbV8tZlBCMFFuQW9Ob2VzVkNrcFdhSTFkc2RfVzdHT3VHdU1fNDI5dlA5OHE5Ml9kUDBxTUpoeGtwTlVGRVpXX2dZVGhMdU1WZG5hNkRTODlUeWEtejBIZU9PZzZpMnhvdzFiRloyd0RZdDJUWmNnckZ6SDA3dzFWZFpFY3NCT1BGTWxpYzFHWFF5RFBHNkExcHQ5RWVNaERJVGxZQ0VOaENDd0hTRDVnTW9EWW9QOHN1MDRzWEZabFAtSG9pem5wQXJVQVVYd0JMbkg1NmR2SUpuUjBpZ3poYlBaNVRHYTQ5VjZMVzdrWmNIYWZuOXVWTk5HWUlVb21xM28tejBVb0FWcHhfUmhzb2hxb0VWRHJLV19XcDBHZ3NXYXBZX0FsVVp6dnZYWmVCU05XN0ZnRFZDMTRXMjJFWVVYUmFNOUNMSFFMM2hlcWlTRUZZSXh6TlBIYmVxc2l2RkMz?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 02:36:24 GMT",
-      "source": "Share2Trade",
+      "title": "“อาทิตย์” ชี้ไทยจุดเปลี่ยนรับคลื่น AI แนะรัฐสร้าง Local Content ดึง SME เข้าห่วงโซ่ใหม่ - kaohoon.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tcFpBamprbUNGN2NSYVo5blJPQlhLZzZObUxrZ2laWVBhSTRUUmpjdnQ0VDZad2lxOTM3SVU4bUpMMkVJVTRjc1dxQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 16:51:25 GMT",
+      "source": "kaohoon.com",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "บล.บัวหลวงส่ง DR KOREA01 ลุย 1 ก.ย.นี้ ลงทุน\"หุ้นเกาหลีใต้\"ครั้งแรกผ่านตลาดหุ้นไทย - Hoonsmart",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5memVvR3VpeGFHWFdIalE0MjVlV04xSGxRSUhuVXp2UmdXX3hEbnZpNWVQR3BjLXA2Rm5ZYjU3R1p4aG1haGRQR1NKTnR0Zw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 16:39:31 GMT",
+      "source": "Hoonsmart",
       "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ถ้าประเทศไทยต้องกลายเป็น Hub AI คนไทย จะได้ประโชน์ขนาดไหน - techhub.in.th",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWo2QnYtMG92X0I4bHRfVm5TVGVJbks3WnhkZHRoVlg2NE5JVnRkNXo4ZzVpUHB5MThzRS1XTF83NjdsTWdWd2swUjRQYkRfcG1kZW5KR013OS1aa2ZnOTRlS1ZiT1JOQ3p5RjNhYmRGVXMzU1d2VnlGMU1ySHNlU0NmdUl2S3V2NThtMTJXOEZtaTVPLXJkTzNFQW9SaHc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 14:13:18 GMT",
+      "source": "techhub.in.th",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "กรุงเทพธุรกิจ. . ผ่าตัดใหญ่เศรษฐกิจไทยพ้นวิกฤติโตต่ำ สภาพัฒน์แนะเร่งติดสปีด 4 เครื่องยนต์ใหม่พลิกโฉมประเทศ ‘เกษตรยุคใหม่-ชิปต้นน้ำ-ยาและเครื่องมือแพทย์-อาหารแห่งอนาคต’ หวังสร้างมูลค่าเพิ่มและความมั่นคงรอบด้านให้กับเศรษฐกิจ . พร้อมย้ำเป็นโอกาสดีที่ประเทศไทยได้รับเลือกเป็น - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxPQ3F2aHpvWC1ZSnB0ZkR2X05NWWtVSE1QZE1nX09qTHU1NWpXUUY0R3hZWEhudl9SSWpRTW9neDdBNUVPTV9JTGMtdHIzbjJQRExPWl9NbHpqY3BhXzVvZVVGME1LT09NdFJmSWc4T2FzSHB1cnBjM1ZKbWJycEVSbjNVRzloYVl3b2otTzRUTG9LSTZ1MldiQk5Xd09ycVQ4YlI5ZVg0TzlfdDlkUFc1WjNPNldYa3pLd0lQeXNTQW5LcHk3LTJPelktSFhTQzlEeTRWaW5KZURhSDVVZUhmeVVRWVdPS3NtaktWV3FOZUZEREg2dUtUNnUwdWNxU0VKUXVYOEJrdlFMaVd0RUFCWGctUEZpTEJzemw1YmN2SVZ1VndJVXN5UDhoeWdyaEFHS3pfM3BJVkl3ellVMldHYnFITEVWM243dkhHb29mRUlLUlRsNWlNY0JxRXNLRl9vdHUtNmdvX1dqekdjRTFEd1FHQlRZaTg1OWx4RmRmNHpZeURQdDdjdFRaX0RlYTJxaldjSmpBdlRBWlE0MF84bkczV2xNQmJzRmVNWFFONmdVbWQ0bWtoemVHMTZQTGh1R1k4T0gxMEVfTHFuTjFNZkZpMXhNYkFiUzM2YlExeWhtd1JPblNwNWpWSVcwMGtQanVZNzNVR2Z5S3AzT2FJTnkzLWZGMzlyeXhsaGhwVjFidmgyXzkwTm9tdzdYallsTFN1ZDF0SmhKU2ZlRmxibW9vNV8yOG5LczZOV0FoUHZGakxqZFJTOXg4QWpBYmFTNG1ua25VLU1SNEd1Y0s0QXZWS0RndkszVk03YTFSTGtwRUtIM2l5V0J1a1BENkpwUEJSMExnXzRLRnczejFnYi1UYUlMRTZYZXU3UHNQTnA0Vm03SEZEZHRoZXNwZVdGX28zcGtVM29nNXFORVRMLXFaSi1LbkF6MkozYkFjcjk5TVRXWHBJWS1qSEZ0WW5QQUdxRE15azNucUU?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 12:51:14 GMT",
+      "source": "facebook.com",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "Review : \"TH-AI Passport\" AI เพื่อคนไทย ใช้งานฟรี ปังหรือพัง ? - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UEtyYUJXSGdjWnVYN1AzRnRneWc1QkJwMTNKZmdDTk9KbXUzM1poN1VDaUJINHVYU2t0WkpHdnQ4VGE1Y1hIcVhYQ1BybVJTd0NpaG16NA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 12:08:19 GMT",
+      "source": "Thai PBS",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "BDI จัดสัมมนา Human-AI Synergy เดินหน้าทลายไซโลข้อมูลภาครัฐ ตั้งเป้าไทยสู่ Data-Driven Nation - workpointtoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GU0cyWFYzUW54YVJzRlh1Tk1zemtqZTBuMnZRUUpWWHh4OXhYX3JHWFVkRkdKMFo0TFhfR0lRUzBmNDg5TVVfMndnNzhCN1JRS0pvaFNwTWFzN283QWhfSzB0ODlDdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 11:10:03 GMT",
+      "source": "workpointtoday.com",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "ส่องแนวคิด 3A กุญแจสร้างประสบการณ์ลูกค้า (CX) ในยุคที่มนุษย์และเทคโนโลยี AI ต้องทำงานร่วมกัน - Brand Buffet",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0Y1VFhvZlV5VXFubDlpTEpuSWJGampnR0M3TG9aUDNXck5OUWxhN1VVTXZ4ZkphU3VrNEhfTngyNnVsa0ZPRWZoUXU0S0J4NFVVY0syT0FHczlKMmlncEp5MjA2eHlKemlYX0dodlVOM1lYTlU4SmhIV2o3cWVpUXdXc3kxbmR1RlprQmFBVEt2YnFNMmgzSjJjTjdKUQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 11:02:21 GMT",
+      "source": "Brand Buffet",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "Forex วันนี้: ความตึงเครียดในตะวันออกกลางกลับมาปะทุอีกครั้ง ขณะที่ USD ทรงตัวหลังการปรับขึ้นที่ได้แรงหนุนจากเฟด - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWNtTUdFd0ppRlc1YjM2WVRwMUF2cHluX0NoMFU3YTJjY3ptbkdUeVUyWDBFOTUwMktEbHBnY2NOUUdlaW16UUJyblJuVloyZmFQR0lMVmxjNkFiMVUydUc4U2tuYVpqSG13M3c0MVF4Qjc5VFU3SG5wZndwak5XSTk1MUQ0aTk5emhmcURmZjdROUlzb1J5R09USFB5RS1HbVQ4MjhUOU5fWVp1dW9WRXVfNVo1eVdXbHpBTmNWUmxvNGJlQURVT3RYaUgwZlotTkZvRUhtOFVGWV8zZEE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:44:46 GMT",
+      "source": "tmgm.com",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ความเชื่อมั่นภาคธุรกิจของ ANZ ในนิวซีแลนด์ชะลอลงในเดือนสิงหาคม ตอกย้ำการคาดการณ์ว่าธนาคารกลางนิวซีแลนด์อาจปรับลดอัตราดอกเบี้ย - VT Markets",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JdU5Nd2dZUXIwbjRrcjVpSVVEaV9IWmVDOGtuRlFFcXg5Q2NwX1ZEZ1JGX0JnaGhlWVdZRWNqQ05KZ3ljdGhESUs0LWsydnpkVUpzaThkZUZvaFNHR1RzejBpbw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:06:52 GMT",
+      "source": "VT Markets",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "วิจัยกรุงศรี ปรับเพิ่มประมาณการเศรษฐกิจไทยปี 2569 สู่ 2.1% จากแรงส่งด้านการลงทุนและมาตรการภาครัฐ - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sU0V5WVlnVkc4WWZCbHREYVpPazNoZUhndHVzUjJXdGlEOHR0TGhtLW96WWRKY0ZFMmNXa05QUmx4bDhrNDRhcTd0QXQ1SFFDUDR4TVBn?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:58:39 GMT",
+      "source": "มิติหุ้น",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "KTB มอง \"เงินบาท\" อ่อนค่ากรอบ 32.85-33.50 บ. จับตาเฟด-ตะวันออกกลาง - kaohoon.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQMWxpaTFLNzBuR0QwTWYxLVBCR0syZk0yeWlMMDVGd3JVSkhPaVJwRDVydmtQTGp1YXRVdkRNa0dUVXZyWV8tMUZLMA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:43:29 GMT",
+      "source": "kaohoon.com",
+      "category": "ตลาดโลก"
     },
     {
       "title": "KTB ประเมินค่าเงินบาทวันนี้ - Thunhoon",
@@ -72,45 +100,17 @@
       "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "เงินบาทพลิกอ่อนค่า ขณะที่ ดัชนีหุ้นไทยร่วงหลุดแนว 1,600 จุด - kasikornresearch.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDM5WWpqMGFMODV2VWxPM2xzSnJsTGU0YzN4Mmxxb2V1QkxhcUxuRm1ZVWdLRTVnX1ZfdzJtQ2lnX1dLZDBCZGlaUjNrcWI4cV9tMm1xMTJUek5tOXJ6ZVh6cWlhTmMteGdGM3JsN0NuWjNMNmtEVGE0Vk8xSGxXbkp5NjlGdkNnTDFkYnZ3?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:58:20 GMT",
-      "source": "kasikornresearch.com",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "เช้านี้ ค่าเงินบาท อ่อนค่าหนัก เปิด 33.16 บาท/ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zQzdrdTA2V05YUV9oOXZzTXZGbm5NaEVwQkVTc3RJbkNCLWhDRHhqbGxDLV9uUWlucTMybXY4NEY2MzFUaTdWc1FtcEpLOGZmRnRnZHZR?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:51:56 GMT",
-      "source": "LINE TODAY",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "เปิด ‘TH-AI Passport’ ทางการ ยอดสมัครทะลุ 1.3 ล้านคน ผนึกยักษ์เทคโลกปั้นทักษะ AI - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94US1wTUdQdWdLQVpld2hGc3ppOGQ3OU43ZkUzckwySHlWSEQtWnVycXBhSHp3SnZIOGdFSHJNMy1UWHBoTXlicm9KUTJTczhrZEd2dXdyVzB2UQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:27:44 GMT",
-      "source": "bangkokbiznews",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XT25RVUF6TzRDaHlleGdSUTJWVktxZ2tXY1puRGxKd2l0Y013MUJ6VmVjeFB2SzVhYnluN2lvVEswTnJRa0FyeDRZR1dOMEpfc3RqUGxhMGk?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:19:10 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "เจาะดีลใหญ่! SYNNEX จับมือ AWS เปิดตัว AI Hub ติดปีกธุรกิจไทยสู่กำไรที่จับต้องได้ - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udXFzR21KVGpxV1pZYXJYYy1oeFFzWDZvbnVEcGg0SWtfajhRVC1EaXFFa29tSU9tc1RmNHFuaWkyOFhWbU8yZDhqWWN6VWJQWm5yZTVVckhPUQ?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 12:24:45 GMT",
-      "source": "bangkokbiznews",
-      "category": "ข่าว Synnex"
-    },
-    {
       "title": "ถอดรหัสใช้ AI ในองค์กร เพิ่ม Productivity 55% จาก SYNNEX - การตลาดวันละตอน",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm5COXdsS09TaWYtanpwc0ZsMTVORW55el9mbXVBLUdLbjRWWGwyb1JXMjZVNGo3MHpicE9qcUZPb212bFZBQkgyTHVLWDY2ZW45cEZxSFU5NmVuc2FHQThCZ09GdXRrXzc4VXZYaV8wRTBxMFdocnVQSnV6YUZVdHE0V3JCbGp3RkNn?oc=5",
       "pubDate": "Wed, 26 Aug 2026 08:53:24 GMT",
       "source": "การตลาดวันละตอน",
+      "category": "ข่าว Synnex"
+    },
+    {
+      "title": "Synnex x AWS เปิดตัว AI Hub เร่งธุรกิจไทยปลดล็อกศักยภาพ AI สร้าง Business Impact ที่วัดผลได้ - forbesthailand.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GX3RKU1BRLXlnN1I3T1dQQjdlb0twVlo4T0JoN3pXUmY4OHNvNllrczlqdU13ei1meHNjVV9Oc2hLQWZHMDFSajNKUXhhQ2JRZFk3QUdlT2xLTWU1MEIzOTVkRU5SX1k?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 03:22:01 GMT",
+      "source": "forbesthailand.com",
       "category": "ข่าว Synnex"
     }
   ]
