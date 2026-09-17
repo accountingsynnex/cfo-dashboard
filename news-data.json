@@ -1,19 +1,75 @@
 {
-  "updatedAt": "2026-09-17T05:58:08.741226+00:00",
+  "updatedAt": "2026-09-17T16:44:29.316719+00:00",
   "items": [
     {
-      "title": "เริ่มแล้ว! ธนาคารกรุงเทพ เปิดหลักสูตร The Big Blue Ocean ต่อเนื่องรุ่นที่ 5 เดินหน้าดันนักธุรกิจรุ่นใหม่ปรับใช้เทคโนโลยี AI สร้างกลยุทธ์ธุรกิจพิชิตยุคดิจิทัล - ThaiPR.NET",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UXdWZUJjZm90QjR2R1pjejJEV3pCUjBZYnFHeldaZDZZOXRtaTEwVVRNVGd3VFc0VksxRHFMMDgtc0JQVnNwVk96R0NieXM?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 05:50:00 GMT",
-      "source": "ThaiPR.NET",
+      "title": "ซีพี-อไรซ์-ทรู ผนึก AWS เปิดเวที “AI FOR ALL” ปั้นไอเดียคนไทยสู่ MVP ต่อยอดเพื่อใช้งานได้จริง - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMDJhZmFuZTA0NTNZb0dORmVsdVh1bmtNelpucDNfaFRmQkZWNlcteU1Wb3lwSjlkOFA2VVQzYXBiZmNMMmpBYU1nV0NPQmdyV2dGMGFXZkxFQQ?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 12:29:00 GMT",
+      "source": "bangkokbiznews",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "BIG LOT: รายการซื้อขายบิ๊กล็อตตลาดหุ้นไทยเช้านี้ (By Time) : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yLUdia3BXcm9mRUtPM0VFS3hyREFNdlRQcnQwNWRWM0JqVkFyR0dOSThvTU4xa0ozdnlmc0lXSThmT2tMYk9YTDBJV1hZdlBN?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 05:37:54 GMT",
-      "source": "สำนักข่าวอินโฟเควสท์",
+      "title": "หุ้นไทยปิดบวก 20.61 จุด DELTA นำซื้อขาย ต่างชาติพลิกซื้อสุทธิ - Thansettakij",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWExsbVJpMTZkaEg2Q2xHejFZOENsaXgxR3ZhcVpCVWRPd245eW5ncHVmQ1I4RTJTallPdzJiUkdsNFZ2cy02Tm1qX3NmLXFickhvSGkwQzNKX0t2WDRPQUI5RG1JQQ?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 11:45:00 GMT",
+      "source": "Thansettakij",
       "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ภาวะตลาดหุ้นไทย:ปิดพุ่ง 20.61 จุดรีบาวด์แรงกว่าคาดรับแรงซื้อคืนหุ้นใหญ่ DELTA-แบงก์ แนวโน้มยังไปต่อได้ - RYT9",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NcWtpWWtOYlF4Rnp6UDlab0tTbHpxZlcyYnJpSjd0QzdiQ2VMREUxc0ptY05nZ1RwUVdCd0ZaTGhhMHhnRlVINWFR?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 11:02:52 GMT",
+      "source": "RYT9",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "กทม.ร่วม7หน่วยงาน ต้นแบบ “ถามรัฐ” พลิกโฉมบริการภาครัฐด้วย AI - แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhZXFfZzRNM0EzZmFaV2ZJenJNTTJ1dHNOYlhJMHl0ZzFSbEl2MWZPUUhFSkJYOTA1NUZXN1MxR1MtNjZ4T0xWd0hxQQ?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 10:19:48 GMT",
+      "source": "แนวหน้า",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "หุ้นไทยวันนี้(17 ก.ย.) พุ่ง 20.61 จุด ซื้อ DELTA-ADVANC-GULF - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wTE1FelpTTXF2elJMZUp1Yk56eUhkQUZ3elQ5REdqZ3BJbmI5NzZaRmpjcE5CTDZnN01yeE1OMXVXWnllVzk1S2hDb0lTUGYtMzZxOW93eTBWcUg3ZnBkWURSc190bVFo?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 10:03:58 GMT",
+      "source": "Thunhoon",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยปิดพุ่งกระฉูด 20.61 จุด รับแรงซื้อคืนหลังคลายกังวลดอกเบี้ยเฟด - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTlBwd1dEaXpVNDVFWGk4SDhOd3ZVTTJNY2R1YXpoLWNjaUJuVE00dEtNTy1NdlROTWpheUQtSVl2ckxlVkxGSEtLTDN3TzgyTjRocTJwN09ZTG90dUpCZWh3?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 09:54:00 GMT",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "กรุงเทพธุรกิจ. . Fed ขึ้นดอกเบี้ยรอบ 3 ปี เขย่าสินทรัพย์โลก | SET Afternoon | 17-9-69 . 🟡 ปรับพอร์ตการลงทุนรับยุคดอกเบี้ยขาขึ้น เฟ้นหาสินทรัพย์น่าลงทุน หลังเฟดมีมติเอกฉันท์ขึ้นดอกเบี้ย 0.25% สู่ระดับ 3.75-4.00% ขณะที่ Dot Plot พบว่าเจ้าหน้าที่ 16 จากทั้งหมด 18 ราย คาดจะมีการป - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPYi1Da25Sc2c0bXRMUE1SSVN3ZTdmX0FxZkFrREd5bWlwMldqZm9yNnhubEVOdi1XVzRqd2NuOVlQTHBVbTNXWklnQ0IwTXZ6REhrOHJoLUI5TnIwQWJpWG54VzFtakpIaWVza3lkZ2EwVWdkWFVMUEhWeU9zT2NfeGc3UGo4NWpnM21haHV6NHlzazdBb2JCem9ISmpFbHQ5Yjd4dF9zcERYV1ZvTjZoZFVVdkdLMEYwT3RDMmV5SlNZb0ktZldUMzNuei12TThXQUdEaUF4TTBFQlhwZTkyRnUtT19aMVpSMjJwNnhDUUhrMVNlZ1d6dGkyZ2l5cFZKWTdaSWkzNEk2SDBRUEV0akRqN1BxOW4zc3c3Ry1GdDlmY0JLYjNMZ0hTV0V3ZUc0MzFiNDhzV3gzWWFhTlp5RTg0X2hfV1A5ZTNtcWF0TkVyRjc3MWRPQ2gzbThmN1BLS0hKUkxDb1Q5b1h0UkpScVVzc0xuSHA2aWVBQXMxNG01UVR2RkxiaDZIZ2pGMjFjUF9YenRhdzhhdFFyM2l1ZDBkOGxNYkQ0VlRjamgwU3lJY3FGTTd3Nktael96bzQxYnVWNzE1WnRtRll2ZHpqa3lqbXJUWXVxUWZVQjFGTGtMNUlueDFVSUZyU2JyRFhLWHlQcXRUejBsZ3FKeXl0SWdJMGZnREVoTXE1emNXTE1WX3VaRzZCZTVaRUJ1b1FJc0xaSVo2NEtlZ2FsU1VNaVZHMA?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 09:24:55 GMT",
+      "source": "facebook.com",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "เกียรตินาคินหั่นจีดีพีโต 2.5% รับวัฏจักรลงทุน AI ชี้เศรษฐกิจไทยฟื้นตัวแบบ K-Shape - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YQ243a2gwaHRiX2hTVERMOGQwUm1INnpkeXNEM1dJQnh6R1V4LTh2RkNwZXQzTEJSSkFLSk1uUW5SRWdPcC1qYzduLWlOTGtzLXNuMGhIQnI?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 08:43:47 GMT",
+      "source": "Thai PBS",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "SYNNEX ผนึกพลังพันธมิตร ในงาน “SYNNEX PARTNER CONNECT 2026” - efinanceThai",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWY5Z2w5bzhoT3BkTTV0bGloc2ZZZE1YTzNyUFJ2bWxQTTRBdWc1Tmtzd3VJYlNCQmNLRTZoQTB0ZDlURjZ1WDJhVVpPVGI2MWpZekVDeDZyU2RwaTMweExtNXB3QUgwS0RUa1JrVGREdmdnVFl3bk9BelhuZVB5Q1EwWDBHbk0?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 08:23:46 GMT",
+      "source": "efinanceThai",
+      "category": "ข่าว Synnex"
+    },
+    {
+      "title": "“Bill Gates” ชี้อย่าให้ AI กระจุกอยู่ในมือคนรวย! ประกาศอัดฉีดพันล้านเหรียญ ทลายกำแพงเทคฯ คืนสิทธิ์คนธรรมดา - Forbes Thailand",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLW51cTdBcTJPV3JuUVY0aWhyblhxcmVzdk9sbzZuNVY4bkxjMzVBODNjWHNKVy1tUDA3RV9ielB1Z1hVcVBwXzh5NFdWakhZeUVWc0tqLTNsU2Y3V05KUFYtQXNwTUU1N1FfNHB3NW5DZ1pBeS1pOHdBdlVJMDlOLWhlbFdTS2ZXQ3dmaDN0MTFzN2UtMkRrNW5jdENWb3ZlX29iOVpLc05URXZZM0RNVkpwajREVEdka29PZm5qdzAwX0FSeDRaNA?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 08:15:47 GMT",
+      "source": "Forbes Thailand",
+      "category": "เทคโนโลยี/AI"
     },
     {
       "title": "Fed ขึ้นดอกเบี้ยครั้งแรก ในรอบกว่า 3 ปี หลัง 16 ก.ย.นี้ลุ้นขึ้นอีกสรุปผลกระทบต่อหุ้น-ค่าเงิน-ทองคำ - Thairath.co.th",
@@ -23,46 +79,25 @@
       "category": "ตลาดโลก"
     },
     {
-      "title": "LINE เตรียมจัดงาน LINE THAILAND DEVELOPER CONFERENCE 2026 ชวนนักพัฒนาไทยร่วม “Build the Next-Frontier” ก้าวสู่พรมแดนใหม่แห่งโลก AI เจาะลึก Agentic AI จาก Deep Tech สู่ Real-World Use Cases - workpointtoday.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2NDVEhnT2xmamNPbHRGMF81WmNtYmhydDBHRnQ3U1BCUUduX0FManpqOGUyODFEaThRb1JuYXVFVUsyWWZfUWhXQUNfRlBxRFNnek5WR1BranVGT2dRbXJBaDJhZHJDd1NXbzl5SkZRa3k2V3BBVW9QcnNpUm5HU2NMTkU?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 03:36:40 GMT",
-      "source": "workpointtoday.com",
-      "category": "เทคโนโลยี/AI"
+      "title": "กสิกรไทยจับมือ คิง เพาเวอร์ มอบโปรสุดคุ้มรับเทศกาลท่องเที่ยว รับคูปองส่วนลดสูงสุด 40% | The Bangkok Insight - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oeURtTTl4LUxDM1JPeHB0bWpySHlzakZ5Q2ZDalRVVGRUdmRaWldWMlNsSUpDS2V0VXlsZjdjUDZ1eGxqWDhLRS1zekdNOENEYjdMSmN3?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 03:43:11 GMT",
+      "source": "LINE TODAY",
+      "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "หุ้นไทยเปิดตลาดวันนี้ บวก 15.17 จุด กลุ่มแบงก์หนุนรับเฟดขึ้นดอกเบี้ย - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiRWI2LWg5ZEwzV3U3RlcyMnhRcUdYRUxkNG1fOVpGcmtuN0JKcWw2WF8xek51TTdJWEFHU24xOXdaR0IzYkVxcldORDhjWFpoWWJDY29YQkJMdVJYSVhwS0NB?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 03:21:00 GMT",
-      "source": "bangkokbiznews",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "จับตาความเสี่ยง ‘2W’ สงคราม-สภาพอากาศแปรปรวน ซ้ำเติม ‘กันชนเศรษฐกิจไทย’ ที่เปราะบางและบางลงทุกขณะ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYS1NT2NaQm9mOUlWQXRDRktPMWRvVFlvVFFyaW44Nnd5WnJvWTJia2F6OFUwVkpQU2FOZUVINmxuaUY3dW5pT3BIWUNsaUswMjhYRFhnVmg?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 02:43:49 GMT",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ทองวันนี้ร่วง 350 บาท รูปพรรณขายออก 68,850 บาท Fed ขึ้นดอกเบี้ย-ดอลลาร์แข็ง - moneyandbanking.co.th",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyRl85OEZHR1o4MzREdk5oY3JJdW9JV2RKQzlEa3cyZVdlT3g2VUNiZmJnWkFnZkV1SllscmthNlpGWGpndG5ZLXNaaGtfQUtTNmN3Mg?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 02:40:40 GMT",
-      "source": "moneyandbanking.co.th",
+      "title": "ธนาคารกลางสหรัฐ: เส้นทางนโยบายถูกปรับโฉมใหม่ – Rabobank - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUxtcnFUcmZKVFYwM3dhbHcyQVpXck1yTTN6UDdlU2g1UndTUTVFVFIzM29Va190cXF0c0thdU5acmpGUmRFMEtGOFRoVUw3Q2tvbm1LRkFDSU9BUzlBbW9lS3RfLUNTRVV3UnQzZ0tUdUFVNndMLWExdWg4TzJURnVvclhHZldEcldDenBTb1VmYng0amkwTUFsMXFVYjhVMXdCRks2aHNLNV9kNTZ5LQ?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 03:32:33 GMT",
+      "source": "tmgm.com",
       "category": "ตลาดโลก"
     },
     {
-      "title": "\"กรณ์\" จี้ ก.ล.ต. เร่งตรวจสอบ แก๊งสแกมเมอร์ในตลาดหุ้นไทย หลังสหรัฐฯเปิดรายชื่อพบอดีตรมช.คลัง - Share2Trade",
-      "link": "https://news.google.com/rss/articles/CBMiowhBVV95cUxPYTR1TDV4WW5uZmNMVFBvX2E1UUs5b3I5M1A3b05EZEhxZlNZVGJRTlZZS3hIUm1tbjIyUjRUZXIyTjV0aXlfSlpXNXVOdEFacTliNE5TUFRvYWJTMklaeDR3ZjRjTUtSNHRUV3hYeVFyWmFjczR6cEhDTDRzWXJqd3c1SlRjSmpsVFNpbi1kLWZCZTN3QVFzdDZEVFVMZlVNQ09OZW5kVHVULTRBMmJ1bkFsV1g1ZFRfSlh4Ukg3am5CTkhNNjVLS0s0bEN4N3pwaV9QamctamtNaE9MMlNxNmdzRU9zYXlKQllXQ0VVSndyREs2YVFJM2tMQVVRenA1Rzd4VFhqNFMtMXBzVV9iWkZRUVBkSzU1SmJNRkhwclZpdHV5VmJvQTJEblhEbzVyX0tjYmU1TDBIQ1lWLU4tdWdVVGhGT2Y5TnpTWVhCRXg5dWtDdG5ESm5ZRVlwenFNeWdOaDV1ZDFoWWJGRms0UUg4cDdocWFDb2pSLWhjUjRiOEhNRDJEQ3k5TG9VZUF4VXM2MHBKN2k4YW85SkZ4WDVtVDdsTEM2NGFRVExYQnptQkpXWUFfOHN0dXhrRXJMM3lZXy13OUo3XzQ5NFAyMlNoQ21INXhVMVdJa1piMG1EY0tNMzBKRENTR0JiXzZab29NNWs2SlhUYV9obV94dFphbXdDd1ZkZjh0TFFFUEhTVVdyWE9ncXNxQWJHN3RyNWJGXzJuMWtiY1VCbVlucjBBUll4d3pFM2F1ZEpVUmNZdEJlOVlIcl8yQUlITU9DVTdJcDh4Um11bmo3Y2wxMVBxcW5OT0N3R2Q5ay13bHBCbHNjOElWSEMycmlEUmVhYmFrb0pRbEx6N0lJMVhGM0NuSklGYWRwYWlidHZyajdmRWtvSXRZRm1ZdmlsVndlZk9YS3QtTmpXS1RFVENNV2gtQndNdzhKcWNkVUVzTnBtamotZ2loaFROTkl3dUUzWm9ON0xlQXczeXYwOUs4VmpfYkwtTGdyNjdEYU1VbTBtdWhKTi1tNVA5NDNLSTNMdXpoV1gxeXdQaHdHOC1vaXZwTy1aQzVuMUNTRGhQZTdDMzlBdC1KUGpQZm92NmRHUTVDbVE3UFI2QXU2TTJDU0pTSXF5M29QYmpEdFNkaVJXaVplTGVTaktzdFRRLVdHU0Q3UmJFS0U5N2pFck9OWDgtTm05OWJSeHRnTFh2TkdXd2pJSk9IUThQRS03TWU5TnVrTk1DWGdfdGxPNUZSNkpSVm1FSjVoS1c3ZjNDd2pfQS1JbkdSc3VHQmtYdmIzek1OejR4S0pCVUYyRUpPeTA1clRkOGR4cm96WkowcmxHek5CMlp6dGxCajNGWmotSDlVbllnNUVfdDFCbGJSNzB1dGUxcWZTcy1FUEoydWxWbGc?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 02:40:40 GMT",
-      "source": "Share2Trade",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "‘หุ้นไทย’ วันนี้ กรอบ 1,550-1,580 จุด หลัง Fed ขึ้นดอกเบี้ย - businesstoday.co",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90cHNUTU5fbGlwelM1Y1FnLWh5NTFic2E3OXhKZEU4Tk5tdE94X09OdnJ1ekhvYkJKUnR6TlZuOFBUUlpsbDJ2TGhPTDVIakZENFhWbHFvNkdUdVJBY2U4QkZIUQ?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 02:30:06 GMT",
-      "source": "businesstoday.co",
-      "category": "เศรษฐกิจไทย"
+      "title": "ทองวันนี้ร่วง 350 บาท รูปพรรณขายออก 68,850 บาท Fed ขึ้นดอกเบี้ย-ดอลลาร์แข็ง | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUHhxdW52em9mczNYV3hwdDl4R0xOcldVRHotLXVrd3JySVNfU3Y2WHRJdDBDcU1VZXJ0R1dLQjI3amFPdU5DY0lmNGJxSHpTaTlySjFn?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 02:28:07 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
     },
     {
       "title": "Fed ขึ้นดอกเบี้ย 0.25% ครั้งแรกนับตั้งแต่ปี 2023 สู่ระดับ 3.75-4.00% พร้อมส่งสัญญาณขึ้นต่อ ดันบาทอ่อนค่า - thestandard.co",
@@ -72,45 +107,10 @@
       "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "ค่าเงินบาทวันนี้(17 ก.ย.69) เงินบาทเปิด 33.39 บาท อ่อนค่า หลังเฟดขึ้นดอกเบี้ย - Thansettakij",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3R09xYU1GME1HV01neGVYUUl3V19fOXdKNE5MUU5abVJsbHcwd1NEYkpSOHZUazU3UjlpZFJ0YjNHVlpQMkI3dkQxY19UNWlWZ2UzS3N3?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 01:48:00 GMT",
-      "source": "Thansettakij",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "เฟด Hawkish เขย่าหุ้นโลก! ขึ้นดอกเบี้ย 0.25% หลังบอนด์ยีลด์ทะลุ 5% โบรกเผย 5 กลุ่มหุ้นไทยได้ประโยชน์ - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByRlFtQXhjYVR4eVZjYm1lSW1LYnoyQmJpZjh1cHM4cWZGblBYUDBrRmtUNk9jRmRDSGJLV0MzN0tnTUZYb1QxNjlMNlhTZW9HTVc1WXI2OU5iVlpPWk84dEtR?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 01:42:00 GMT",
-      "source": "bangkokbiznews",
-      "category": "อัตราแลกเปลี่ยน"
-    },
-    {
-      "title": "KKP ชี้ไทยมีโอกาสรับ FDI รอบใหม่ หลัง AI จ่อดันความต้องการใช้ไฟพุ่ง แต่โจทย์ใหญ่คือการขยับจาก ‘ปลายน้ำ’ สู่ ‘ต้นน้ำ’ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUmx2SzNaRnJoR1FaX1ZVcEZfSlozdlQ3dkVmQ2FybWhKLWlSVUNab0h6S1MtMnVKcTJwc3M1dmlrNzJiTDVSYmFsdE91YW1NNGhzNW1MS1dPazhNSEkxSnpsM0VMTmpYNkE?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 01:10:41 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "SYNNEX ยก Nintendo Switch 2 จัดเต็มกว่า 270 ตร.ม. ชวนเกมเมอร์ “Try & Play” ในงาน gamescom asia x Thailand Game Show 2026 - positioningmag.com",
+      "title": "SYNNEX ยก Nintendo Switch 2 จัดเต็มกว่า 270 ตร.ม. ชวนเกมเมอร์ “Try & Play” ในงาน gamescom asia x Thailand Game Show 2026 - Positioningmag",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WXR1Q05IRklBWXJjeFdTQ3FKQzhtREo5Z3pGblFzdkZCQ1lyVEwxTzdBZDY1RmJGYWtmbElPS2pXMXNyMDJ2cFB0NTlwNlotUjY0?oc=5",
       "pubDate": "Wed, 16 Sep 2026 08:40:35 GMT",
-      "source": "positioningmag.com",
-      "category": "ข่าว Synnex"
-    },
-    {
-      "title": "ค่าเงินบาทเปิดเช้านี้ 33.31 บ./ดอลลาร์ “อ่อนค่าลงเล็กน้อย แทบไม่เปลี่ยนแปลง” จากปิดของวันก่อน - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxPdllwTGJSRTMwZW9PZU5ZcHN5SGJtLXVrUTlmVzVZdjJEd29qVzNVR2ZJUUdsQkZxZUJjdzhDTkFvcHE0QzZXVFVjNFhZZDNVYl9mamxGRkNEOFZXTm9BcEN4eTZONkZfSFphUnZ0OGozZDZFS0Y2UEYzenRiRzZZVGVES0JadUY0OHR6NzFBOGpTM2tjYktEMmRxSGp0X1p0Wkg0ZUZrVldmRTlBTndnTWVHT1FicV90YWZTcW1yOTRiakRNQ1dqZGhIX3pPSTdEQTc4YUI3M1RqcFoxM3RtWUFnRkdkQW80TmVHdE5fLVRfU3c4MnhsRWtHVlBndk16bmhDSWxsOE1PcmNOamVoaFppeWVKX0M0VU9SMXJkUUlGYXBaakdsN0ViMzh3MEk0RUNHSHhKUk1kZlc5a0h4Y2Y0N0pQRzZlQmxmZFJjMmFBaXVkSmpFZ1NNX1ctZnVxblRsdjZUNkFyQ0JwUm8yQXhUQThOVy1UUW5LYnM3SFEwSXhiT2hOZjZYVVBxZkFWYWUyNzdrVGFlX2ZHVmVVSlJOSlB2ODk3alVMUzJFWGNJRWw4N3ViZGNQZnZtWDFVTDgwdW1DNUtmUkZJZDhHMEtGUV9VQWVQWUxRaHYwZHBFUk9kT0NoM3ppS3RHbXZickhzM3p6NlFtdWpRV0VCZElONldrYXBWdFZKUXNzVjhYRDRyN043d2UzamRPSlJkWlNhemFROHFYMWVTNUVWZGtlaEVpMTNQQVdVX2gxLXV4UWhLTmhpNG14VkdodDZ5TGJUYjlfM0hHUWtlU2dWS0hzR3RNbkJrNWJkcmxHZWJGdlg2aVBIdTdpeE51ekFiYnZ1cVlrU0ZVWmc3R01ZSE5qM0kwS1piMnRHcHZ2Wmd1S1lNaUxLMndVdlJmeTZMb3hNaHRwZm81MHZQU3VyNWdoUzh5NE14dHVxd3VwZ01vaXlGZTdhdTRocGI3OVBpR05WWm16TFJqV0Y0ZnZHUDNBUnB3UVBoeWhfM1BjaG9LRm1HWE1panM4MTJ0clJ2QlNTejFDVFRzcHBsR25pSjg3VjJBVlFyM19WOC05U1k5RU14ZjBocnRTLWJfYkhKYnBFaGMwa25zb2hOVnRVYV9KWElCOUgxaHpNbHdnR1lMay1mUlVONnZxOXRhbllfa055SmxibklvUld1N01IWnI1azV3ZXJiaEtPNi1VdW0tbjEzeDBCYUdITXFiT3o4T3NIX1cyaXdsSWdRcEM0OVNQNV9TN0c0RTd4emx4VTltdHVkLUdMbXQxYnNOeElsdVE?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 01:13:27 GMT",
-      "source": "facebook.com",
-      "category": "อัตราแลกเปลี่ยน"
-    },
-    {
-      "title": "SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTEl5Y2pXSDFTTE9YM2N2QXh0Zm80ZHg3eDB1NHpwZVBaTnp0aDBuTU5BSkNuXzVaNWozaUIyVkZ2LUNwZm5VUXJPT3otM2RpUFN2bDVB?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 11:16:56 GMT",
-      "source": "LINE TODAY",
+      "source": "Positioningmag",
       "category": "ข่าว Synnex"
     }
   ]
