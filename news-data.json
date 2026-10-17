@@ -1,33 +1,47 @@
 {
-  "updatedAt": "2026-10-16T16:27:48.248932+00:00",
+  "updatedAt": "2026-10-17T05:27:02.158388+00:00",
   "items": [
     {
-      "title": "ภาพจริง ภาพลวง เศรษฐกิจไทย - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FTmplbzEtMjVUdHF2Z2loMnB3TnFERDh4SXlkQkcwOHk2cUpJLV9QSHBha0UwMkVObk5WTlVqQ0tIdzczZDBxc0tybkpPWl8wR0lQb253?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 16:26:17 GMT",
+      "title": "ถอดสมการ IMF: ตีโจทย์ยกระดับเศรษฐกิจไทย คาดเศรษฐกิจไทยปี 69 โต 2.1% แนะแก้หนี้มุ่งเป้า - เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kd1B6LXU3VUxSVXp6dldVU0MxV3hWVVFtOUJUcExiYzU5LWF4Q2xpTk9XMDBrSXNIRFh1N3k5VlU2UUMtS3JMcGozR2pJWmRKeGpGUw?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 02:13:00 GMT",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "Microsoft เลือกไทยประเทศแรก ปั้นคนไทยสู่เศรษฐกิจ AI เชื่อมทักษะทำงาน - posttoday",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMVNmaVgxb1dZTE1rZVoxeXo1WUY0WGVhRDc1Y3ZWMGRjc25nVGl4bFJrejZEa1YwTXp4UkFDR1g0MWRIQU5qQUpCM2J3Yzd1aGxR?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 02:11:00 GMT",
+      "source": "posttoday",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "กสิกรไทยคาดหุ้นไทยสัปดาห์หน้า-จับตาแบงก์ประกาศงบ Q3/69 - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PV05nMmdObklHZTY5cDhxblQ4elU0UGg0ejQ0UjdaZlFlclZmM2xYUTN3dlN0NHdReEc4czRvczEwX2ctY2YyNFJVOE8?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 00:58:27 GMT",
+      "source": "Thunhoon",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "‘สุทธิพันธ์ จิราธิวัฒน์ ’ ถอดรหัส 35 ปี เศรษฐกิจไทย แนะเร่งคว้าโอกาส AI เศรษฐกิจสีเขียว - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IcU5RRmQwYUQxbzgweXQ4NzBTUkhlVzZscWxSUzlVNkt1anhjS2xZY05keGxBUUxUNUVaVlRadkhHUE9IVV8wZkVkVU96Ukg5WjBkZEVDdVU1cUUx?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 00:58:00 GMT",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "คลื่น AI กับเกราะป้องกันเศรษฐกิจไทย | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZVHcxekY4VTZ0QlBSRlh4Ny1nV3NTTnBseUVqd2FSUXA5SjA1eXhuLTdvems0aXhMNlZBcEpqQzczZU1qUTVBc29famNyUjBJNDB6cVp3?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 23:04:05 GMT",
       "source": "LINE TODAY",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "ราชกิจจา Digest ฉบับย่อย ฟังบ่อย เข้าใจรัฐ ตอน 112 : ปลดล็อก! ซื้อขายสินค้าเกษตรล่วงหน้า เปิดทางแข่งขันเสรี ขับเคลื่อนเศรษฐกิจไทย - ททบ. 5",
-      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNdzgtNDRTZ0MzMV9OVTFnajNOZENkNTZjZkdaZmdVQUpqc0Z3UU04WThiR1RjUExqSURQYm13U010TWpDMFdRaVlGRkp3dk5VS3BUX25TODFtTUxYaUU2MFgzUlZWQnpRbmNzbGlhTlF5QmRzYTcxMzBCWHMxd3NNRGIxdmdYNUpGLTZYNkJyV0VwNUtleE5CejN6VUx1ZTFlVFVyVW83QkhoTkNmcWJMMXdvWFQ0NTFITDVrZE9UcTNybFFhS2RnZFN5akVVQ2lOcTVzLUdZS1ZnQ2xnTUU0bDRVU2piWEhxaXBFdXNidTR3TnFMdmppRFdSekV0QU9XTFNxVVVvSDl4UkhpUFpCdnpUSHZ0cW5HWHcyVFRNeGRGMzVBN1hzM3BTUTV5Rmw0Q2lCNlB1bDRNY3BLb01vdFBJNVZPdHd0Tl8xQlhSaXQ4MkhQTGZjRnVxN1FHV3IzZ3prRTBQSW5yS0FqOXRNZFhITU8tLTVpT1F0cG1ibTV4RHNzaWFEOURkcm9nUHV6czlRRGJyQ0ZWSWg1U2tBVDEwSXI5UVNKVkdESnBscmdrUjJWQWtYMm5oWFVtQms4X01yOU1xYVgwcS1yYlA0el9QN3ZLdHhTYWtV?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 15:25:00 GMT",
-      "source": "ททบ. 5",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ไทยจะรอดอย่างไร? เมื่อโลกแกว่งด้วย จีน-สหรัฐฯ-AI เปิด ยุทธศาสตร์ เร่งปรับตัวก่อนตกขบวน - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbEZPdEJDODFUdmdPV2FzNjFucnJhcEo0eDd0SWFyTWpIeVVhNTBZSjNaM1FhYUw3a1A1WVc4RnFaUGQ2aXJaa1lvVW00eDZGWmdaRGZiSHh5SlZ2WlZfM2lCdy1KZjJYUXc0?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 15:15:08 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "กสิกรไทย ชี้ MSME กระดูกสันหลังเศรษฐกิจไทย มีส่วนจ้างงาน 70% แต่สร้าง GDP เพียง 35% ถึงเวลาที่ทุกฝ่ายต้องช่วยสนับสนุน - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JdXZ3S2ZEOEx4VGdiT3h3aGZWWGVWMUJic1JveUR0SXduMGlRclhaaGZ5SEJoMHd2UHlSdjY4eVZPblcwUTdxNnpoVVVaVjV4WXRRcTlyZkdQcENuTVlV?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:26:12 GMT",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจไทย"
+      "title": "บาทเปิด 33.62 บาท/ดอลลาร์ อ่อนค่า \"กรุงไทย\"ชี้ บาทผันผวน จับตาแตะ 33.75-34.00 บาท | The Better - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qTlk5WFNtQ21ONm1udUJyMWhkNFItQXpKYlowMGVxZ05fY3A1ODVyU0IzbFluelBPd1A3Q2hYWWlmS01WZktrTFRfQ3FJNWhfRlNVakVB?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:12:03 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
     },
     {
       "title": "Markets Like What the Fed's Warsh Didn't Say About Inflation -- Barrons.com - Moomoo",
@@ -37,13 +51,6 @@
       "category": "ตลาดโลก"
     },
     {
-      "title": "ไทยคู่ฟ้า. RomanSenykMusic · Uplifting Background Inspirational Music. ไทย–อียิปต์เดินหน้าขยายการค้าและการลงทุน เชื่อมโอกาสทางเศรษฐกิจไทย–อาเซียน กับอียิปต์–แอฟริกา ด้านอียิปต์เชิญนายกฯ เยือนอียิปต์อย่างเป็นทางการในปีหน้า #ไทยคู่ฟ้า #สื่อสารรัฐบาลไทย -------------- - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMioAhBVV95cUxNZDdYSHF4dmZ3b0Nudkx0b3JJN09tcFRTSklJVHFfSkNHdWNYYkJ2TWlJVWhwcXl2eGZDeFRHUWE2d0hxb2ZnWGF2dDJwX0Z6UVhyb2NtUUVyWHVyNXQyMUEzRXJvbV9tSG9rUC1mY2d6WldrNm9XYmw5blhjM3dzZVF2a0lZSHAxUXQ1M3owcERfcHVUNVVMR3RqM2dXcGhYVmhhM0ttQUdNblc4d3BXMDVzb3I4YW51R2VZNnNkbk9aNTFNaXkyU0xpejlxd28xWEJaLUtBcVlvRU81eG9pUXFVa2RrTlRTSEJFdndDMndLbnB4TVNGWVBYb3FJa0JFeU1pSE9uNzJzVDZfYlRsbk4xVlRaZ2IwQUZ6T1RDcVh0Zy11RUdKcG02RTl0aTN0MlhjWFZUUmdaUlVTY0NReTdHUjJKLUtKTGZNTkU5RlFwVHY1UnczRWRiZGJySXpsSm9jUFBPNmNrNjgySmNpUVhaX2VuVU9zRE8yZUVkY1NNNXNsaUVrLWtQS1VtMnFFcmRtckc0WlpsTmE1eTRwVUFYaENwWkx2QWNKeWFudWpzNVRIUU5LRktORFdVZkVQMkhfYzB3M3d4M1k5WkRYU1RYV0NKcU10T1JLRFdxbU0yX1R1c3VOdk9KZWhBbVNkOXJvWTM4N2MwUnMwSjlvbzA1T1hEcE5wTXpCZUNnMVVraTdYZjFKZ1F1U0ZRaW85aDA1QmI2ay1sRGtHZ2FJZW9oUEZwelJCS3N1dGJoT2d2QlppN2dwLXI4SnhneXpuQU1WaW10dTRSOU9TVWtkSjVOclhyYWFoTi1GNXVEX0dmbHZBNnFPMmFFMWdLWHExeXBDMmZ5c3pHUkptZ1h1UmZ1aldvd3RFeDUzc3c1TnBJT0RtZ0tDSkdRU3JhUTN0NERySFRmMDJDenlKcGxtRVE2cTVaLVQ1OEZ4N3FHMjNPT0tPVWZJXzl5SGxvaDV2ZkxDcVhEMzN6bXFVNXJ3a01scnd5T0dpUlFuS3pWbXlyb2h2clhFck1NMDg3dXJHX0Vza2ZieVIzVEtRaHV4YnlxVi1HZ0I1aGZsTjdkSmEzbkNldnRiNzM1VHRVY2c2QXlvQlVrYUttLXh3STVjbFpLTkxaUGc5WlJNSnZfSjNGQ19sNWVCZXl2aVJCYjBoa3VVSU1WaFB4M0xZUHFSNXcxTUVtMl9IM1JMZjIwYjNCcXdUUXBHcS1iSUozZEdldGp4Y0Ric3laek1QRkUtc3VYX3hMelZoTjRnSmNzaVJNSzJWb1FZTWRFbzkyajY1cVR2YTRFRTI1RjVNZnlCeERwMEI3bE5PZ3lyZFJnS3ZGOG5sVHZKa2IwYk5vSnN3YWxUMi0yMmxYdHBldDJYQXZLWU5PaE1iVWFzT1JxMzM?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:28:27 GMT",
-      "source": "Facebook",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
       "title": "ราคาเงินร่วงจากความกังวลเฟดขึ้นดอกเบี้ย ขณะที่ผลผลิตเปรู–เม็กซิโกลดลงซ้ำเติมแนวโน้มขาดดุลอุปทานโลก - VT Markets",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRXZkSEdHSS1yWjRxb2pOTmZ5NG5hc1V6QXpZcF8xRWI1YzZERVBSNFdHQWgzOG1BazViN20tS1piMm0xc3ZDV3pyZWktNGdUeGZSY1lZR1dMX0dKbDZsQ2tNMVlfSlUtT2o3SlQybHhHMGEyZTZTcEdpOS05OW81bW8yRjJYQXhYSDZFbHQ5Z2lxWEtyeG1nMFpJQlgwSlJyY2NkUEpIOEY3ZXdGbGZfVFZXUlRXU1NRd1U4TFNyRWJRa2RNYngtQ2cyN3ZRRUJmVVJYcU90MA?oc=5",
       "pubDate": "Fri, 16 Oct 2026 11:21:15 GMT",
@@ -51,25 +58,18 @@
       "category": "ตลาดโลก"
     },
     {
-      "title": "Resilience : ความสามารถใหม่ ในการแข่งขันของเศรษฐกิจไทย - ประชาชาติธุรกิจ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83QlZiTmplb3gzMUwwZHh1ODZRZWF4SkxVTVdoS1kzV3FQNEpGMlo3clVZb3hpQVFad0ZFbTJxcWdrclVMb3RFRWRyNDZYVzBJeHRNdUhSUFl2azA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 11:01:00 GMT",
-      "source": "ประชาชาติธุรกิจ",
+      "title": "“เศรษฐกิจไทยโตต่ำ ทำคนลำบาก\" ผู้ว่าฯ แบงก์ชาติชี้เศรษฐกิจไทยโตราว 2% ยังไม่พอ ย้ำทุกฝ่ายต้องเร่งปัญหาโครงสร้าง - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ZU5EdmFYWUlUNWpMekRIREQxVnA1VEpFTGxGdFJjbklJeXlxdnlvWlIzWndWTm5yaFFXTV9VLXlNejNuak9XNDhhcDhJQTRRMFJPRW1NYllDaWJTaWJoakxYSHFVdEJDeU5xazlxNTdVUzVzMGhwWA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:21:30 GMT",
+      "source": "thestandard.co",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "ผู้ว่าการธนาคารแห่งประเทศไทย และผู้บริหาร ร่วมรับฟังการเสวนา (Fireside Chat) - Bank of Thailand",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHpPZzM3TXdFZEZBdU5JQ1M0eXd1YXJVb0dHWFZGUVNLa1lFbnJCM0VIYmRjSjZjN3FhTnh1cUx0RXJjWWZqVFFTcktaMlF6LUNHempjNDVKWjlOQkZlOGFSMjhzbjZuVlNBd1Zlckw2VGNMTDl5S1hHenNuYVlMTDA3WQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 10:49:49 GMT",
-      "source": "Bank of Thailand",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "Sea และ OpenAI ยกเวที Regional Codex Hackathon มาสู่ประเทศไทย เปิดรับสมัครแล้ววันนี้! - Techsauce",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tLU5sdzlwSERGTGJnSEREZXItMi0wMkY5dGx5SWg4cFRUbzlocDdVQ2FPN3ZFdE1IWUdJNGVrdEVNWWE0dlh3V2d5Z3VFcTktVnVOem1uUTZ3UzZ3T0FHdXQ3T0stb0VHbmVncQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 08:36:28 GMT",
-      "source": "Techsauce",
-      "category": "เทคโนโลยี/AI"
+      "title": "Reuters โพลระบุว่า BoE จะปรับขึ้นอัตราดอกเบี้ย 25 เบสิสพอยต์ สู่ระดับ 4% ในเดือนพฤศจิกายน - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVhGV2RCX3gzUVMzMjhRNFRmdDRRdFltZ0tWSy05NHFYS1Y3NW94eG84UUc4Y25mb25wV1lXdzc0SmdFenNLa2FNTW9Za3hubUt0Vlc4eHFRaGRRRldUQ0hXajRvYWFPaVJRQVJNejUzcjliVjAzUENlSm03dGlvTkJLaEhVX284QzZEZER6aGdGZzBTR2pFNjZ4cDZ0Qm9mMEQ5bEZPQV9GTEpMOFBleUxmd2FTaFBCbzFxRldiRVBMT0JuUjRBT2U1QVA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 08:55:50 GMT",
+      "source": "www.tmgm.com",
+      "category": "ตลาดโลก"
     },
     {
       "title": "เควิน วอร์ช ประธานเฟด ชี้ AI สร้างประโยชน์มหาศาลต่อเศรษฐกิจ - Thai PBS",
@@ -79,32 +79,32 @@
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "‘แกร็บ’ ผนึก ‘OpenAI’ อัปสกิลทักษะ AI คนขับและร้านค้า 3 พันราย สร้างโอกาสธุรกิจ | The Reporters - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PYXFGMTVUYWJSTEFBTGo0Z1doQkVHLXFyMkRoVDVnX3dxcnVPYkFwTVYySTR3QU5GTm9jYllSem1aQUkyZFFlenp5R2o4Wlpxenk4SzNB?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:39:33 GMT",
-      "source": "LINE TODAY",
+      "title": "ซิกเว่ เบรกเก้ ชี้ไทยต้องต่อยอดการลงทุน AI แนะ 3 กลยุทธ์ ปลดล็อกศักยภาพ SMEs [PR NEWS] - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SQ1NKdEN5ekgtOVctOEc0SWR0VTVlS3AxQTQtR1hsS2dST0wtT09fRjBlcHJ2MFJDRFMxS3dZZXdSbEJRczliQ1A5Y2hwMG9zYl9IX2x3UUI3ZVc2UFVGQmhORUJ4dTY3Qm9v?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 07:10:52 GMT",
+      "source": "thestandard.co",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "Bitcoin Rises; Focus on Fed Chairman's Comments -- Market Talk - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDg3NWF3WVUxa0YxUjJyUVhIdXBBR2pFYWdxVWVXS1Zta1dnRzlwcGhlWE9OTGYzLUhRZS1PWUYxUlI4S011SGJsdF93NVEyQ1c1VDNWSGpGeXJrSmZEWUstVk1IbmJFR21uWWt2TW1QdkN3bG9OUU5qd2ZhQ2h4NUtQQ0ViQVhaRi1CUXRsR1hfaVU4MlhLYkNIZ1FDRmp6TmhPVm9aSko?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 03:45:07 GMT",
-      "source": "Moomoo",
+      "title": "ดอลลาร์แคนาดายังคงรักษาระดับการปรับตัวขึ้นไว้ได้ ขณะที่ดอลลาร์สหรัฐอ่อนค่าลง แม้ว่าการคาดการณ์ว่าเฟดจะปรับขึ้นอัตราดอกเบี้ยจะเพิ่มสูงขึ้น - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXFEcGM4U2xTQ09iQklfem05cU5iZWRoQlRldmRxcDMtclF2MUlNQ1JOMUpyRGlwOU1fckhId2dQX0xsQXVac0RIZE1xUW8yUGt0WHRDRlgzYTZJQ0tvaUh3M19meUdMUDJZcGZWdjJRbVlsNGl2TEZXWE5Pa19Qb2Z1c3lzZjYwYlQ1dFI0cVVRb3hUQ08xQkpmY1BUNlk1b0VqbkZ2ZUhUc0Y4SWlUMmpCNTQ3YnEyM0pTOGtqRzlGODUwNGZSNFlUNTJHXzB4Vkt5TV8yRkpCakJuR3Z2Z3ZaZFEwRGlz?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 06:03:29 GMT",
+      "source": "tmgm.com",
       "category": "ตลาดโลก"
     },
     {
-      "title": "TFEX ขยายเวลาซื้อขาย Currency-Gold-Rubber เปิดตลาดเช้าเร็วขึ้นเป็น 8.00 น. เริ่ม 16 พ.ย.นี้ - วารสารการเงินธนาคาร",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kdE44eVBSbktHckM0em9PMVcyMGpkNGJxdlhaN2JRQVpZVzc5eTgzRXQtUnJkMkFrbUUxeThDTmlDTE1ZWmw0a2dhazJibUhocWktWQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 03:23:13 GMT",
-      "source": "วารสารการเงินธนาคาร",
-      "category": "อัตราแลกเปลี่ยน"
+      "title": "ซิกเว่ เบรกเก้ พูดถึงการแปรเม็ดเงิน AI ให้เป็นการเติบโตที่คนไทยมีร่วมกัน . ความก้าวหน้าของเทคโนโลยีปัญญาประดิษฐ์ หรือ AI กำลังก่อให้เกิดคลื่นการลงทุนลูกใหม่ในระบบเศรษฐกิจโลก ตั้งแต่โครงสร้างพื้นฐานอย่างดาต้าเซ็นเตอร์และเซิร์ฟเวอร์ การพัฒนาโมเดล AI ไปจนถึง AI เอเจนต์ที่สามาร - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNYzNWRVAwVlBEZEpZbTN3bUxHVkEza3RMRVdQOElmT004QkEwa1lEY21xRTNhQVo3SVlVZFQtTTU3U2ZJNEtvaXV5YzA5SEZBQ1RGRzF3RGlhWXZQRno4cGpPY3FfX080bTVob0JXcXoyMEMxY3hDS3Z4c0d0MU04VEM2M1JUUmd4cTVkWm9vc2JtcXJHZ3QxaU9kVHNidkM0eXZTVmZvdFMtREFaMmRIYzNnc0tmSHVEb2RJNXlhY3VLczJnTFdtTUVtRS1tczMtaXZ6d210NUdyeWlmVzBjb3h6SDFhOEwtOGUyMmN4OFQxcmE5Yy1qLVVBZUM4TWs1clY5cEk2VXpKQzUyYTNqdXRoeVEyZTZEVzNHQ19MVUZFaFhHeGlVWS1ackMxSWNEaG1EakZDTTBsRWJmNkI2NFB2V2ZkQy1KRko2SnJMd3llUzVoX1V0d0Z1V1RIdlI3NFUzR0NHNzNCcVA3NENMVmdDaEpjQzVzbHBKWlNwNXIzMFRhdGg4UkhUNzN5cU4weUhrZXdCVTRnSkdKRFRQNGZGdndzTkJGSGVKRGFYVk9xMWlnNmVUZzFMRjVZSHZOSFdVRmJ1VWxDZ051Q3gxRGFDRnprblVMVHoxdkdRcHZNTlRBdV9nbEpVaUJZQUNxOXRtVjVlY3FIVW5sTV8zZzVOOUxIWEtJeUR2VjJzMFNQSFk4clZMTnpfcC1wTGw2STRmbWNjSlZoalhQN0NpQWpHTEV0dzBiZ2FsdDNlNjNQZ1N5OTdFMVF2SE1hREs4ZXdUcDRXY05rNW1aLVYwSmxna2k0MGtDY2FzS2J3cDVZZGFlQUZOYXhSZTlMZkxmNEs3WTRyUXVXdE1Pa1B0QTN3TEtFZHhrMlhHSWxjNjh4VmxuZ1VadFpYUnlQS0JBMEhoMnh5RzNqR3EwNWs3LWtZQWxVUzdWZ1RFUDZKamZ4NFBSaUx4UzdZMlM1UW9vdnNaTzFFUFE1V3VxRF9Edy1Ha3EyTFhiN05xdTEzdFp3YWZLTXVxZ3FiQS00TFZVOFRtQndNUHJWMUlLWE96U0xyU3RiZkVQYzExQkVqNEU0Ul9wckx5Z1JFUzN2cThCTnhwczZBdFU2MHNUdjl3ay10cXpaMlEzUGlsOE5VbzRZRVFkcFpRYk5XSVFWWWctYW1BMjhsOFBvaWM2STNSRE9WaHd4c3lJbW41SUNNS09oTW94MWNNeWhMY0c4bWtTb3o1VnJQMHRNTlh0NG96N1dNVVBYOVJkdkxLNkhjdVNsWlZjODFXRzk5WE9ITWZXdFI1M3J2Z0FvZk4wMF82dm9oZTMtWFotRk5nSkwxWWtSUQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 12:30:09 GMT",
+      "source": "Facebook",
+      "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #ธ.กรุงไทย มองกรอบเงินบาทวันนี้ 33.50-33.75 บาท/ดอลลาร์ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMikgZBVV95cUxQc2dJRjYzSWZlalQtdlhjSFF5bGxqOTNKRUdTRExQNjEtSExhT3ZCVGxmLW12RFhqck5pNHVicll2QWR5MUVxaWs1NVFrTVVKb0c1OTI4SjltOWFSbHJWNUdHSWl3d0s4VFpibTNqcjJXVUNWVG5jYlA1bGxudEtmSHBaLUpCbmhUcFZTMnpmaDRETWMzRTNLcVVyYm5Fb2Z1NXE0NmtOV3loRllCLVdkekdtcDNwaWVxcFFzZG1zN1JienJ1ZFJuYlF2bThXRmVySGw2ckt3dDZ5Y1huZjliWHZpU3Y0dWVkYzZBdlJLM3BlQ3BmbFc4NFZsa1ZSSU9kS2Yzd0tMOGZZT3NyWlBOaGxmZXpfZ29rM0o4N3E1S19WRjNzUlJqNFVZdE1PelZiUXE3VW43eS1fU1lfeTJSNmZ1TG5HV2QxZVMtM2tYLVV0dzhDUlVZR1RVR01oaG50dzdXNXlweFZpbFhRU3htQmw5ODJwSFVjdWhuZElMcVJ2bG8xcExHWGR0UDl5QjFSZnB2WEJJZ2U4R3psWnZHa0pEbTdvZ19BdDVNQ1IxU01DaWlPemVrNEdfTjVTZ3o1THkwRjhsMGEwcmZFY2dKTjQ2SWFpRWZ4Nk54b3Z4OUNRS3VwTW1rcFNSU21vS001enBYUE5EQm9lYUNCaWdjN1N2THRPLTg0em5MV09DSk5vbVowcmV6NWE3Y1ptTmFPVTJ3YjhPaVZ5bk1FVEFzcnk3VlJBMzUxdU5DR2ZVTmdudVFBa1FfMm9UM1lNNDFvbm1rX3dPRVB2ZDlOWEtaVnl1ZFlsRGp3NW1LVno3c2xMOFNaV2RSNU03X2FQbHZnOEdYLUl4MGpjMFQ0VjJDVHRySzVuWVpES0hoN050UXBZYVlXcldBMVpYVnN2eE5ZdW5odnUwX0xQWm1DRHcwZ09SXy1xWjhSaUJ1cHhud2l2ZmxNeEJlMElLZklzRDcyUW5NTExCVHhUUkV2Y1l3NUdxakd6V1FxdUtOZzdvUVZFa0UwZmJRQ3ZjczY5MWFydEE?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:36:00 GMT",
-      "source": "Facebook",
-      "category": "อัตราแลกเปลี่ยน"
+      "title": "ระบบ AI ในประเทศไทย: เทคโนโลยีเปลี่ยนแปลงการตรวจจับเว็บไซต์ผิดกฎหมายอย่างไร - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMimAdBVV95cUxNUFRiRVNtOUtwY183a25Kay1Yekc2T1gxQWZKZEtsVmdkekpKS3RYZ1QxWHZhbEN2YzluRTA4bXhOUXJpZDIzNS10c2Z4ZFFNaWJpUE5NRFV6VGQ3TjdtMjZuQXB1elFTTThLU1RFNmpyOGNwcEt6QjlqTTI4YmNVS2lzZ19DVEI0elZXNXBIelR1aFpzeXNtYWV5bFVXT1RENDNyUkhVdm1xZEsxZUdrMVFZMXh3Y0pfLXVVTEhOYklPZ2g0VGtyMFoxXy01VGw3STdXMnJ1OXNwejVULS1nUjhJOFBTYW9BOVBlWGlRaHItUTY3Sl81WUdSMWl4SC1LQlctZzF5NnJGTUoxbWg3QXBoRUVfbUs3a3p1eG1DYTM2VkgtdWtWdkdacWsySDAycGNaWEJTbkxqbnhUX2RpeXNvX3dnRmhUMEx0aTA0eXdDMkVNUVVtNnJlUU9IOXhuS0M5bExRMFgwQTNFUmdZeTRiRk4yRmphc19YaXpIQ0RHMWVRUHAwRWVmYjA1dTFuNVZiQjBuaEhxSjU1bmZDTHoxel9JR0hwNmpwOHlOOTIzLVFwVjdJMTBqZ3ZRdnJxb042YW1RZmtvaURPWGV2VjFScnhuMlkyRmNka3U5cGNiclo1dXVZV3hhSVNTcTYwQkFmNUpTOTIwN2RLOTFuY2FxR3hENnlvNmYxVmVDdGdVUHFQN1RLTzdwZ0trWGZFUlBualRwakVTM2ZBblJIbzRSMzBMTm5mUFZneEdXR1V6eUJOcXlZQ2pXUEhDSXhjR2pycU9XbE5uZGlKck1KUFhQTWRNTmhKbGZ3SENOelItMHdfd3JQcjZFYVNmZ3hKQ1l0YWwzcFpqSTg1WkoxSDZrVzEwaFM0U3lrU19pRE1vN2JUZ1RGMWJ4NUc0NkRkUTQzMnM0LWNBdDJrSjd6Tk9aWDA4SWxoZkdZRjRoU2ZPZmlCSWxBbXpuY1drZi0tN0hyeFlsd1hwQkhBcWo2V1lENFpmNmIxMFZBajZ3d0VxZl9aaE1VRzZzdVVxQlhoUUQ1Ui1aZnh0c3JMeTNKbV9qVk1QQ3BiQ05pRmVST2xMRTlyemIxWVktbGdFRXRxQ2ZqT2syeFE5QlkxSUI0RVVvRVRaSGV4VW9mY3NXY1hKM3gtbnJCOTlPaDJCNlpWU0RQT1lzQW91WFlkZjhnb0xMQTVEZExTMDlMcG5jT2lyVklDZUhXZQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:38:42 GMT",
+      "source": "Outlook India",
+      "category": "เทคโนโลยี/AI"
     },
     {
       "title": "ตรงข้ามเดอะมอลล์บางแค Opp the Mall Bangkaeไปยังลาดพร้าวด้วยขนส่งสาธารณะ - Moovit",
