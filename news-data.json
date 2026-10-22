@@ -1,33 +1,110 @@
 {
-  "updatedAt": "2026-10-21T17:01:08.674159+00:00",
+  "updatedAt": "2026-10-22T05:55:33.973347+00:00",
   "items": [
     {
-      "title": "ภาวะตลาดหุ้นไทย:ปิดเช้าลบ 8.49 จุดรับแรงขาย DELTA กดดันกังวลงบ Q3/69 -ไร้ปัจจัยบวก : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QZFk3eGdiZFNZcnVjTUcyMjZfNGFJbS10WjlOLXNkTF9IS3YySlRfaFBVNTNiSWhLZEp0ckhMNm90a3kxZ2xINnUzQU1MMGVY?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 05:40:15 GMT",
+      "title": "หุ้นไทยพักเที่ยงดีดขึ้น 5.38 จุด ซื้อ SCB-AOT-PTT - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZFo5U3JpRmYxWHZEanpWYVkwTm5XcF9yUTgzam5iVllHZTduYXJVaG9jc2M2LUd1NmR1VE03ck1WdlhFX3dtalR2ZFc3a2xmM0JUblJzUmhYUQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 05:51:58 GMT",
+      "source": "Thunhoon",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ภาวะตลาดหุ้นไทย: ปิดเช้าบวก 5.38 จุด รับแรงซื้อกลับกลุ่มแบงก์-ท่องเที่ยวหนุน ตอบรับ Flow ไหลเข้า : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vYjFrYjJTQUhLWWxYT3psZGhMNklIMUl3bW82aTJEekRiQ3gxbXFMSkdKbVUya3lhLWpmV3VQdlQtek5QYk92WTJuMUJkZ0li?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 05:44:50 GMT",
       "source": "สำนักข่าวอินโฟเควสท์",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "\"บอนด์ยีลด์สหรัฐ\" ผันผวน KTB แนะ Buy on Dip หากทะลุ 5.20% - ข่าวหุ้นธุรกิจออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XMjFOQVRiR2pBTnhDSUd0UW42YjFSb3pYX1Q3U2REcTdtX3dxckZLbGc0dEZQNjBabktSc2hwQTFMVmZERlBjOVpKSQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 05:01:19 GMT",
+      "title": "การแถลงผลประกอบการไตรมาส 3 ปี 2026 ของแบงก์ออฟอเมริกา (BAC): รายได้ดอกเบี้ยสุทธิ (NII) เพิ่มขึ้น 8%, แนวโน้มปี 2027 แข็งแกร่งขึ้น - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBySFQxM2Z5d2NoMnFadlQtZ1BMT21HMHdvdktrbGd5a1FqOGtGVmJrVHpaemF1OE9MY3FDWHJoQllSMHlsUzlkWEpSS2EzS25hVU4yWWhYcW5lWXp6VW14MjhCemdzd1loc3QwLTdfbGF6OFdZdnc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 04:11:45 GMT",
+      "source": "TradingKey",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "‘เงินเทา’ ครองสัดส่วน 2% ของเงินทั้งโลก สาเหตุธปท.ดัน Bangkok Blueprint - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mWS1EZ2FaMUNIUmhFRkt1Vk9lZ09TcXZMSVJtLU5JcVNFY25VNUppQWwtc2o1UGhOcGFmM29ZZ0dFUnRpRnl1WEZ6cXYxTlg0T1k3ZFkyczNnbTdDZFB4a3ZvanVOb1l0VGc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 04:11:15 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "\"ยีลด์สหรัฐ\" จ่อแตะ 5.20% กรุงไทยชี้ช่องช้อนบอนด์ยาว - ข่าวหุ้นธุรกิจออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15bzFhcWFZb0tKWkYtZlN2OHhsT3hsb1dYbnA1WEhFbFZQcXhZaHRsODZyeXh0SXNLdkxiSjZmVWJYM091V25hN1Vucw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 03:14:57 GMT",
       "source": "ข่าวหุ้นธุรกิจออนไลน์",
       "category": "ตลาดโลก"
     },
     {
-      "title": "หุ้นไทยเปิดเช้าดิ่ง 11 จุด น้ำมันแพงกดดัน DELTA-TTB ซื้อ-ขายพุ่ง - thansettakij",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0V2oyZm1XNGdJdWFtQWpmb1BGdlZxbV9kV1YtWUJwY21WeUZLNkJjMmpxSldjeVo5MWU0VzVUYURPdXlGblFYSjUyVjk0amE2dkRVYk12bmRsdTVKYmR5U0dnN0didw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 04:47:00 GMT",
-      "source": "thansettakij",
+      "title": "หุ้นไทยเปิดตลาดวันนี้ บวก 0.43 จุด ลุ้นงบ บจ. หนุนฟันด์โฟลว์ - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BeU1ZZDJjeFE4bkpOcWtFWXNkanNiYmMzYUpIb3otRTJLLVpyR2hWWmZGZkt5V0ktRjk1aTVBdXNZcV9TLXpGZ1hxMkgxaEo0aTVjMERPemJqOU5zLVpmMw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 03:10:00 GMT",
+      "source": "bangkokbiznews",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "SKY ICT-AGIBOT ชูหุ่นยนต์ AI พลิกโฉมธุรกิจ ปั้นฮิวแมนนอยด์ไทยบุกตลาดโลก . ปี 2569 จุดเปลี่ยนหุ่นยนต์ฮิวแมนนอยด์ จากเวทีสาธิตสู่การทำงานจริงในโรงงานและสนามบิน ขณะที่ ป้ญญาประดิษฐ์ AI และ Quantum กำลังเปิดฉากการแข่งขันเทคโนโลยีรอบใหม่ SKY ICT จับมือ AGIBOT สร้ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMinAZBVV95cUxPc3JWWTlCWHAwMTVtc2VKSmYyaVM3TlhsMmgxWVZ2SjZiNUZEMXlTWkJjcTdQWnZZVmcwdllhMS1oNGFwQzA4WDRNNzQ0WklyS2tIRjNZUnBiZHR0MlQyRm9jeDBaeTlyZEYxdVlRR3NyOTFiZnhQTkg5bXFaamxhTk4zVVhVblVuLTlsejlJLXdnQlVTUHZWeF9STjVhUXZaZmtDc3l4ckcwUUZTUnNBVks3dmYyWlFvUzVJX3ctQUZoS3VOV0ZQYnpDcWZyMTNPZmlrSmNKb0Fxa1N2Mmx1U2Z3OVJ3VGNUYmVmdmRfS1ZpS1h0MThMa2dCSkluYUZjby1uanBEQ1VHZjY2Q0YxY29VZWUzdmp6bnVqbWU1c1MxZmNDT3RCSzMxTjR2VzVxaGRTWjA2TmxIUFNGSjl6eFBzVWFhVlQwaWJCRkdmU1BtWk5VbDB6QmFrcFdueTdURnlQNHlfM2Q1VDZOVG1mTEpQY2VvVlZLZzhBc21VNUY2QlN3bjFYWm9mejlQdC1fNDREaHRGR01HSzQtUzY0NElJR0hhNlA0eGF4aFQySUhqbDgxLU9rRVZWOW1KMHpDQVplMUEzNUM5aW5vX1ZYdVRUM2QxTUtISHFOT1pDNDd3ZWcwQXhVVUJIcGZqa2RMRVhsTnI2TEJoaXh4Y0JNeXRQU2Z4Y3JFaWNhN2I1Nm9mdDhjUlRFamRLRXU0NU1pVzZQNk5YV0RFSmdGdkdhYThzTWRUaGd3V2dQRTQ5aTV4ZDVKeTI1aV9HUElnb0k2aEFxOWNtZi05WGFkNEJUNDZTWFRXT3kxTlppWW9UQjV1RElxSndtVFVPS2hLX3BKMXlrc1diREVHSXdPaG1xUDdzQmxJejNlTjZpcHBqR0VrM1NtUmNVcFRfUThQbzVNM25hWFF4STRyYVNFVzU3c2RWNGpGZS1NMmVxRjVyQlVrN0g4MUtQM192ZElwZ1FsbDVJMmc2aFEydTZaQUhJZVJSNWlDbVNhQW1ManlTbGFOUjQzVWZUZ2lOWF95QWtwMmJ6a1lfUG9Manpw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 04:30:06 GMT",
+      "title": "หุ้นไทยวันนี้ ไซด์เวย์กรอบ 1,545-1,570 จุด จับตางบ บจ.-แรงขายลดเสี่ยง - วารสารการเงินธนาคาร",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyNTFpeDY0V250R0ZrTm5xZGFMSU1vRWdmUldzSHBhbzdwNDhfZ2VhZHBGNjY4ZnUxYzRvWF9SektJSEFLd050OGotZmZQRXVUNWktVQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 02:57:24 GMT",
+      "source": "วารสารการเงินธนาคาร",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "เสาหลักเศรษฐกิจไทย ขับเคลื่อนธุรกิจไทยสู่เวทีโลกด้วยนวัตกรรมแห่งอนาคต - spacebar.th",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01bl9sSUJtcUQ0cFdnNTFkUW9fQ0hkRm9JQktjZkpqQTJNZTlVUFhaOWhROXE4ZE11NS1jcWstREtERXM5aUZQS1E4QW1GOHBOc2RUUnVRWFViZw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 02:52:00 GMT",
+      "source": "spacebar.th",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "เมื่อวันที่ 20 ตุลาคม 2569 นายศรัณย์ เจริญสุวรรณ ผู้ช่วยรัฐมนตรีประจำกระทรวงการต่างประเทศ กล่าวปาฐกถาพิเศษในงานสัมมนา Korea - Thailand Future Cooperation Forum ณ จุฬาลงกรณ์มหาวิทยาลัย ซึ่งจัดโดยสถานเอกอัครราชทูตสาธารณรัฐเกาหลีประจำประเทศไทย ร่วมกับจุฬาลง - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxQbnAwemE1ZHFjRWVmX3RzblJ5X3hmblZCUkJtX0JqUW1mOHVCR2ZUN2ZkOGJja01CRTVwWGY3Ti05R3VmVlVvY3drcks2RGdWRGs2ZmctV1F2c2hJMHZVeFFhWXZnZGVaalhYV003Mm9waGZBM2QxNjlTTFN4VWZuZ3dUVXFDam5QM3BORmh3NG8xdlExNFNJY3pBODRBVVlMeVA2aEkxVENySWxtbXh1RmdMLWpnT3BmZ1lDc2tfMlN4T24tZWgydmFQbWIxd0l6R2JycHpoMmJFQmhuTEc4ZzBHYllvS0o2ZTlRZ0NVRnNHVVE3ZzdsRDIwaVdaNEJzenl4R19yTGRNQTg4eUpzRi1ZWlZaek1QWTN2WFRNOTFGSjlqWXhmRkJRUW1SdFRkWDRXNm1kUlNTTTNBN2wtWHdjd3QxWkpmNUQ5LW1HVm1UbTNWZVl4X2x6NnVYcWczeUk4RXhKYm92ekZlSDdBVEVwMUh5Vmx1eUFaRTZHb0gyTXhGcHZwOGhRYklIZUNaSjJ0cTJFQU5fdmMxZFpxODYwUVZoQmJMQkJOQ3JUVHl3NjRGcEREWG1aNUFOUmlLM2F1bllUYVZHS3B1X0g4cUdEOGl1ZUxreGI2RzAtT2pEeFA4bXkyRnpaZEVlNDBVQnNyUmUzbWt2YlRuMVVfaFYzODRNWVlPUEJ4LV9aUzJFZ2hhYV9fdEVtd3JOMEVJaW1FVEl0RFBfbEs0RW9ZUllfYlM3RW9QbDJlMWtrdk0wVjl4NG9wbVRCTkluSDBJWHNVaENfa2xKTDlIVGxwb0RSLXQ1c3U4Q0ZJbWluMEl1ZDZqMjdXUV9qcFZlTnZEUHJ0VERoSzBrbkZvdjk3WkdxdkJsTktwU1lwVEpoVExVdUtJa1NFUTNOeUdpdGl4aWZvRGVXMjRMN0pfSmE4QXdwOWxhbFZYb2FjZXRDSGFVWG0zNUM2MVJLa01ET00zeFFiS0o1OThEQ3NoUDhnNF9odFlxdGs5VWM4c1JOdjlLcF9EWkZYS0FZMENTV1pEZlpkRFZVTmk0bDVBeG15S2VtUGg4YmxjRjRVZlhXU1Q0ZzktN0c3b3NDeTZuZU1MTEVkWWttZFI5c0VhVnB5Rmsta0ZzajF3T0JTZG1YeXVrcWVNQWVob1ZDUlpYU0Rfa3pidWhaYmxOVUhkNEEwNXFCWlNBbFZpU056ZHdQQWxrdEZJNDRsRVBlQmxhcldwaHc4eW1qNWg?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 02:38:10 GMT",
       "source": "Facebook",
       "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "‘ค่าเงินบาท’ (22 ต.ค. 69) เปิดเช้านี้ที่ 33.59 บาท/ดอลลาร์ ‘แข็งค่าขึ้นเล็กน้อย’ กรอบวันนี้ 33.50-33.70 บาท/ดอลลาร์ - Businesstoday",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50TnFaWEdZRkNZRENIRU1xUjF4bmtRR3ZTVXFwZTY5Y0VoRFc4eV9lNHhJYkVnNnpsOVdqRnhrSy0waHllUERFVTl3MW9oZ0h3N2dIVzNYT0pCTHNHMWdyQVVoV2U3UllNZ0IwM1Fn?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 02:29:32 GMT",
+      "source": "Businesstoday",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ธ.กรุงไทย มองกรอบเงินบาทวันนี้ 33.50-33.70 บ./ดอลลาร์ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOVUtka2g3NUhMdmhrRFFzR3YyN0RRNEI1cHBLb19pS1ZVbWNYSEZvOXUyVEcyc0ZMQnVqc3ZwNjZweUJtVndnSjBNeEdXaFA0ckhsckM3a2I1SjRiZUhpTUJ5c1lnUmd2Ylkta0NrRDNFYU0zaVB1WU0xT3Q0Rm9MYWw0SVJEZ1NmY2phTWU1cmV3VEUwN2R2czE5MGppWjRfLWdoS2hjRHRnMml3TjRmdGI0UFNhb0RsWURPbTRycktaQklxd2RKQWI3MW5WSjc5eHg3ZjVnRVRieFNnbUU1MXFrQ284WFJMbUVBWVVyRm1xTnZEbVMwSnpFT0RLMXBWaW5Pd05iRkU5OXBFeXAtdGNIYjRoVXlmYS0yQ0E0ZzRBbzU1dnlvcWstVmdJQ2pVX2dGbDJGX2x6SzNnbmpsMHBDcHpwYUdFNElxYzVPd0tDT2paX1ZfUHlWRUlYc3cxbDExLTBjMEhHdEVqbUlRRDNZTEtGc2ZJUmV4YTd4SWR1bGEyb09FcGhWVzAwVzN1STNUS1prRWp2NHlIbjlFRWV4U1MwTlB6WXp4Y1JUdE5yY1VCV011LVoxbkJaZ0Vsb0EtNGMtSnV4cU94MUkzNVk0NU5VVjVmeTZVcm5DMFVQcGRaMEd6Ql9LQmFRMENZekliaEd2MnBGbzhOODNMRjlCNk9ZOGZNR2ZBemNrdENFdnhRYktTTVc3TVB1cVNxaHNKcUY5SWNxSlc4VmdFRU9B?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 02:28:44 GMT",
+      "source": "Facebook",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "บาทเปิดเช้านี้ 33.59 บาท/ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoX3hscm9VN1NibDdKMVBjN0UxYWFad1JXczRCSU9lVnk5cWlnZnJlN2doVEJyT3Ayb1NxckRQWGQwSXRxa1NVMWVpU1JNRVY2TzlZYWRR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 01:30:58 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "MAYASEVEN เปิดตัว NetWalker ระบบ AI ช่วยหาช่องโหว่ Software ในระบบปิด เร่งความเร็วและความแม่นยำการทำ Penetration Testing โดยไม่คิดค่าบริการเพิ่มเติม - TechTalkThai",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fNHp4V0E4MUJlTTJlYkdMdVVNZXlTTzlJU1l5WFNBQVk3M1pTMDg5aVNZU3I1eW9Ha2hPRlV0VDA5ZmI0MnBSR0c4a1JjSU5fYmlHSDJPSHg0WVk3MzJxdm5ZZG1Od25PU1dPLXRNcHZjNjFkX0NHaEhyUjg?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:34:48 GMT",
+      "source": "TechTalkThai",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "ซิกเว่ เบรกเก้ ชี้ไทยต้องต่อยอดการลงทุน AI แนะ 3 กลยุทธ์ ปลดล็อกศักยภาพ SMEs [PR NEWS] - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SQ1NKdEN5ekgtOVctOEc0SWR0VTVlS3AxQTQtR1hsS2dST0wtT09fRjBlcHJ2MFJDRFMxS3dZZXdSbEJRczliQ1A5Y2hwMG9zYl9IX2x3UUI3ZVc2UFVGQmhORUJ4dTY3Qm9v?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:45:17 GMT",
+      "source": "thestandard.co",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "SYNEX ลุ้นงบ Q3 กำไร 195 ล. โบรกแนะถือรับปันผล - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81V0s0SHBwS2daajM2X0JmYVdvdEgyZUtXVVFwZ0p4aTBXeDMwTC1pcjZrZno4cDdoal9nRExnMjQ5WVFYUGFtUg?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 06:24:16 GMT",
+      "source": "Thunhoon",
+      "category": "ข่าว Synnex"
     },
     {
       "title": "SYNEX ลุ้นกำไร Q3 โต 11% แตะ 220 ล้าน รับไอทีองค์กรหนุน โบรกชูเป้า 11.20 บาท - ข่าวหุ้นธุรกิจออนไลน์",
@@ -35,84 +112,6 @@
       "pubDate": "Wed, 21 Oct 2026 04:26:30 GMT",
       "source": "ข่าวหุ้นธุรกิจออนไลน์",
       "category": "ข่าว Synnex"
-    },
-    {
-      "title": "ก้าวข้ามการลงทุน AI: หัวเว่ยชี้แนวทางสร้างขีดความสามารถในการแข่งขันระยะยาวของไทยในยุค AI [PR] - TechTalkThai",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZS1mRmhRVFFBZEl3NjNMZkZ4RzlCQUJlX3AzWVRMNVd1VDh1Nm5Nd3N3Wmpua0p5Q2xTRVFVNHF1bVhELWVXcHhUMmFHaE54LWJaQ2diN0Jmd2QzdlR0bzc5dlhLaXdCcHRja3JuZw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 04:26:25 GMT",
-      "source": "TechTalkThai",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "กสิกรไทย ชี้ MSME กระดูกสันหลังเศรษฐกิจไทย มีส่วนจ้างงาน 70% แต่สร้าง GDP เพียง 35% ถึงเวลาที่ทุกฝ่ายต้องช่วยสนับสนุน - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JdXZ3S2ZEOEx4VGdiT3h3aGZWWGVWMUJic1JveUR0SXduMGlRclhaaGZ5SEJoMHd2UHlSdjY4eVZPblcwUTdxNnpoVVVaVjV4WXRRcTlyZkdQcENuTVlV?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 04:02:20 GMT",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "'เจ้าสัวธนินท์' ผ่าทางรอดไทยยุค AI ชูโอกาสใหม่พลิกโฉมเศรษฐกิจ . ในยุคที่โลกหมุนไปด้วยความเร็วของเทคโนโลยีและการเปลี่ยนแปลงรอบด้าน เสียงสะท้อนจากนักธุรกิจระดับตำนานผู้ผ่านร้อนผ่านหนาวมาอย่างยาวนานอย่าง ธนินท์ เจียรวนนท์ ประธานอาวุโสของเครือเจริญโภคภัณฑ์ หรือซีพี ไ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxQY0NCWVZMcHhWeFYwN1JKSXplYTRNNS1pQ3FqVlNDZ1JnVWFUa3RIUVNQM3JOTDRjdlhMWlZpZXpwM3hCT1R4SENkN1lwalhZbm5TaUlYR0c5Ty0td0U5OEFaN3hEdG5VbnZEeXEwLXlJNHlOdEZlNy0yZWFVQ0dsN1pUZFpJRnJ5dVl1QTBhYkpzSUwtU3RBd1dDLUxpeGtva3hENWxPaGJhSkhWdVNpVFU5TDhGSEJlNVFLQ21pN3BPQVBYQlk4X1RLdklVcllsbUtsY3dJQ2hEdm9EQ0pCVGtwSUwzOVpaUlVpdE1oWTllOXkzMFR4U0M1bWRmT2lDbXJnbE11eWxJNUc5WkJOaUdRUzl4MmNWeDllUDhmNThqZlFGNlpDZTBSY05hREloQnpwd1lFOG8xVkVFbkdScmpzRTJtcWF1V3ZMV1dBQ0pmcHFBMlNVME5SQWc1ZVpBcFo5RGxDdnB2UVBmOVozWVE3YWdQWlVCX2E5OVFINlpWWXhvZ19KSWQyLTd6akxtZFRhZmJaUEcxX2Z6c3g3U29jNnp6cnJVdlNuTnNjWldwMzR4QWUzWm9HaUpJM0UwelpCS2hCbDQ0TW5KdG9SUV92ODktX1dmX2dHUm5CMVA5YVVTbzhOR2JvaWgyUV9raFh2dkszY19FV3FMZnc5UmxBd3N5Qk1aR09Ja2hUaWw3WWU1bjBGM0RFZUVWZjB1OHM4OUM0akR5dXQxT18tUV9OSW9hQVlZTHJfMUNEc3k3Wk5JbWdqUDlpOGQ3VV90WHk2czBCcE1XeUxGbW1qM0tMaTBrUC1RS1BGWHRGeE9IX3pBaWZnNzBmWGh6UzBYMVhtdldwQmVGOWRmaUZNbWc4TTNfbjJWNFFEQnl1dEtkSFVBMlgtSDRhT0FkTUFmMy14MVBneldIbVJUU2RJd3hlbkhaU2FZQ0IwR3lQQTJYX3lpT2V6RVd6ZVBjalJuUXJMeG80R0FaXzh1bERNZGh3bThOek56TjdEWDRtMHhPODlELVBQamFSLXZIdElqYVF0SF9XZEdTekNXZW5VSmNQNzlQendqZGFtWFRka0pFRmgyUGtjSmdvUDRneXZ4cXJVQnRDWkRCX0VVcnVnZFo2RUZMRFVoTXpDcHEzNkg1elpKbUtVQW40c2tpMVFGSnZHVVpyTWhCcWdKbUdTN0UtVTd2aDZFZTZWXzk3LTl1R3Z2QXRQQkZTSG90MDQ0ZzFaUjVRZG9Fa0VoMjA3VlFvd2dZeGl1WVIwaVhyNXoxWV9FWVpTNUlXc0ZnR0Q2bEcwb2MwdzYyZ2NXdWt4VlltcWxETTkxbWpKdjZFblJVLUlLdEVIaHIzeTc?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:25:29 GMT",
-      "source": "Facebook",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "หุ้นไทยเช้านี้ดิ่งหนัก 20 จุด โบรกชี้ เสี่ยง Sideway Down งบแบงก์- ไฟแนนซ์กดดัน - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xaHFxLVBuSHNCTkZjSWNhWk9xSTlIMEUzVlEzbFJHMlNUbFRHa2FZd3VwWlVEbC1NSHgzSmhpZm4zaUxLV2ttVkpxOElwT2pVbDRxY2RLRlhkTEI4T3poSUJB?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:23:00 GMT",
-      "source": "bangkokbiznews",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "เศรษฐกิจไทยปี 2026–2027: โอกาสของตลาดอสังหาริมทรัพย์ท่ามกลางการเติบโตที่แตกต่าง - Cushman & Wakefield",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkZJYkg3SHpUSTlZUkg3RjdaZ1NFSi02Z3B3MXpmeTJtNFhZcF8wZ3RPYVZGQzlhYjdaWE1Dckk3ZnN6R2dCVzRzcGY0VWhhNTF4bFhKVGNUOURERmJfOG9EeHVMTFMyVG9aRl9HSHROQTZGVjdDZllLeEg3Yi1FbGJtb3lraFU3MXZwYXFKLUhOYWlWbUZlUTYyTzNjXzhQTHhhZ1Zvc0NzaE5kQXJoSmRXNnpuZTdIVWxjcU14ZVBmNHN0aUp4OGgyS1c?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:19:55 GMT",
-      "source": "Cushman & Wakefield",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ปอนด์แข็งค่า หลังข้อมูลการจ้างงานสหราชอาณาจักรเดือนสิงหาคมหนุนโอกาสขึ้นดอกเบี้ยของ BoE และการกำหนดราคาในตลาดสว็อปตึงตัวขึ้น - VT Markets",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTVjZjhSTUstODRpODk0bXVfamptZExzYjlRcFBGTHBGQmE1dW9FenJmUXlVSkZRQjJtV2NUNEdyUW5QYWxaMVlkaHNla1FvcS1iVVBibTZuM1h5S2NHSThndWo0cW1CbXlKdEt4RlJ0cXlXZ0hpM3JkOVVmQVNCN2lMek9XQWh2VEpjU3AyM0FtNWdjS1VGeGZ2YUFuZTlDVEYwWUNZbDg0bzhlakhQMExYd0lJU3JDOHU2NjJpWjI4bmt6ZHJKUlFkNWJsODg?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:12:04 GMT",
-      "source": "VT Markets",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "‘ธนินท์’ ชี้ Data Center โอกาสทองไทยยุค AI จี้เร่งสร้าง LLM ปักหมุดโครงสร้างพื้นฐานพลังงานรับลงทุนรอบใหม่ - posttoday",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDWDE5Qnc3UE1PY1dBeXVQU2laY2RFbmZhVFBWbXk2LUJ5Q1RYVjM5N3pSOGZvbmxrdXdxQzExWkZ2OU9QM0hVWUhBaDVNN0lKMkNLaFFOc3NWdkk0TG9lYg?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 02:17:24 GMT",
-      "source": "posttoday",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "JPMorgan คาด ธปท. ขึ้นดอกเบี้ย 3 ครั้งปีหน้า เชื่อศก.ไทยโตขึ้น-เงินเฟ้อสูง - RYT9",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16YjhySjQwNUZxNTgtV2o0Y3lJdEJnRUhaMkg4TG81Q21zS1JSQ2ZsMmhsdW1RWEZ3M0lDZzBqVEtSR2JOSm04Z3ZR?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 02:01:50 GMT",
-      "source": "RYT9",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "ค่าเงินบาท เปิดเช้านี้ 33.63 บาท/ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRkhVaEsxY2pzeVp2RGVWbDMwUEVVVUNnbkstRUROZDI1M2s0X3FuSzFzY1I3cng5dlF4MUh3eGRqRUJWNGJOWnZ4bWpaTUFxamp3Q1dB?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 01:55:41 GMT",
-      "source": "LINE TODAY",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "ทันหุ้นออนไลน์. . คุยข่าวกับบ่าวแบงค์(สุดหล่อ) 20 ตุลาคม 69 #แบงค์สุดหล่อ #Thunhoon #หน้า1ทันหุ้น #SYNEX #KLINIQ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMipgZBVV95cUxPeDV3WXZkRE5mLTRuRllIN2NjUzJoQjRwSDEyZUoyNHlkVlNkXzZKXy0za09jbW9TX2ljZzFQb0xPTXVQLTdMSk1iaDhjWFJQNjQ0ZldPTGctd1lpMS1vbUNNczNPQXdWMXNiRkRyaWx5NWtzWWljelJRWUJGbUlmQlBoSW8ycmVLMGFKNjZwcjhWZTJReUJRd2pZX0k0a0xfY2RyVTBpYVB1anJoQ0NzQmFMWG13VXA0ZTN3RkRBM1BzZldQc2VscndIeE85a1o5dzZHMExnZGFhV01kTnlxenluOGhzd3NsZ1VMRVBzTjNiY1Znd1FPdkRfcjNnc1AwZ2tYX1JUeU9lZFdzNV9mVGstTkhrTVBwUVVvT0ptenNlMjV6enY5QUphaVJENkh1OVFwV0Juc0RBZm5vYWVoc2JaSzdNSzNHMmVHTWR0OUY0NlVEYThzYnUwMXVtY3ZZTlJhR1VTSFh4c1loLXNQNXY4X1d6emd0M24wOElTazdRZlJ4VkNpZjhDMXYyRE1MRnpjYUkxNU50c09VUE1oWjRSd3cwYUtYRXFRTHRkZXdGc1BYUklfZjEyMkdoazR3Y1AwMnZfM0dnd0xWM3pKcUZ0U282TFBNWnB1SklNR2NxdVBjbDdzdkVNMElFYnBjcWpiSGIyRkh5YmlJZkdTOWh2TF9RMW1aMEhMVERHRXVlRUduSWJpbzlZb0s2SUlKa0pDRWVvSG1jWDRWcW1jMXFlZ0VYQ3J3YXdHYU00aWNuQlZSd3lFaTM1YzhWZjhwLWZyUG9NR1JONWlES2hCYVgyYWh4aGxQX0pqWnZJbVZTZUtTRV9XYzhvTFF4T2N2ZXB6bXBncHZrMnNqMGxubG5nR0Y5US1KcTJZMUZISVVGREJ4NmtLdDR4cnVHOXZBYmhzVnhxVEtCVXpqMDh6WUlRbHJ2emJYd2R0TjRYQ1F4WWFaN05lSmFBZlQzTjJIVlRLckVJeFVfdjZtdkRybU42c0lLRjlwLXFVd0l0cENOaXhSWFlKUkR4ODNrSU53cV9jLU9nOXlmS1ppdlV3aHhoeGJLQQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 03:08:36 GMT",
-      "source": "Facebook",
-      "category": "ข่าว Synnex"
-    },
-    {
-      "title": "ค่าเงินบาทเปิดเช้านี้ ที่ 33.58 บ./ดอลลาร์ KTB มองกรอบเงินบาทวันนี้ 33.45-33.70 บ./ดอลลาร์ #ทันหุ้น - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMivAZBVV95cUxQS3VtNXFfbmxTN1dYbzh0NkRoaTJtZGhHYjdOZzNTZ2lETV9QRDc4QkxiU0p3MFJaYUpTazg1YlVuTGxBS3NabzhFaE1LQTA3Sl8wREZ6cXJNS1dRZUhGSnJ4VW8yZWJFU1AwRi1vcUdxbmxhOURCSk4zZ3BwdnJwcUFlUnp6aEhZeXlHMmNkSHVaUHoxTWRKeVViTGtmZ3I4OEVXUmpEcFFBV2FOUlJ4SkxybW5SalVYWTVBUjFEZXdkanN2ck1uV1F4c2JneHlzQjJVQjA2ckRqVmtsOHItTFQ4WElXdFdNMXJHY3IxLTFOVnZUZDlhcU5ZSC1ZcTFzZnJRTWNpVm91THFaMDFtVmszdkV4S1U5ZjE5WUFGNVY4SEZrSHNVZy1kR3lleXpaVDJIM253alE2aFNabmFtSUtvejZwdlZwTWJ0TlhtZUFGTlR4dF9qNE1odko2Q2t1OUs1dWxicUZHNUpVd2YzYldOa2JXSzlyclFUU2xjRXE2dkI2Z2Z3cnNkcHdocjd6MlBfOUFjRWRCNS1sb1lQakZmRmN3RG1ZTlVaOGdGVzAySUh0Y1Rtdzd2UkJ5UmN1UFpndXAtVTM0VjEybnhETUtDWkp4Y2JvNXZrbTFOaE9YeWZKVnFVY2pfRkFzWFRuY04wTlNJVmhTUWRBTW5HRTRYbDZ1bmlXTGVjV0g5U1YxUjZjdnNxSjlzWFN2Wkthb1hLYjdBelAyZFBiM3FlTWdabFJBVVZZTVB0VkNxUUV6VEVyUVlQOTZNZEtlYV9UbUstVlBxNDFZTS11d2l1ZzE4d0tDX3puVDM3UGo3VGhocDZFUm5rZV81RWkzYTFHQ293c3JRVHRKQlRUN2NpUmZuRVl1bVgyLXF6QUlIOFl4dk1YVmlZM19xWThtWlNNZEdXZWtPVU5QV1R4VG45ZkQ2Ykd6WU4yT1lBR20xX042ZE9hTHRYSGl3VzZMVUg3a19tekxrb1JsZ3lfWGNrMFBqbG5ZaEhYVEVHbXpCem9oSk1PMC1JS0REMnp1WGZwVVRnVl9DZjVQcTdLdmNQNXFQNHptYkNKTVQzU1dBQnRLNFR1a3VHOWtFZDk?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 01:10:37 GMT",
-      "source": "Facebook",
-      "category": "อัตราแลกเปลี่ยน"
     }
-  ],
-  "staleFallback": true
+  ]
 }
