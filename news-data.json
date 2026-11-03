@@ -1,53 +1,74 @@
 {
-  "updatedAt": "2026-11-03T07:45:33.927246+00:00",
+  "updatedAt": "2026-11-03T19:22:25.056814+00:00",
   "items": [
-    {
-      "title": "หุ้นไทยภาคเช้า ปิดลบ 2.34 จุด แรงซื้อกลับหลังดิ่งแรงหลุด 1,500 จุด กลุ่มสื่อสาร-แบงก์ช่วยประคอง - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaU4xV0NOWDBJd00xQWFsdUl3eXFqbzVHb1lDUVZ4WlJtTkJsWXVQVkRJZVNicVhNVVpNdjZqSkF5MUpiaWQ4cmZycFRybnl3bmZ1WnRn?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 07:03:44 GMT",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "หุ้นไทยพักเที่ยงร่วง 2.34 จุด ขาย DELTA-PTTEP ซื้อ ADVANC - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzOEJaaFNEMEpsR1ZQVDh6c2dkQWc5UUk4OVhjWWNWcUJROVB4T1RWTlpPdlA0R3dTX0dWWE1Kem1kaHJzWEIyUlZXOHpjeU9ZRC1KTDNjM1BJYzJ4SW5McVJGWQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 05:46:22 GMT",
-      "source": "Thunhoon",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "TNN Tech Forum 2026 ชวนมองอนาคตประเทศไทย ในยุค “AI Warfare” - BT beartai",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QV2R4OFZGWm9KZUU4SlhneEg5WEUwdkJUUWdKTkFIVTFDaU1DNmYwVWNZdDdQaF9TMHE1MVZ4czVJOUVVSjV0bmFPc3RCUQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 05:37:30 GMT",
-      "source": "BT beartai",
-      "category": "เทคโนโลยี/AI"
-    },
     {
       "title": "AI Agent เปลี่ยนบทบาทนักพัฒนาไทย สู่ผู้สร้างนวัตกรรมธุรกิจ - bangkokbiznews",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tODE3RERsN3FNdTFyMXZENmZfWFZxZlB3eTcydkw4UURkRks4ekEzcUswd3d5UnFiTW5HLTdPY3ZJWlByU3VybjZ1RjJhVTBqQnpDU0ZIM1JmUQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 05:30:00 GMT",
+      "pubDate": "Tue, 03 Nov 2026 17:31:18 GMT",
       "source": "bangkokbiznews",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "กรุงศรี ฟินโนเวต ร่วมลงทุนใน ‘อะมิตี้’ สตาร์ตอัปด้านเทคโนโลยี AI หนุนมูลค่าระดมทุนรอบ Series D ทะลุ 3.4 พันล้านบาท - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSV9jb2pEa2JnYzRKTGFOR0RfTENVNDFLMEdiaWR4U2Rsd080a3FDYUZ1U0huclhtQmlyZ0hDN3pmb3NNRkozMTVGX1RnYk41YnN1QjYyLXV4NnV3Ul9seGVlWkx5UzdxRXBxTjllWXlpLXM?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 05:03:23 GMT",
-      "source": "thestandard.co",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "AI จะมีความหมายต่อเศรษฐกิจไทย ก็ต่อเมื่อคนไทยและธุรกิจไทยใช้มันแล้ว “เก่งขึ้นจริง” . โจทย์จึงไม่ใช่แค่ทำให้ทุกคนเข้าถึง AI แต่คือ จะทำอย่างไรให้ AI กลายเป็นเครื่องมือเพิ่มศักยภาพ สร้างโอกาส และยกระดับความสามารถในการแข่งขัน โดยไม่ทิ้งใครไว้ข้างหลัง . ชวนสำรวจโจทย์สำคัญว่า . - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi-wdBVV95cUxNNUtEQlZDR0dkMHNLTmFNaU9ZekdHSERwenpQTmM2X1FaSThDOWZSSml4akVtZE9GSWJZeUkxMDdiQWxkdGVpZWE2VDFBcVVTOHVXaTF3WGNyWXE3WWJXbWdFYzRZdmFpazJqMGsycTFsZUM1SUxZbnA3Wk9kOFpycnh6SnZUSllZTXBQU1ZybEpKYV93VWJNUVVQWFgxTjBEM2lnQ3FlbzlQT3ZZaXdrejA2ZFpHY3Fub3luX3RHVjFhdHZPbG8yUjBwb19pRWF6SmFQX0dpYjJ2Rk13NkdTN3VKRzI1T04wVzZUYmNiUWpNb084QmNObzg5M2IzRmpham5scHNOZlF1V3BsQ2pBcEJIQmNuYWNxVzBiTjBpX2FwNEZHSHlEZzl3MlpNUUhseGFSWnZFeGcxQ1pRM2JNTXE1eERXUHcyRk1fRkoyRWUwRWhibW03UzZjNDVvWTB1d3dfSHpkTXZSblVmSVlLZXFzb3VHSFI2N2V5U1RJcFhKdXVkelVMZTJ0aGpTbVc3aEtJR0xsanFPSDl4cEtGaEYzNFZWY2JJdUFlM2xBZFdRUkRMTGtSOTljUTZtY2NTRnl4YnM3WkhIRFRJOGw2UUY2Tkw5OFBUT01OTzRxVW9JY0J4azN6dlc1TUFPeTN0T0Zja0RJRXR3WDBhRWJFMUk2T3Vwc194MWtUVHQ4eS1MSlpubHd6WWRpbWhrckdSSmpFZGF2STNxZFNubjIyOEZRdHRfdS1DaEN0S3lzdldfdWtJeENMY1NqSkplOElMdHlzQWViX2NMM2VhcUdwOVVScGU4TW95cS1VY3N1T3p3eFdXVTRjZGRGWENKazhveVBZN242bHI4Nl9aRzhQeDA1TkdOY0Y2WFR3N0RZUXdHYTJUR2NQNGVYRmxtY2ttS2xneFptV21HYmJCMkRGYlhXTkROb1JmRVZkNjFaQ1huZkFoX1E1dnQzWXJXNlVCT3dqenU3RFFVOTF2UDA2Ti1wNG9zNWZjS3ozQ3ozVkg4ak1JQ0ZYWnlDbDNaUEVXZVUyYUFGUjNpN2FPTFIya2VDcGltSjJkb3BQWHhwdWxMY3JNWmlxVm51TlVzR2tQbDhJMXdTWmRYUF9tNGpaYl9YVmxNdHRELUZPLTk1ZUl5bEVoYlViSVlCOW1FTGNtN1FnWVBFYlcyOEhVN3BYV0ZnNmRrcDAwM0VCaTVGVUhtRmRZdHVIMEt4SG5TR3RTTzRfYXliRl8yZWpKenExeWstSWNzdG85bVhoNlYzUUM0MzdwLTg5VTFWZUdpTGozVkFoNXY3RVZ2WGxWOXBrQWtkd2M4d3pFaWVCOGdJbTBLX0pzcW9XRTFiWQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:49:23 GMT",
-      "source": "Facebook",
+      "title": "หุ้นไทยร่วงแรง เกาะติดการเลือกตั้งสหรัฐฯ | 3 พ.ย. 69 | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BcllyRGw4TnhKLVUyZEhFN0E0RVhQNXFsaGZHZkRVVmR1T2J2c0owV0pzMklhSG95SnlqbTRKS1ZYUnFwTGtZM3BHV0lyWWVkYWVhZUtR?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 15:53:20 GMT",
+      "source": "LINE TODAY",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "Ascenti Enterprise เปิดโลก Local AI ในงาน AI EXPO Thailand - Notebookspec",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbGFCVW8yQjBlTXZUcE0xQ19ucGJHaDlnTW5hUUN3b3ByVVBMWkxheC1hLXA2blZSVjMyX1ZQbFF5bzhtclE1QmlYeWloUkZMNWpaX28xT1A0MXROZFdua0tFREpGTVRyNlhyWkstdVRTLUlpbjVSd2xhdw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:32:56 GMT",
-      "source": "Notebookspec",
+      "title": "ภาวะตลาดหุ้นไทย ปิดร่วง 16.19 จุดหลุด 1,500 จากแรงขาย DELTA-กลุ่มพลังงาน ท่ามกลางความผันผวนช่วงรอผลเลือกตั้งสหรัฐฯ - RYT9",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WLVRsUkdWeDA0MGcyWWhtTDlMUzJIanU4LUloZk1kU1VRZXM3UWZEV2V1ZFRpT0wzWUo0OFMwNU04MktlanFGQ2ZR?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:45:47 GMT",
+      "source": "RYT9",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยวันนี้ร่วง 16.19 จุด ขาย DELTA-KCE-HANA - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQUhYRjhXdzJVYnpqajVBam1oUEF1QlpPaXJpNEFfcHRGT0lCMFU3ZGRycjR0dFgzM0ZaWkJhXzZCVHFEMzd3SjFtcGVWYmJGUVVOeDlPVmtuZzVOZVdQUkM5S3A?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:52:51 GMT",
+      "source": "Thunhoon",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "ธนาคารแห่งประเทศไทย (ธปท.) ร่วมกับการท่องเที่ยวแห่งประเทศไทย (ททท.) และธนาคารพาณิชย์ เดินหน้าผลักดันให้ผู้ประกอบการใช้ \"QR ร้านค้า\" ในการรับชำระเงินจากนักท่องเที่ยวต่างชาติ - ธนาคารแห่งประเทศไทย",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajV3b1NEa000dnZmeVJRTlVXSEdYdEQtVHdObHhNOE11Y0xkakFBMFh6STI3NEJ1VjJsM2did3hWMmw3X1FSdTRnSFhMa0ZvRnZ0VG5OdVhkbFh0WTBxem0yaFNra1ZZZzd5WVd1ZHVVdHVDS3J4aE05VTl0d1VyQQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:46:08 GMT",
+      "source": "ธนาคารแห่งประเทศไทย",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยร่วง 6 วันรวด หลุด 1,500 จุด กลุ่มพลังงาน-อิเล็กฯ ฉุดครึ่งหนึ่งของการปรับลง - thestandard.co",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNFkxbDVTMk1TRFV4SW9sTE9xQ3ZNbW84MTN5WU1sNXdWWE8zbkxveWFIdzllb1NVZXJ5VTVGdHQ1cnJBaVNoX25nRml2NGp5dkk0ZXZHSWtQT2FEVDhaY2FB?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:25:23 GMT",
+      "source": "thestandard.co",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "Biz Asia เปิดตัว Mapmaru ดึง AI บุกตลาดไทย ดันยอดขายร้านค้าครบวงจร - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBOE9KUW9fdjlwU21LWXF6c2l5TGxkR0FEVFFGTlZoSmpHSjU5NHhzMGZXckd1dG1UYnc4cURMRE5uZzB6TWRsMmNMcHJvcVJSZGhHTmdrbDM2VmhJTjVaa19yei1BRzJSZExfUQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 09:59:00 GMT",
+      "source": "Head Topics",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "การประชุมแถลงผลประกอบการไตรมาส 3 ปี 2026 ของ Realty Income (O): ปรับเพิ่มแนวโน้ม AFFO - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndVBXQ2tYSEFRbE1VMGtiRlRxQndaQWhvM1prOTB0TWt3eWZVOFZaeVpKbk5uS1RUVWJqNnJ3c1gyTWhOOHNYbHVlZkN1cTVZSkxDUVZGUVFNZVNGZUZVQ3FQSFYwdUtp?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:48:58 GMT",
+      "source": "TradingKey",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "“เงินบาท” ขึ้นแท่นสกุลเงินชำระเงินอันดับ 11 ของโลก SWIFT เผยสัดส่วนเพิ่มเกือบ 3 เท่า - วารสารการเงินธนาคาร",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Yd2x4N3FzT09wSHltTnNQYlotMkRVWlVfc1JBbmJCM0hqRElISFozYXdwSFlvYm1ISHV5SVFURlV4UG9vaEl3MmVrb25aTzlTb0hnUQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:35:18 GMT",
+      "source": "วารสารการเงินธนาคาร",
+      "category": "อัตราแลกเปลี่ยน"
+    },
+    {
+      "title": "TNN Tech Forum 2026 ชวนมองอนาคตประเทศไทย ในยุค “AI Warfare” - BT beartai",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QV2R4OFZGWm9KZUU4SlhneEg5WEUwdkJUUWdKTkFIVTFDaU1DNmYwVWNZdDdQaF9TMHE1MVZ4czVJOUVVSjV0bmFPc3RCUQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 05:42:26 GMT",
+      "source": "BT beartai",
       "category": "เทคโนโลยี/AI"
     },
     {
@@ -58,25 +79,11 @@
       "category": "ตลาดโลก"
     },
     {
-      "title": "TISCO มองหุ้นไทยโค้งสุดท้ายปีมีโอกาสกลับเข้าสู่วัฏจักรขาขึ้น จับตากำไรไตรมาส 3 - มิติหุ้น",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12ZTMyRnk1TDd4RS0xQmZNWDJvbFpsQmQwVndicjdFSEhMd0QtcWowWVhMRGhoWHMwZnpTeTdjTHB2WTcwbGx2bmJmeUN4RlB2U3kzclB3?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:11:20 GMT",
-      "source": "มิติหุ้น",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
       "title": "คาดการณ์ราคา AUD/USD: ยังต่ำกว่า 0.7000 ใกล้ระดับต่ำสุดในรอบสองสัปดาห์ ก่อน RBA ประกาศมติอัตราดอกเบี้ย - www.tmgm.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYWlEYTd1T2FhSHJ0aXM0Y0NTYmhsNkpBSkdTS0duRXoteUhrMGJGd0N4ay1qNXo3SzBXUUVYYkRsRDVWY2p2RFZmTUd1Vzh2WEk5QlpxZDRMUU1qUDdtRVF4bFRzZmFTaTktUVBPbEo2cl9PbjBXcWZxTEs5QWtCMkNZNWJMbjljbUd4c3VybGxXdFhIQjJfMUEyelBtdVkza2pNdXlpQmtRMEFOYlVvSXltRFhRemR5TUxrN19LYl84RzZ1N3VNX3FjM2dvcV8zUjZydHFSY3V2MHcybGFj?oc=5",
       "pubDate": "Tue, 03 Nov 2026 04:09:52 GMT",
       "source": "www.tmgm.com",
       "category": "ตลาดโลก"
-    },
-    {
-      "title": "คาดวันนี้บาทแกว่ง 33.60 - 33.90 บาท/ดอลลาร์ จับตาผลการเลือกตั้งสหรัฐฯ - efinanceThai",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjZRU3NDUXJJQmR1a1NZeUJ0cFY5UWlKZ2xLci0zRm9QVVdTeXE1bFNYRVVBd2NINVk5bXJKVjhDUHAtZFJpYlY2Mk8xZGxESHIzNy04dmJ2SC1leFJhUUo3TmpYNXVPOVA3Ym9uWnNqV0xWRzY2SXNpeTVxZHdlZVEwV0N6TGc?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 02:00:54 GMT",
-      "source": "efinanceThai",
-      "category": "อัตราแลกเปลี่ยน"
     },
     {
       "title": "ค่าเงินบาทวันนี้ (3 พ.ย. 69) เปิดตลาด 33.74 บาท บทวิเคราะห์ล่าสุด - ประชาชาติธุรกิจ",
@@ -86,14 +93,7 @@
       "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "Fed มติไม่เอกฉันท์ คงดอกเบี้ยที่ 3.75%-4% ไม่ส่งสัญญาณชัดเจน กดดันตลาดปรับมุมมองดอกเบี้ย - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTGhSajMwZHJ1TENzLXN0SlhPN2pTZU9OR2hkM1htZS13MU9MVFBSVllDNnNOT1QxLXdvVUFuNDdadTd4UlEtZjd3bFRrV1EtYlBoMl81TTFkN0lVWko0?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 01:53:40 GMT",
-      "source": "thestandard.co",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "SYNNEX เสนอ Trusted Membership Platform รวม Product Registration, Digital Warranty และ Online Claim - TechOffside",
+      "title": "SYNNEX Trusted Membership รวมประกันและ Online Claim - TechOffside",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTdQVnh5NF95cEwwLVV4SUl6SHhqSjljTVNTSDFSc29PLVFJVU8tVndneUVCM1lSWHYwM2oyeGZwVDJmSDczNVhqQTQ2eHNYbXU2d1JWcWROQWl2bXFQalFndS11T3JXaUJEM2U0LXdMSHdjUFEtYVEwOVZUZE85Z1oyTENkSDNVMHVHclRqUS1QWFlkbUxQUFotTE8zdGFYZ3hn?oc=5",
       "pubDate": "Mon, 02 Nov 2026 14:20:38 GMT",
       "source": "TechOffside",
