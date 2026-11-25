@@ -1,75 +1,103 @@
 {
-  "updatedAt": "2026-11-24T22:13:56.372144+00:00",
+  "updatedAt": "2026-11-25T09:42:43.604077+00:00",
   "items": [
     {
-      "title": "KTAM มองเศรษฐกิจไทยปี 2570 รับแรงหนุนลงทุนเอกชน ลุ้น SET แตะ 1,700 จุด ชี้ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRd3QtbkN2czg3TmFvRWphVlM3SmtXTzNoazNsaEJBMWxLNWJXd3hENTVxTTc1N2g0NTNKVHMyU2ZWQklHNTY2cWNhS1RWTm9KVVdqWFFvVXBVeHJKWEVkaWFpdXlqVW5r?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 17:46:20 GMT",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "เปิดทำเนียบธุรกิจดัง อายุเกิน 100 ปีในไทย จากยุครัชกาลที่ 5 สู่ธุรกิจที่เติบโตคู่เศรษฐกิจไทย - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pWGtCdkJaTUZydENEc1RpWllNanNBRGJZUklDSzd0UmtCLVltam9lUk1fYzdEeDJsNlI0bzdWd2ZLX2JxWkRkYXRueFNBZkU3T1dOeWt3?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 17:31:40 GMT",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "Euro gains as German business confidence reinforces ECB rate hike bets - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXdmNzZZbW1lX0FtVVVtM3E0N21oUXRiV3VmYlRENXJwWjZBUDNKYW9xWVAtZ1pxTGl1MnVWUU85am50TE5wZ0dsSWZrc3QwdE5aZ1JrQW9HaDhvX2RCckZxbjV0M3RNSV9TRFU5ZDUyeDg1c214V2h5ZWpHLU1aZzlCeXUxRnhpYXdxa1g4S1poLXFzbXppTDluRU5HbG5EYlZUUnllNzZrT3NZMkJfdW5GUGs2NnFtWUVpUDdlQUR3OHJCTUNESnNlRVFLLXIwWnc?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:45:35 GMT",
-      "source": "tmgm.com",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "ผู้ว่าฯ ธปท. ชี้เศรษฐกิจนอกระบบไทยใหญ่ถึง 48% ของ GDP เร่งใช้ภาคการเงิน “ปลดล็อกธุรกิจศักยภาพ” ควบคู่ “ตัดท่อน้ำเลี้ยงทุนเทา” - ThaiPublica",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PcFFpd1JhYjcwaXRMTnFjbFBvWUtycXUtVkh4UTh4NFhpNzNNUGFORTNQMmN0cGdVVmFJd3p1UWJrRzNuRVFpc1VNWmk3TzZXWXdqQjRpWUFycnRGWERWRzJ1aVBPZnNiSzg3Y0czVQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:20:52 GMT",
-      "source": "ThaiPublica",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "Why is the US Dollar shrugging off Bessent's warning against Fed overtightening? - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOelFPc3pINTJmRHhWVXBXYWh6UTI3cTRTV3IzbE9lSkJZWURqZDZ6OHhQR0pPcFpFS3VvNkMxaUNqNWE3bVpwSnNkdFRYQzRwVWtwMDFNa3NPanN0MktkYnllUklLdmZyR3NlRWhJUlRYRlgya2NXS0hvaVRZNjZMQTAzQ0I2OUdXczJkM2MxUmlxNkxuLVEwNGxLcFpHWEpkT0hCVXZ5V0xXYXVtclBMQzdZZ2ZCM2lvQTVuaDVYOVF1NUgxa0haejduNzgxMHBweEZ6Zl8zbTd1UVNm?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 11:44:53 GMT",
-      "source": "tmgm.com",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "Gold rebound loses steam as Fed interest rate hike bets weigh - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckUwZUIwWlFsMkJVOE9IR3JJaG9NME00dlRKQmRfQlB6cjRhWXEwcThTYndDZ3M2RWx0WTVudmhBdWNtUHlJcDVvYTJtN0NPMW1kMXNwR0hpWmVNUEx2UFN2N2N5ZUs4SUdqRmYxZF9PVXVlYmRtb2xBY3lSQUZqMTNXNGRuTnBnRllzQmdBM3VESHpFSE4tcW9Kck1EV0VjS3FsODNRTjVBRHNYcUdGZUE0RUF6eG5lNW91RDZkbkhxZVVJelE?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 11:14:52 GMT",
-      "source": "tmgm.com",
-      "category": "ตลาดโลก"
-    },
-    {
-      "title": "H3C Thailand เปิดมุมมองอนาคตการศึกษาไทยยุค AI ในงาน “H3C Road to The Future: Next-Gen AI Infrastructure for Education” [PR] - TechTalkThai",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmdvTHRVZEliRW1iSG45QjlnRm43YTBNUlVrbE9ZeUhvLW53QnJtbE55U2x5TmNCMzAxT09Qbk9VdGVjcGlXUThuc2VOams1SGVnaURuTEZ3UUJ2d3lhams2YjR4OUdEend0LXRyVW1zcTQ0SW44SWQ3WEh1dzNZSGZkNE1JWTVKbmN1ZGg1bXRLaWdSU21WODNhN3k?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 11:08:29 GMT",
-      "source": "TechTalkThai",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "5 ทีมสุดท้าย 1 เป้าหมาย เปลี่ยนไอเดียด้วย AI ให้เป็นคำตอบประเทศ “AI FOR ALL Hackathon 2026” ฝ่า Bootcamp เข้มข้น เร่งต่อยอดไอเดีย AI สู่โซลูชันจริง - ThaiPR.NET",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93ZDdaUGdkQVhDLUlwVV9IeHR4bnVKckxwUUgwRW0xMDQ2ajNqWS10ZTJHWGsyMUNtU1N6cnNFRWk5N1lqVnBxWg?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 10:32:00 GMT",
+      "title": "พลิกโฉมองค์กรด้วย SAP และ Microsoft AI จากข้อมูลธุรกิจสู่การตัดสินใจและลงมือทำอย่างชาญฉลาด - ThaiPR.NET",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KSFVpa2d2VHg1enVZTjJKN294aWFkaTdfS05hM3dDQ182b3lUOHZXMFYyQWQzUElFMGx5NXN1VXVzay1MM0NoaA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 09:25:00 GMT",
       "source": "ThaiPR.NET",
       "category": "เทคโนโลยี/AI"
     },
     {
-      "title": "หุ้นไทยพลิกปิดลบ DELTA ยังลอยไม่ถึงฝั่ง #หุ้นไทยวันนี้ #วันลอยกระทง #delta #aot #ทันหุ้น - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3AZBVV95cUxObEFMdHl0OFFhajVqRmVjd2E3MUhPMGR0MllKOXU0ZWFZUXpjMm5PenFCQ0Y5LXVYdmdCMEEwa09HWkRmalI4eVVhRlNqVFhzZ2RGams1MnlhRGRVVDR5aFZSMHhRc3ItbElPUjU4bFZkM1hBSHJoUzRKd1UxOWZKTHhPUlotRkhFd3B1Yk16RDAwbl84cUxQSHlhbGpRNVVkdEhtMC1KQTJMSzFkTXgxbTdEUXZuektKS0FmQ0pwbGtEMkVFa2o1cWp4QkJaUWNvYjFKV2RxeHVRZy1WUHdSMWc0TklfQ0h6Q3dLZU1ycWtkUTc3RDM1VXhKcjg4ckQxaVl6bTNyUHBwcnZ3dDE3Y0xvalpEUGZxNDJvdmJreVdQMExScGpkR2RrWHo1c2kwXy1GOWc3bU5VNmMwVHIwQklXOFh4SnNzampaUVB6SHhfQWxucDBsVmc2ZFlVS1ctSEJ2UkJ5SWVZVkJvcHNieHlraEpxUjVZWVpaY0Rjdkp3YmwxN3Vxem1UdGlLMllDY0VUR29SN040cVBaQ1RiaXhvS2RrUFBBSzkwbEp3RjBDU2R2TnRUbGlXUGJabXJuZklHbEd6Y0NLRVNxT3U2R3k1cFZwUWttRV9neFNRWG5xaXBqcEVwcGFlQ2xPUThmREtvVnp5SzN6dEo2YV9XUnJuYTFIRHlzOFpBQkJ3aFp3X0F1aF9veGlxcElROWl2SjdLQW9ZN2tsblE1WF81MURiMkVRVEpES1dwV2hILUgzOEZ1NV9yRHg4ajFQRnpEMmxPMk1xSjFZTTA3eDVXaVJMRk1sOXRhSE0xS1gtQndRMjM5c3FhTFZhamlzdTNSbjBtRGhhcTZ5RXlQSXZVdTdtRUo3T2Y1ZUh4TEtDOU1qdEU4cXlVcGxZVHpxekxPMjJkVWJRNzZzR1U1cldCMFFKallIZDlncHRteElQcDc5QkhlRG9BQlYtTWNVNVM0UVRnUzdCSUNKMDBCLWN4UU9reW1Nel8tdmdQSVdmQnZvaDU3bHhwVkQyQzhnV3Z3ZEZHSHNGZmRUVnl3M1B1aHN0T1N4S3RISFNXVVNSTVFOV0dGTWxHcE9OTU1wd25qemJaRmgwMk5PNi1Id0dqTDE1V0Z2R3dkZEJHRA?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 10:31:06 GMT",
+      "title": "‘สันติธาร’ชี้เศรษฐกิจไทยโตช้า แนะผู้ประกอบการรับมือ4คลื่นยักษ์ - ไทยโพสต์",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TdFdQa2ZpZHJZNXBmUmhhUGZSd0tKRGsxNjhuVTh5RDdVQ05HNFlJT0Z2eGdhTWdKM2gwVXRyVzBIZ2U0MUVqZXJUeTNtRnVrYlZCVHkwb3hKZw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 08:27:05 GMT",
+      "source": "ไทยโพสต์",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "เศรษฐกิจไทย ปี 70 เจอแรงเหวี่ยง แบงก์กรุงเทพ ชี้ “โอกาส อยู่ในความผันผวน” - Thansettakij",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQ080djR2Z0FPODUyWVluZGhHalo0azBiS2h0RFE1VnFGUHQxMGQ1d0h5LURnaFpqVFNLMXJMRmZVQmpQZU04Rjltc2d2Y1VRck5PRHFR?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 08:26:00 GMT",
+      "source": "Thansettakij",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "Meta จับมือ DAAT ประกาศผลรางวัล Meta Agency First Awards 2026 ชูเอเจนซี่ไทยโดดเด่นด้านผู้นำความคิดและนวัตกรรม AI - WhatPhone",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UVTJUd0RaaGRUaHp0WWdoOE9JZE9oSEYzRVVseVNMN1lQdE1VV0pFeTJjd2FiNmVWSGdxdlZmZnFhaVdPbnpxU2dxYVRIWDFKM01YQm9CUmdZODJjZ2h3T09Tb3E2QkxVR0wxSGRqSWZDTWs?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 07:44:20 GMT",
+      "source": "WhatPhone",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "Forex Today: US Dollar rebounds ahead of critical PCE inflation data - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGJhQ1duYnhQT1JVaFRUNF80M2hTVk1MWmtKV1l5M29xaFduWElxRjctZWxBdW1YaF92ZVJqcFdicVFhSTJKZnhIU255QzRvUEF6VW1BM29nM2YwMWNENU9NUXM2LVhBckVSNHVBbm82c0gyUC1XTDRPR2dEamstcG1qYzU3V2N4ZDRQbDRwUkxvZkRGVlBJSUtkM0lQRk1WWXM4anQ3TGZvLTZnbHFEU1VKOE1VOWVQb19RLTljRVBETnNnSWFpOGJsVkVHQQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 07:12:09 GMT",
+      "source": "tmgm.com",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "DigiTech ASEAN Thailand & AI Connect 2026 เปิดฉากรวม 400 แบรนด์ดิจิทัลและ AI - TheReporterAsia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQWI3X0tDMVdoeV9Rc21DS3ljQ0hKWUItdVJyQmpaZFd1c1NTSG9xUGNoLVVaTThfRlhieDJyLUdtWVNDVWdpYzI0cmozRk0zRFMwaGxQSVR6VXlNdmZTblpmajJUSDN3OVFLQUVCeFdQazdlYmpobDdsQTVVdw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 07:04:43 GMT",
+      "source": "TheReporterAsia",
+      "category": "เทคโนโลยี/AI"
+    },
+    {
+      "title": "SYNEX กางกลยุทธ์ปี 70 รับดีมานด์ AI-Cloud รุกโซลาร์ ต่อยอดธุรกิจมาร์จิ้นสูง - ข่าวหุ้นธุรกิจออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RUUo5dkRCRkEwcU9PUTYtdm1OczVWSWpEX09keDNPQWw3eTN4ZjU2dmY0VTlOcVh4Sm5sTUZtQ3VNUDhLRzNYbDYwaw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 06:47:57 GMT",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "category": "ข่าว Synnex"
+    },
+    {
+      "title": "SCB EIC เพิ่มมุมมองเศรษฐกิจไทยเป็น 2.6% ในปี 2569 และ 2.4% ในปี 2570 - มิติหุ้น",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TZjVmWU11OTFxWktSRU9hTGVwRVBTNHpTM3lZYTZ3NXlReWVQZjdyVzlnV01HT0E1dnRfbWxBRUxLM21rQW54eC1aUkw5ZHJYYnB0cEFn?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 06:38:58 GMT",
+      "source": "มิติหุ้น",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "KKP ชี้หุ้นไทยพักฐาน ต่างชาติจ่อปิดบุ๊กล็อกกำไร 10-16% | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXFSZXhoc3FHbHdCUGRsN0duUjBnWDVWSjh1TG9NX2hsWFpMcXI0QXQ1anhYQjJ3bGllNHFwMU5RNktRamJscUFRTzFSaFZiRjBzbHpyT2ZXWEMtUWJzZmlGaUw1cVJlY0pFcVRUckxSc2JZUjk5ejZZTkZ1bGh3Mw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 05:53:30 GMT",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "หุ้นไทยพักเที่ยงร่วง 11.86 จุด ขาย GULF-DELTA-KTB - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR1dBZ29uRlBITThVSmtEMWJCeERiRzFSS091T1FZYU01djF1eGRmVFlrcHFjeHZ6X09iNi1KQXlVTE5za0FlTnJrekJvYW9KQlY2NllHdXZ6bDVW?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 05:45:13 GMT",
+      "source": "Thunhoon",
+      "category": "เศรษฐกิจไทย"
+    },
+    {
+      "title": "Gold struggles near weekly low as Fed bets and geopolitics support USD ahead of US PCE - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV3M4YkRTTTJnQ2xlNjlkdjZiLWV3RVExeHVLbm9VcWRqRER5Y1NUMlhXZUdFbUJacTI3akR0LWJpS250VWRoUjJsNDJIdExsQVJDQnNndlZNN2ViSmVEQ2VqWXR2UnFSTDJ1Sko2Z3FQZjNqVUR1a2pKYkZ0YmFjbHA4c0FQSV9zRnBCX1hoR3ZyQ3dPYVhUVjZCTHh6RHR1NDhHdVNJYmFfeURoZnZSQ08wZXpWOG1FLUJXcXZtWUoyOGNjd3RlSk1xMTMyb25jeld0dU1VcURlUFdvQnZ0OEY5d2FQUGM?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 04:22:18 GMT",
+      "source": "tmgm.com",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ฝรั่งโบกมือลาหุ้นไทย 4ปีติด - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQakZKMkFlQjZ1b25leVlYQzA4OEpyUUhnSnJ1UGlVVHFlT1lPODhPM0MyOHI1cy1Xc1VUMVdwbFFXUmZYUnRUMWJaQUFwSndLVDJPQklkdFczWWZwOVVISVZZT0tBdzJJMlVKNnF0RTQ1cHZtbm5ONE5CZU15akNOUG5PUHRCT0Voamw1MVdxLTZUaVRCb1VzWXdjYXdxV0VhMUNpNnM0alZJSlFqUlpxY1NXV1F1TzFWZWVVWG85WVVjYWtsRENZNjdzMDlEcnBPMXQySmpMdS1aZVRYN3A5M1F4LVBXSGZqS0ppOHFVMUItMkhXUnBoenliUGgtclVUV3o1QWdRZHYtSEZ5bVVVZmNwQ0pldk05TFVyVnlNaHN2d1pOa1hiMEdfZ3Y3LU5yRkNPNm1HTU9NUW4zc3MxMmpfdy1SMG5LT1p0cmtrdlh5MmRnQmFkZ3VzNjh5Um51RnAyZ0hneVI2UjRLenMtam5xb01pcGNBNUVnY0JnOXIyaUpSNGtSck1ZMWtySDNwN2JtNTZVTVc?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 03:22:10 GMT",
       "source": "Facebook",
       "category": "เศรษฐกิจไทย"
     },
     {
-      "title": "หุ้นไทยวันนี้ร่วง 2.84 จุด ขาย AOT-PTTEP ซื้อ HANA - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96OTZGRklzZk1qajlVV2FtbklpdnVGenlSRGJmVHljbW02MXNqeGpaZXcwR2lpeUt4M0Fsc0NWQjQ3cFRiWVdoc1Y0UHlaeHdKQUtDUUpJN0ktQVI4?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 10:03:37 GMT",
-      "source": "Thunhoon",
-      "category": "เศรษฐกิจไทย"
+      "title": "KTB ชี้บอนด์ยีลด์สหรัฐฯ ผันผวนขาขึ้น แนะทยอยซื้อสะสม โซน 5.30-5.35% - ข่าวหุ้นธุรกิจออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6X05hMVY2UG5vLWdYVDZKMGcwMU42MDhDZUdmTDk2ZTRfdlRXV2JzX3owX19Pa3V2NkNrdEhBR3dSb0dGa3NqclJ3TQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 02:50:20 GMT",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "category": "ตลาดโลก"
+    },
+    {
+      "title": "ค่าเงินบาท เปิดเช้านี้ 33.95 บาท/ดอลลาร์ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TM3NRaWpFNUpodjRneGVtQzlhZktmLS1JbElaLUNIU3dCMERyS2k5bkpkakk4SjVaUmFqMTRZdkFWbVJ3bk9EWF9mc1ZWbmphZFhBV0dn?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 01:47:23 GMT",
+      "source": "LINE TODAY",
+      "category": "ตลาดโลก"
     },
     {
       "title": "ราคาทองวันนี้ (24 พ.ย. 69) ปรับ 45 ครั้ง ปิดตลาด -150 บาท จับตาทิศทางทองคำ - bangkokbiznews",
@@ -79,38 +107,10 @@
       "category": "อัตราแลกเปลี่ยน"
     },
     {
-      "title": "หุ้นไทยพลิกปิดร่วง 2.84 จุด โบรกชี้แรงหนุน AI แผ่ว เจอแรงขายลดเสี่ยง กดตลาดฟื้นตัวจำกัด - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpYmhjOGotZzVEeUFXT2pWWjRhWE1Fa2R4TlowLVFSVjF3NktzVURVaE9udDlpbjVLVHlzR1NpRGE3ZWN0UDhDZVptUV8tWXMwd1h1cDF4UjJsZFNXZWpQQ2ZR?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 09:59:00 GMT",
-      "source": "bangkokbiznews",
-      "category": "เศรษฐกิจไทย"
-    },
-    {
-      "title": "\"เสียง\" บอกโรคได้ ? นักวิจัยสหรัฐฯ ใช้ AI จับสัญญาณภาวะสมองเสื่อม และโรคอัลไซเมอร์ - Thai PBS",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SVDRNRHdONjdFeWFNU1duLVhPaEVrWUN6Q1YxRUQ5c0lZN0lCZERWT1RKVTV2b3Vtenc3WDBlZm0tUElDdmk1azQ5OUp1M1RZVzFlZlJtZ0toRjFuU1ZOaG9HNDBwei1oelUtYXVoWkJxbEJyeE1ubXFUR1F0UQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 09:12:51 GMT",
-      "source": "Thai PBS",
-      "category": "เทคโนโลยี/AI"
-    },
-    {
-      "title": "ธ.กรุงไทย มองกรอบเงินบาทวันนี้ 33.85-34.10 บ./ดอลลาร์ - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGtaLVdIU1NnOUdjVVhPMEtRZ2R2MkxaXzU4WDhwdS1BUlJ6ei1pZzJVRE1QWkNhZFB0Yk1uc1kybTdLX2tpSXRoaEZWZEtDZWYweGlLajY2ZS13UzI1dWJmMlBhUjY2bGp0d3FrcElxYVItNWlRSUFlY2c3b1Vadw?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 02:42:22 GMT",
-      "source": "Thunhoon",
-      "category": "อัตราแลกเปลี่ยน"
-    },
-    {
-      "title": "โพสต์ทั้งหมด | SYNEX โบรกแนะ \"ซื้อ\" คาดกำไรไตรมาส 4 โตทั้ง QoQ และ YoY - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkekIxX1Zvd05FWTRxODE1T3p0aU1tZFBJSFJ2cjlfMUxjUllnWUZpT29DWm5RbW15aC1udEhCTE1PV1N1RUpEaGVMMGpLd0pVMXJqTHVWeUJweEo0Q2c3RjVxNC0?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 23:38:20 GMT",
-      "source": "LINE TODAY",
-      "category": "ข่าว Synnex"
-    },
-    {
-      "title": "SYNEX โบรกแนะ “ซื้อ” คาดกำไรไตรมาส 4 โตทั้ง QoQ และ YoY - Thunhoon",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kTUxuaUpxY3R1R3AwdVFaSWdRTkhiaWtucy15MDlvWHQ1OTVsQjJoLUM4Y1VwVW5tZkRPdURfcUZSNU12SGlBSlNPMnlTb2s?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:08:58 GMT",
-      "source": "Thunhoon",
+      "title": "SYNEX เดินหน้าขยายพอร์ตสินค้ามาร์จิ้นสูง รับโอกาส Solar - เทคโนโลยีใหม่ ชูบริหาร Product Mix เพิ่มศักยภาพทำกำไรต่อเนื่อง - RYT9",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rdldYTk4tOGJxTEpOZHZaRjByVXhKYnBqaDhjNXBSZ1MyMTBLNm9tQmRyd2d6a0RCcGJGNkc4cnA1UDFWLXVud215Yw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 03:33:16 GMT",
+      "source": "RYT9",
       "category": "ข่าว Synnex"
     }
   ]
